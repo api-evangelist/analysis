@@ -1,6 +1,6 @@
-title:        Analytics API
-url:          http://analytics.apievangelist.com
-logo:         https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-evangelist-logo-analytics.png
+title:        Analysis API
+url:          http://analysis.apievangelist.com
+logo:         https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-evangelist-logo-analysis.png
 logo_width:   80
 logo_bottom_padding: 10
 
@@ -17,12 +17,12 @@ paginate: 150
 paginate_path: "/blog/page:num"
 
 org: api-evangelist
-repo: analytics
+repo: analysis
 
 # Masthead title
-masthead_link: http://analytics.apievangelist.com
+masthead_link: http://analysis.apievangelist.com
 masthead_font_size: 90
-masthead_title: '{"Analytics API"}'
+masthead_title: '{"Analysis API"}'
 
 # Feature
 feature_title: API Guide
@@ -31,8 +31,8 @@ feature_image_source: https://s3.amazonaws.com/kinlane-productions/whitepapers/a
 feature_image_width: 45
 
 # Project
-project_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-analytics-2.png
-project_summary: Analyzing the growing amoutn of content and data we are generating and storing is growing more important. It is something that will need to increasingly be automated using APis. This is my work to understand the intersection of APIs and analytics. You can find news I've curated, organizations doing interesting things, some of the common building blocks I've identified, and open source tooling in this research report.
+project_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-analysis.png
+project_summary: Analyzing the growing amoutn of content and data we are generating and storing is growing more important. It is something that will need to increasingly be automated using APis. This is my work to understand the intersection of APIs and analysis. You can find news I've curated, organizations doing interesting things, some of the common building blocks I've identified, and open source tooling in this research report.
 
 # Navigation
 navigation:
@@ -120,10 +120,10 @@ footer_image_source: https://s3.amazonaws.com/kinlane-productions/footer/empower
 footer_image_width: 60
 
 # curated
-curated_desc: As I keep track on the world of APIs I curate news, blog posts, articles, and other research that I feel is relevant specifically to API analytics--these are the links I am including in my research.
+curated_desc: As I keep track on the world of APIs I curate news, blog posts, articles, and other research that I feel is relevant specifically to API analysis--these are the links I am including in my research.
 
 # organizations
-org_desc: As I keep track on the world of APIs and read through the information I am curating I keep an eye out for any company, institution, or other agency that is doing anything interesting with API analytics. These are the organizations I'm currently including in my API analytics research.
+org_desc: As I keep track on the world of APIs and read through the information I am curating I keep an eye out for any company, institution, or other agency that is doing anything interesting with API analysis. These are the organizations I'm currently including in my API analysis research.
 
 # tools
-tools_desc: These are the open source management related tooling that I am tracking on as part of my research, and can be used as part of the API analytics process.
+tools_desc: These are the open source management related tooling that I am tracking on as part of my research, and can be used as part of the API analysis process.

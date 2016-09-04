@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Analytics API Organizations
+title: Analysis API Organizations
 ---
 
-<h3>Analytics API Organizations</h3>
-<p>These are some of the analytics API services, and organizations I'm keeping an eye on.</p>
+<h3>Analysis API Organizations</h3>
+<p>These are some of the analysis API services, and organizations I'm keeping an eye on.</p>
 <table width="100%" border="0" cellpadding="3" cellspacing="2">
   {% for org in site.data.organizations %}
 
     {% assign example = 0 %}
 
     {% for tag in org.tags %}
-      {% if tag contains 'Analytics' %}
+      {% if tag contains 'Analysis' %}
         {% assign example = 1 %}
       {% endif %}
     {% endfor %}
