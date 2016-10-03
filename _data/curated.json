@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "XtVd6kpiKjmTbhbGmO01NklXLpqG6fQXi1ND123cs6LMqN116aLYVL3CotRJmvzFy0ZXF42q123jxA4CeUX7T91IeddA117117",
+		"item_date": "2016-09-26 00:00:00",
+		"title": "5 Ways IT Pros Can Smarten Up With Data Analytics",
+		"url": "http://www.cxotoday.com/story/5-ways-it-pros-can-innovate-with-data-analytics/",
+		"domain": "www.cxotoday.com",
+		"image": ""
+	},
+	{
+		"curated_id": "FHacH123koWF5Pn116Kim5J6c4DYaxKeQWV123jab2aJNXjvROAuUntmbCTd123oXXirSL123JwuNxeqJSkHGR123F6s3yk1166A117117",
+		"item_date": "2016-09-30 00:00:00",
+		"title": "Tableau API Suite Enables InApp Data Analytics Visualizations and Experiences",
+		"url": "http://www.programmableweb.com/news/tableau-api-suite-enables-app-data-analytics-visualizations-and-experiences/brief/2016/09/30",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
 		"curated_id": "1ruAL1rBLWtaKiaKY1Ierts4qlWiFRGC4LtuTD7XhJxblCIITjhKai116ijHlHdv41162Jgdj50YEirrBcNGCA3e123g117117",
 		"item_date": "2016-09-30 00:00:00",
 		"title": "25 Examples of Native Analytics Data Designs in Modern Products",
@@ -8,10 +24,34 @@
 		"image": ""
 	},
 	{
+		"curated_id": "luj1160taSAh0tkjYSdytL9kWiv2116YkpcRiuD3t7lhDFb6Pu1116t5vnOa461MnhkUcYPZbaaqUJDSjQmRku1238123wUw117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Google Apps Script Tracking addon usage with Google Analytics",
+		"url": "https://gsuite-developers.googleblog.com/2016/01/google-apps-script-tracking-add-on.html",
+		"domain": "gsuite-developers.googleblog.com",
+		"image": ""
+	},
+	{
 		"curated_id": "dpH2fK12Bn5hP23nZ123vg123123pKpnpeoixvN4dwxN69CGUcUmJD7yqPSxS7Iv2ZeKAy74BoUb2S1kiYfxu123N5nWXg117117",
 		"item_date": "2016-09-30 00:00:00",
 		"title": "Google Analytics for REST APIs",
 		"url": "https://dzone.com/articles/google-analytics-for-rest-apis",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Q2H116sDr7HWOOfml9k9Y123fmIs123y8BYy7bjELbMns116CLNqutgkFyMY2hURoU1232A3l116owVmVT0raVlwOIlTFaLJWw117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Facebooks Analytics for Apps now lets you view crossplatform metrics all in one place",
+		"url": "http://thenextweb.com/facebook/2016/09/28/facebooks-analytics-for-apps-now-supports-cross-platform-analytis/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "vUgIUVSgN1Hg2qosxZamxX9HBIqOvPaRiMNAYYKt0DBk1169Ou9gURJk4Nl6YvP6UAt6XYzw8n9xZVKjKZGpptzA117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Connecting Kinesis Analytics With AWS IoT",
+		"url": "https://dzone.com/articles/connecting-kinesis-analytics-with-aws-iot",
 		"domain": "dzone.com",
 		"image": ""
 	},
