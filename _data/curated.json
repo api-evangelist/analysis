@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "5jNWr4I5fZ7116znDD123CHzaX5fiRsv7n9116oSGILJ55HwxVhSutDD1238joOmexAAFtXNjCvbatVW7bKKBBuSECsdmA117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "Introducing Veneur high performance and global aggregation for Datadog",
+		"url": "https://stripe.com/blog/introducing-veneur-high-performance-and-global-aggregation-for-datadog",
+		"domain": "stripe.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4uFM1m2r8BGdXFLDHvkhOmZKrHF16iYIy5LV1S6isVsiWN7WwPznmwevLM6WwpBGTRq116M2BdniXHwqlP0oadZQ117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Red Lion Adds Control and Expansion Options to its Graphite Platform",
+		"url": "http://www.remotemagazine.com/main/markets/networkingtelemetry/red-lion-adds-control-and-expansion-options-to-its-graphite-platform/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "L62uW3PKzWhxU2bUGHxviwufu123MCvHIHxw3116iWPSGFnNMKm116yxgxAaA6jqMp1167WTNYUOUgE5UTqbi116pu25u1qw117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "Adobe Analytics New Features Make Powerful Insights More Accessible",
+		"url": "https://blogs.adobe.com/conversations/2016/10/adobe-analytics-new-features-make-powerful-insights-more-accessible.html",
+		"domain": "blogs.adobe.com",
+		"image": ""
+	},
+	{
+		"curated_id": "j5AxbTa9PK3VNgzVvYVuaTLNcX1rgs1236T2bO93Mp7C8F3rnSEGNoHyRZDyMint123q7wFNtOhu24AnViUXbYktkA117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Facebook Analytics for Apps brings push notifications to all businesses",
+		"url": "http://thenextweb.com/facebook/2016/10/18/facebook-analytics-apps-brings-push-notifications-businesses/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
 		"curated_id": "wRWJ4HmKOfO9XXp39d3uXXsC9pcjaylC3vw6WB1238Vi123IZYM2LouQe0811yg8SgWkscPVa116yWixOxQlWvhxWFYw117117",
 		"item_date": "2016-10-05 14:19:03",
 		"title": "Want your API analytics in your existing management information tool Tyk Pump has you covered",
