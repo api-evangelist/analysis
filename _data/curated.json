@@ -1050,7 +1050,7 @@
 	{
 		"curated_id": "AZVQcYGhkMC116b123Bhjno123NhfJjBbc3lVDE1eK116HIHJTgAC4ngEvaQAIYX0h0r116ewvRNy4123zAAjr1kRAJz09kb0w117117",
 		"item_date": "2015-06-24 00:00:00",
-		"title": "R vs PythonSurvival Analysis with Plotly",
+		"title": "",
 		"url": "http://blog.plot.ly/post/122370723857/r-vs-python-survival-analysis-with-plotly#_=_",
 		"domain": "blog.plot.ly",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-plot-lypost122370723857r-vs-python-survival-analysis-with-plotly_=_.png"
@@ -1242,7 +1242,7 @@
 	{
 		"curated_id": "OMAfHYA0dse6PsixfzDBOJG6m6f123GIdRaCwQp123gECd62l1235Np2zGtW123QkA0renRv04jSL7rMEOu0W116PFH6G7zA117117",
 		"item_date": "2015-05-18 11:55:10",
-		"title": "Keen IO Customer Story   Runscope",
+		"title": "",
 		"url": "https://www.runscope.com/customers/keen-io",
 		"domain": "www.runscope.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-runscope-comcustomerskeen-io.png"
@@ -1530,7 +1530,7 @@
 	{
 		"curated_id": "4CmPuoLgx116r4iOfIPYtYDfb8M7QbVKGuIJW5nhvkhx116123xwO116oHdph62lICpCxY4UPdT09XjFvmIrcLaD0Q2gyg117117",
 		"item_date": "2015-03-11 00:31:14",
-		"title": "A Glimpse At What I Am Imagining For API Driven Analysis Visualization And Beyond ",
+		"title": "",
 		"url": "http://apievangelist.com/2015/03/11/a-glimpse-at-what-i-am-imagining-for-api-driven-analysis-visualization-and-beyond/",
 		"domain": "apievangelist.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150311a-glimpse-at-what-i-am-imagining-for-api-driven-analysis-visualization-and-beyond.png"
@@ -1666,7 +1666,7 @@
 	{
 		"curated_id": "hFVGjCYq8hjBdvwF8tHnEDx5S7ukw2ovfA1y8lAxSzl9VIrIFJECqF9t6uf123rU0IOKw1DfrJwtzOrwFoCwBwGw117117",
 		"item_date": "2014-12-03 09:10:39",
-		"title": "ToDo  ropensciwebservices Wiki  GitHub",
+		"title": "",
 		"url": "https://github.com/ropensci/webservices/wiki/ToDo",
 		"domain": "github.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/github-comropensciwebserviceswikitodo.png"
@@ -2090,7 +2090,7 @@
 	{
 		"curated_id": "p3WvPb6aSpIidFGHdt116EVwVdSFwJiN116ninmQcDPNga8l7MsEyvVPdYtjVE63qNMvW6pJsBlCjahCqt87LivQEw117117",
 		"item_date": "2014-07-01 00:00:00",
-		"title": "A Major Milestone  AnnouncingOur Partnership with Sequoia Capital",
+		"title": "",
 		"url": "http://keenio.tumblr.com/post/90461717436/a-major-milestone-announcing-our-partnership#_=_",
 		"domain": "keenio.tumblr.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/keenio-tumblr-compost90461717436a-major-milestone-announcing-our-partnership-with_=_.png"
@@ -2923,7 +2923,7 @@
 		"curated_id": "P116RC81fLFwoVc8copqDZl8uwu123AsrJBetFdj8dD123ZwptPj123Ws7vxbRixTxw8KU8YoW0qo2fmXoZA123gKfaYkPhg117117",
 		"item_date": "2013-08-01 00:00:00",
 		"title": "Ready to Go Shopping Diffbots Product API Parses Product Data",
-		"url": "http://www.programmableweb.com/news/ready-to-go-shopping-diffbotu2019s-product-api-parses-product-data/2013/08/01",
+		"url": "http://www.programmableweb.com/news/ready-to-go-shopping-diffbot?s-product-api-parses-product-data/2013/08/01",
 		"domain": "www.programmableweb.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/blog-programmableweb-com20130801ready-to-go-shopping-diffbot%e2%80%99s-product-api-parses-product-data.png"
 	},
@@ -3403,7 +3403,7 @@
 		"curated_id": "qkIvtWG8CN9UWzCdGqzvOHrzdgnV1235CSSmdyt2TSbu1yNVLiIG123WB5v6N4SrqLbyfNB2utQ5sqPTUwEkBduPxw117117",
 		"item_date": "2013-07-10 00:00:00",
 		"title": "Dropboxs New Datastore API Lets ThirdParty Apps Sync Data",
-		"url": "http://www.programmableweb.com/news/dropboxu2019s-new-datastore-api-lets-third-party-apps-sync-data/2013/07/10",
+		"url": "http://www.programmableweb.com/news/dropbox?s-new-datastore-api-lets-third-party-apps-sync-data/2013/07/10",
 		"domain": "www.programmableweb.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/blog-programmableweb-com20130710dropboxs-new-datastore-api-lets-third-party-apps-sync-data.png"
 	},
@@ -3459,7 +3459,7 @@
 		"curated_id": "vmPCx6e59TBghQw4mK6Dtj4kWafGCbvPVdMHjsr4w6V3Uz5B8sCA6CkX831162Oo7fjvPydGSte4ACOcLEi5n4Lw117117",
 		"item_date": "2013-07-09 00:00:00",
 		"title": "Using Crime Data via APIs for Good or Evil",
-		"url": "http://www.programmableweb.com/news/using-crime-data-apis-goodu2026-or-evil/2013/07/09",
+		"url": "http://www.programmableweb.com/news/using-crime-data-apis-good?-or-evil/2013/07/09",
 		"domain": "www.programmableweb.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/blog-programmableweb-com20130709using-crime-data-via-apis-for-good-or-evil.png"
 	},
@@ -4931,7 +4931,7 @@
 		"curated_id": "70E1XR7uOvIcMwGXGHzOc1Lthw9k4WWV5Ath9BO6jVGkyVHAfm116UTcgAP9wKfvAaTuLK7nsS93J6abNSn1mqgg117117",
 		"item_date": "2013-05-07 00:00:00",
 		"title": "What Makes a Good Developer Portal  The Story of DocuSign DevCenter",
-		"url": "http://www.programmableweb.com/news/what-makes-good-developer-portal-u2013-story-docusign-devcenter/how-to/2013/05/07",
+		"url": "http://www.programmableweb.com/news/what-makes-good-developer-portal-?-story-docusign-devcenter/how-to/2013/05/07",
 		"domain": "www.programmableweb.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/8412_blog_programmableweb_com.png"
 	},
