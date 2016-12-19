@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "eCC29123TIVNtYsa3q75n12316NOVVH5ITXkk6eiW123ePaXhwVdfcDrowVzlUjgkTyQoNE0xAd7X123w7l3tSj9P8dXYw117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "Buyers Beware Data Visualization Is Not Data Analytics",
+		"url": "https://dzone.com/articles/buyers-beware-data-visualization-is-not-data-analy",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "dPqkv1HW4T61ZwNvC0RWwn7116aoETrbRt1NV6S2lmxC61234wJS53Cw8t0yxxm0DUGWn9VGm11RBb3s35hJRSvBcA117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "GameAnalytics SDK for Microsoft UWP Released",
+		"url": "https://blogs.windows.com/buildingapps/2016/12/15/gameanalytics-sdk-microsoft-uwp-released/",
+		"domain": "blogs.windows.com",
+		"image": ""
+	},
+	{
+		"curated_id": "lXVRGLQcA5pzijnyltr022vOWBBHGP5zo8Y0G37sK4t5DacI4tmSA1NiCtLmu2b3jUHi8kAzssA0gVHQ7xE1161g117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "Pirate Metrics Go Viral With Firebase",
+		"url": "https://firebase.googleblog.com/2016/12/pirate-metrics-go-viral-with-firebase.html",
+		"domain": "firebase.googleblog.com",
+		"image": ""
+	},
+	{
 		"curated_id": "5jNWr4I5fZ7116znDD123CHzaX5fiRsv7n9116oSGILJ55HwxVhSutDD1238joOmexAAFtXNjCvbatVW7bKKBBuSECsdmA117117",
 		"item_date": "2016-10-17 00:00:00",
 		"title": "Introducing Veneur high performance and global aggregation for Datadog",
