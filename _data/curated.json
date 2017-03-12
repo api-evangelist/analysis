@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "YpzPwf116gj2wUpHIKyEo5cLOP2kupvKZrA0Q3le6RE4jbcHg116SgCjJEiy4x7oEchG0bn116m48Wgv1F32zI116cy7cA117117",
+		"item_date": "2017-03-06 00:00:00",
+		"title": "Metrics and Tracking for Data Systems",
+		"url": "https://www.indix.com/blog/developer/metrics-and-tracking-for-data-systems/",
+		"domain": "www.indix.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2tf116c7kqAEmhBI3zWmhMDVhba3MV7jyyZIJOBZ6ZBk116FNmjf6UWc116w1xqcp22dC6PrnfCHOY8FUIxtbUIrTTyw117117",
+		"item_date": "2017-03-07 00:00:00",
+		"title": "How the exCTO of The Onion decided to build vs buy analytics infrastructure",
+		"url": "http://keenio.tumblr.com/post/158133461886/interview-with-michael-greer-cto-tapp-tv-the#_=_",
+		"domain": "keenio.tumblr.com",
+		"image": ""
+	},
+	{
+		"curated_id": "y7116o1nWJ5116vdgG2nBeqKxuKoMBanQHcuUo2odmTW5twDw3DnbI6NyxkknJsZEiamtZqaNsOZ0NWJCmdKZBVQJA117117",
+		"item_date": "2017-03-09 00:00:00",
+		"title": "Google adds new data analytics and database offerings",
+		"url": "http://www.zdnet.com/article/google-adds-new-data-analytics-and-database-offerings/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ffEKICCsBm123EFF9mQiaO3ZYB9m5u45CT7gx1LtmYO1sjmMtL123fCBLkBmow123AN7VyQyzn2dWkkMqZiUkJ6tq77w117117",
+		"item_date": "2017-03-06 00:00:00",
+		"title": "Text And Geospatial Analytics Bring Growth And Innovation To Business Intelligence And Analytics Tools",
+		"url": "http://blogs.forrester.com/jennifer_adams/17-03-06-text_and_geospatial_analytics_bring_growth_and_innovation_to_business_intelligence_and_analytics_to",
+		"domain": "blogs.forrester.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ImhCyldFg1166KFOWdzTlDmZ4gA2kKEILOjTfLMyvNo4DfuvZ123cKJWs1EpJg3hUniqYz5zjFO4OoFvv3kCcA116mbQ117117",
+		"item_date": "2017-03-06 00:00:00",
+		"title": "Update on Apache Spot Tremendous advancement in cybersecurity data analytics and event management capabilities",
+		"url": "https://ctovision.com/update-apache-spot-tremendous-advancement-cybersecurity-data-analytics-event-management-capabilities/",
+		"domain": "ctovision.com",
+		"image": ""
+	},
+	{
 		"curated_id": "DS0ccvtr9GoT1236IKh9ed43Kqgb0lvKdfw9123jErGP2DAa0F63pcS4v0eGAyj1EIYjAJSJ0dNyZUku6ntqOEoYbA117117",
 		"item_date": "2017-03-04 15:31:08",
 		"title": "Prophet  Prophet",
