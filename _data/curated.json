@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "Vj7VezgwV1XAd58AS87TRFda123of9wvir7upFkdwHNH9B116ZkQ5fZsIjFBYsJTH3nzd3PD4em123Rqjx5L116123116Vif9A117117",
+		"item_date": "2017-03-23 00:00:00",
+		"title": "Domo Extends Reach of Cloud Analytics Service",
+		"url": "http://www.itbusinessedge.com/blogs/it-unmasked/domo-extends-reach-of-cloud-analytics-service.html",
+		"domain": "www.itbusinessedge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "w0Q5H1pfQe3U5EZRXa116cEytd6LS6116HV2Ou7JB2116m5Wra123BEYYa3q73JLuePsNWLTwg7djImxQwwalgVBckMKmQ117117",
+		"item_date": "2017-03-20 00:00:00",
+		"title": "Foursquare is launching an analytics platform to help retailers understand foot traffic",
+		"url": "https://techcrunch.com/2017/03/20/foursquare-is-launching-an-analytics-platform-to-help-retailers-understand-foot-traffic/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ckG9UX2312339bC0hMFAivFeeQFFQwPK7cO7CxvZIT90cCLNWMVJImb13O1ydtczhW01PlWdemoZSGxEtw9DjLaA117117",
+		"item_date": "2017-03-21 00:00:00",
+		"title": "Hootsuite buys Snapchat analytics platform from Naritiv",
+		"url": "http://www.zdnet.com/article/hootsuite-buys-snapchat-analytics-platform-from-naritiv/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
 		"curated_id": "M5S0nJQTTDZrbue1vbwjeM0QIhP0cbqPaDlPDwFn2U9123RVrIIE86hGz767F116HUUlUKyCfzdap1jMaWJjXorkDA117117",
 		"item_date": "2017-03-15 00:00:00",
 		"title": "Why Civic Analytics",
@@ -1360,6 +1384,30 @@
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-itbusinessedge-comblogsit-unmaskedaccenture-launches-analytics-cloud-html.png"
 	},
 	{
+		"curated_id": "JPsk1Kr9hAUZ4K4yHrLTG123TYz1bHxU6fnrBBIIM3B37bc199uc123E2NXaDWhRO7K2Azn74QHcmQcDUiT4123Uamwg117117",
+		"item_date": "2015-07-06 00:00:00",
+		"title": "At long last Metrics R Us",
+		"url": "http://www.apiman.io/blog/api-manager/service/ui/metrics/2015/07/06/metrics.html",
+		"domain": "www.apiman.io",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-apiman-ioblogapi-managerserviceuimetrics20150706metrics-html.png"
+	},
+	{
+		"curated_id": "c9aw0KOZY6WhdrXNDEmuEdO9lNTQlOgZv0Hi2LQPGTVti8jb123IsI123SfHbTq0yTZE6WWlcsaU8S116B1YJPSL123WAA117117",
+		"item_date": "2015-07-06 13:05:40",
+		"title": "WSO2 Guest Webinar Building Enterprise Awareness with API Analytics in the API Economy   WSO2 Inc",
+		"url": "http://wso2.com/library/webinars/2015/07/building-enterprise-awareness-with-api-analytics-in-the-api-economy/",
+		"domain": "wso2.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/wso2-comlibrarywebinars201507building-enterprise-awareness-with-api-analytics-in-the-api-economy.png"
+	},
+	{
+		"curated_id": "ONVFcaW6NWfnxVAloXFKxX1162jqf9GZdZj2K123tjH7WxHlXcbOOUcyWmO34MlEXhHDNxaQ1yCFJqNALVhGG5HiDg117117",
+		"item_date": "2015-07-01 00:00:00",
+		"title": "Launching Envision for API Analytics",
+		"url": "https://blog.akana.com/launching-envision-for-api-analytics/",
+		"domain": "blog.akana.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-akana-comlaunching-envision-for-api-analytics.png"
+	},
+	{
 		"curated_id": "FvYBPwp123hE8P0LM9c80Ahl9mWsrnawhuu116NGLB0hzZe6KTv3f116TALTP6fPUQui4bnz123Te5HrImqyyhJ123JhjiLw117117",
 		"item_date": "2015-06-29 00:00:00",
 		"title": "DigitalGov Podcast DAP Delivers Data for 4000 Websites",
@@ -1664,6 +1712,30 @@
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-twilio-comblog201505introducing-monitor-use-twilio-data-like-never-before-html.png"
 	},
 	{
+		"curated_id": "116wZr8ll6egbE3a814t3VLoHDZ2RapEy78YvwwKYvUhRoNzEo2FEGqylSjHzQmwbOuZrdyQWVSub21NDkIeg123KA117117",
+		"item_date": "2015-04-28 00:00:00",
+		"title": "Improved Varnish Custom Statistics  now with UI",
+		"url": "https://www.varnish-software.com/blog/improved-varnish-custom-statistics-now-ui",
+		"domain": "www.varnish-software.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-varnish-software-comblogimproved-varnish-custom-statistics-now-ui.png"
+	},
+	{
+		"curated_id": "87ITLHZPvywdM8hkLW8HENw3lDKVYPDIFl8vHuT4zIX4EqkXAyJWmUm8BoVGKZMvP9ivLIb1d1239TepHQgQgs7g117117",
+		"item_date": "2015-04-28 00:00:00",
+		"title": "Two Years of xAPI",
+		"url": "http://makingbetter.us/2015/04/two-years-of-xapi/",
+		"domain": "makingbetter.us",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/makingbetter-us201504two-years-of-xapi.png"
+	},
+	{
+		"curated_id": "7J1JQc3g1yQoF116TRWb123f4MR1rGKOTBCzVEOwiBk1WDnLAcZfUYJv1ae76123OfHlww3J1SnllSUqeCBYaR3I9T116g117117",
+		"item_date": "2015-04-28 00:00:00",
+		"title": "Introducing Email Analytics",
+		"url": "http://blog.gumroad.com/post/117636103548/emailanalytics1#_=_",
+		"domain": "blog.gumroad.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-gumroad-compost117636103548emailanalytics1_=_.png"
+	},
+	{
 		"curated_id": "omwAsZWEUGlj1X0TeOlc8F1vRuMUTKOD9C6cbFm9fApdJc5J4Ayg6pW123KmrUOQJJ47A3PmvTmDwFaGBn62Juuw117117",
 		"item_date": "2015-04-30 00:00:00",
 		"title": "Introducing Pushpop for Slack push your analytics data to Slack",
@@ -1686,6 +1758,14 @@
 		"url": "http://www-03.ibm.com/press/us/en/pressrelease/46736.wss",
 		"domain": "www-03.ibm.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-03-ibm-compressusenpressrelease46736-wss.png"
+	},
+	{
+		"curated_id": "6HDvcIj6jcCYScROtjGVyHZyhUSKE6aZfISp116Pacn55vJNzwVf12304QuBl7B8EvhAx2Ag0zRHpD4pbRl938aTGA117117",
+		"item_date": "2015-04-28 08:41:02",
+		"title": "Success vs Failure  The Importance of API Metrics",
+		"url": "http://nordicapis.com/success-vs-failure-the-importance-of-api-metrics/",
+		"domain": "nordicapis.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comsuccess-vs-failure-the-importance-of-api-metrics.png"
 	},
 	{
 		"curated_id": "ydSx3bRy1N9C2t116lVetLYF1165DztBudQvMbJP6yBqqWeUuSvRszhOQ116iIo1Fr6SGcCwSSGM2ZjHH40Cm1SK1ytw117117",
@@ -1864,9 +1944,25 @@
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-codeproject-comarticles881360collecting-and-analyzing-car-telematics-using-azur.png"
 	},
 	{
+		"curated_id": "KUr8HgSI5YEVm123ZqU46116ro9xjvYzcu8d54vgbi0HGKRJbuNROdeWYTyRl116sAvGB4NP9VKlWZfZck116M5x3RVcPA117117",
+		"item_date": "2015-03-10 19:28:36",
+		"title": "Frontline Systems RASON Modeling Language and REST API Make Advanced Analytics Easy in Web and Mobile Applications",
+		"url": "http://api.report/2015/03/10/frontline-systems-rason-modeling-language-and-rest-api-make-advanced-analytics-easy-in-web-and-mobile-applications/",
+		"domain": "api.report",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/api-report20150310frontline-systems-rason-modeling-language-and-rest-api-make-advanced-analytics-easy-in-web-and-mobile-applications.png"
+	},
+	{
 		"curated_id": "4CmPuoLgx116r4iOfIPYtYDfb8M7QbVKGuIJW5nhvkhx116123xwO116oHdph62lICpCxY4UPdT09XjFvmIrcLaD0Q2gyg117117",
 		"item_date": "2015-03-11 00:31:14",
 		"title": "",
+		"url": "http://apievangelist.com/2015/03/11/a-glimpse-at-what-i-am-imagining-for-api-driven-analysis-visualization-and-beyond/",
+		"domain": "apievangelist.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150311a-glimpse-at-what-i-am-imagining-for-api-driven-analysis-visualization-and-beyond.png"
+	},
+	{
+		"curated_id": "1no5zkEobZxkBXMdHh8Ze48fb6NvUtMeoFY47QIDprdoSAhUtDfp0GOxJOIzZNljQ9L0OcjL386aSpvF6pJGaQ117117",
+		"item_date": "2015-03-10 00:00:00",
+		"title": "A Glimpse At What I Am Imagining For API Driven Analysis Visualization And Beyond",
 		"url": "http://apievangelist.com/2015/03/11/a-glimpse-at-what-i-am-imagining-for-api-driven-analysis-visualization-and-beyond/",
 		"domain": "apievangelist.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150311a-glimpse-at-what-i-am-imagining-for-api-driven-analysis-visualization-and-beyond.png"
@@ -1886,6 +1982,14 @@
 		"url": "http://blogs.splunk.com/2015/03/10/introducing-splunk-light/",
 		"domain": "blogs.splunk.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-splunk-com20150310introducing-splunk-light.png"
+	},
+	{
+		"curated_id": "MD07vDYgOSfjrgJAtVKnmEnGPsRCxPYP9XKLKs9N84AB5OrALP116Tc2wTEVS8UtgkME0gWYp116d0IZFnEfCpBHRA117117",
+		"item_date": "2015-03-10 00:00:00",
+		"title": "Modeling Language and REST API Make Advanced Analytics Easy in Web",
+		"url": "http://www.virtual-strategy.com/2015/03/10/frontline-systems%E2%80%99-rason%E2%84%A2-modeling-language-and-rest-api-make-advanced-analytics-easy-web",
+		"domain": "www.virtual-strategy.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-virtual-strategy-com20150310frontline-systems-rason-modeling-language-and-rest-api-make-advanced-analytics-easy-web.png"
 	},
 	{
 		"curated_id": "8ze9f123PgyqREe2sT3TkidCq9NB9c6t2Zfc727wCOGub2ETocGXPzcdEtiMuHF21168fOuK2NlPntEui94nC5P5xQ117117",
