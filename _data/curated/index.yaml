@@ -1,8 +1,3653 @@
 ---
-- curated_id: b1ae861d2d88ca390f93ca03310dc864
-  item_date: "2012-04-21 12:49:06"
-  title: Why Startups Need an API
-  url: https://tune.com/blog/startups-need-api/
-  domain: tune.com
+- curated_id: 5704e1cac94d38a4c9a840993b3ed51d
+  item_date: "2012-05-16 10:09:39"
+  title: AllFacebook Stats Releases API
+  url: http://www.adweek.com/socialtimes/allfacebook-stats-api/392245
+  domain: www.adweek.com
+  image: ""
+- curated_id: d216855b512b289876083b24b32310a5
+  item_date: "2012-06-05 11:29:41"
+  title: Prelert Announces Open API Support for SQL
+  url: http://www.sfgate.com/cgi-bin/article.cgi
+  domain: www.sfgate.com
+  image: ""
+- curated_id: 2ae3fb8ea0c2594832544baf738fa259
+  item_date: "2012-06-27 00:00:00"
+  title: Google Doubles Down on Messaging
+  url: http://urbanairship.com/blog/google-doubles-down-on-messaging
+  domain: urbanairship.com
+  image: ""
+- curated_id: 53143beb6014759e0bc5859a27ddddf9
+  item_date: "2012-07-02 00:00:00"
+  title: The ThingSpeak API now has a Ruby Gem, code on GitHub too
+  url: http://community.thingspeak.com/2012/07/the-thingspeak-api-now-has-a-ruby-gem-code-on-github-too/
+  domain: community.thingspeak.com
+  image: ""
+- curated_id: 71853a477372c2658c2623dd2899a54c
+  item_date: "2012-07-03 00:00:00"
+  title: Google Analytics is a home run ? 62% of the top sites use it
+  url: http://royal.pingdom.com/2012/07/03/google-analytics-market-share/
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: 797060459a9f5d027b78e54c81c1c7c6
+  item_date: "2012-08-09 00:00:00"
+  title: Announcing PhoneGap Library
+  url: http://urbanairship.com/blog/announcing-phonegap-library
+  domain: urbanairship.com
+  image: ""
+- curated_id: 1644f569ba1d47a62198ba66642f4966
+  item_date: "2012-10-10 00:00:00"
+  title: Pinterest Surpasses Tumblr In Unique Visitors
+  url: https://blog.compete.com/2012/10/10/pinterest-surpasses-tumblr-in-unique-visitors/
+  domain: blog.compete.com
+  image: ""
+- curated_id: e1a65ee731e2cb6c5c1633669234d830
+  item_date: "2012-11-07 00:00:00"
+  title: Big Data is the New Black of Tech Trends and It?s Revolutionizing our Healthcare
+    System
+  url: http://www.cision.com/us/2012/11/big-data-is-the-new-black-of-tech-trends-and-its-revolutionizing-our-healthcare-system/
+  domain: www.cision.com
+  image: ""
+- curated_id: 98adb36c9c176a2af122dbfe6ba629da
+  item_date: "2012-12-06 00:00:00"
+  title: Advanced Analytics in Zendesk
+  url: https://www.zendesk.com/blog/advanced-analytics-in-zendesk
+  domain: www.zendesk.com
+  image: ""
+- curated_id: f1225b31465a8d3348c4da29bd59d2d9
+  item_date: "2013-01-08 00:00:00"
+  title: Big News About the Compete API
+  url: https://blog.compete.com/2013/01/09/big-news-about-the-compete-api/
+  domain: blog.compete.com
+  image: ""
+- curated_id: 68bd58c013a293b7ed57fe98cdfb5363
+  item_date: "2013-01-10 00:00:00"
+  title: SendGrid?s Integration with Keen IO Gives Developers Access to Powerful Analytics
+    APIs
+  url: https://sendgrid.com/sendgrids-integration-with-keen-io-gives-developers-access-to-powerful-analytics-apis/
+  domain: sendgrid.com
+  image: ""
+- curated_id: 5584c63369ebfcde1cb40b4bcc30fe92
+  item_date: "2013-01-16 00:00:00"
+  title: 'Instagram Upset: Are marketers taking user-generated content for granted?'
+  url: https://blog.compete.com/2013/01/16/instagram-upset-are-marketers-taking-user-generated-content-for-granted/
+  domain: blog.compete.com
+  image: ""
+- curated_id: b2483c1a41906153d29a83c446bed7a3
+  item_date: "2013-01-25 15:29:58"
+  title: YC-Backed Segment.io Lets Developers Integrate With Multiple Analytics Providers
+    In Hours, Not Weeks
+  url: https://techcrunch.com/2013/01/25/yc-backed-segment-io-lets-developers-integrate-with-multiple-analytics-providers-in-hours-not-weeks/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 8fdf4fb139ce818e44c4f44bc7aebc36
+  item_date: "2013-01-30 09:24:18"
+  title: Science as a service - OReilly Radar
+  url: http://radar.oreilly.com/2013/01/science-as-a-service.html
+  domain: radar.oreilly.com
+  image: ""
+- curated_id: aa1726c1911b4fc3bc45a3d3178483f8
+  item_date: "2013-01-31 09:20:44"
+  title: UserVoice to Discuss How App Analytics Can Provide Critical Insight to Transform
+    User Experience at DeveloperWeek 2013
+  url: http://www.marketwired.com/press-release/uservoice-discuss-how-app-analytics-can-provide-critical-insight-transform-user-1751733.htm
+  domain: www.marketwired.com
+  image: ""
+- curated_id: 2afb34136c86f913d350ff0db5b3a084
+  item_date: "2013-02-03 00:00:00"
+  title: New Testing Options for App Developers
+  url: http://analyticalpath.com/news/
+  domain: analyticalpath.com
+  image: ""
+- curated_id: 82bbc9cb4f116a0c1e2f4bb5a5c352cf
+  item_date: "2013-02-05 13:10:14"
+  title: Investing in the open data economy - OReilly Radar
+  url: http://radar.oreilly.com/2013/02/gavin-starks-open-data-institute.html
+  domain: radar.oreilly.com
+  image: ""
+- curated_id: 74c6696b1ca225aaae8ad5fe11abca5f
+  item_date: "2013-02-19 00:00:00"
+  title: 'Ducksboard for Twilio: A New Way To Monitor Your Twilio Metrics'
+  url: https://www.twilio.com/blog/2013/02/ducksboard-for-twilio-a-new-way-to-monitor-your-twilio-metrics.html
+  domain: www.twilio.com
+  image: ""
+- curated_id: ba7d7d47e953b0ab1625f45acf670e52
+  item_date: "2013-03-04 17:21:29"
+  title: The Future of Data Visualization Tools | Visual.ly Blog
+  url: http://www.scribblelive.com/blog/2013/03/04/the-future-of-data-visualization-tools/
+  domain: www.scribblelive.com
+  image: ""
+- curated_id: 9590a84884d350f72ee9db6fa7e97b35
+  item_date: "2013-03-04 23:06:23"
+  title: 'ImpactStory: tell the full story of your research impact'
+  url: https://impactstory.org/
+  domain: impactstory.org
+  image: ""
+- curated_id: c693fee31cb29b16fc861c43590dae28
+  item_date: "2013-03-05 10:12:37"
+  title: The money of big data is in analytics
+  url: https://dendory.net/
+  domain: dendory.net
+  image: ""
+- curated_id: 6b195336d2c778fc62611c1e4226ded4
+  item_date: "2013-03-06 00:00:00"
+  title: Streaming Data, Aggregated Queries, Real-Time Dashboards
+  url: http://blog.infochimps.com/2013/03/06/streaming-data-aggregated-queries-real-time-dashboards/
+  domain: blog.infochimps.com
+  image: ""
+- curated_id: 43597afdc682458fcc8e000a9f535009
+  item_date: "2013-03-06 12:39:56"
+  title: BigML - Machine Learning Made Easy
+  url: https://bigml.com/
+  domain: bigml.com
+  image: ""
+- curated_id: 01b88b32d9bab175d578b5e1738ccee4
+  item_date: "2013-03-14 00:00:00"
+  title: 'Data Snapshot: Mobile OS versions ? Android and iOS'
+  url: https://blog.mixpanel.com/2013/03/14/data-snapshot-mobile-os-versions-android-and-ios/
+  domain: blog.mixpanel.com
+  image: ""
+- curated_id: 007d01df9d1b41063f4f03d3778fbfe0
+  item_date: "2013-03-15 00:00:00"
+  title: Wrike?s API Helps a Marketing Team Create Custom Reports Automatically
+  url: https://www.wrike.com/blog/03/15/2013/wrike-api-helps-marketing-team-create-custom-reports-automatically/
+  domain: www.wrike.com
+  image: ""
+- curated_id: 18c676804cc2504df8762d6503aa49bb
+  item_date: "2013-03-18 00:00:00"
+  title: 'Introducing Push Analytics: Improved Insight into Push Campaigns'
+  url: http://blog.parse.com/announcements/introducing-push-analytics-improved-insight-into-push-campaigns/
+  domain: blog.parse.com
+  image: ""
+- curated_id: 91c18db3560ed5f42eb9c0fff8bb8fa8
+  item_date: "2013-03-22 21:46:11"
+  title: Google Opens Universal Analytics Beta To All, Brings Analytics To More Devices
+    And Online/Offline Interactions
+  url: https://techcrunch.com/2013/03/22/google-opens-universal-analytics-beta-to-all-creates-a-single-analytics-platform-for-tracking-online-and-offline-interactions/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 3e44a6f305d2b438a409a955fdc65d50
+  item_date: "2013-03-27 00:00:00"
+  title: PeopleLinx Leverages LinkedIn APIs to Deliver Analytics App
+  url: http://www.programmableweb.com/news/peoplelinx-leverages-linkedin-apis-to-deliver-analytics-app/2013/03/27
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5d7c9704ec79bc6b422ced64162d80f3
+  item_date: "2013-04-02 00:00:00"
+  title: 'Trends: Helping the world learn from data'
+  url: https://blog.mixpanel.com/2013/04/02/trends-helping-the-world-learn-from-data/
+  domain: blog.mixpanel.com
+  image: ""
+- curated_id: ab0584a79989174ef34632468357c932
+  item_date: "2013-04-09 00:00:00"
+  title: Panic Status Board
+  url: http://panic.com/statusboard/
+  domain: panic.com
+  image: ""
+- curated_id: cc1c3ccec1df0255245095d45163bc97
+  item_date: "2013-04-09 00:00:00"
+  title: 'Release Update: The new Apiphany Analytics System is here!'
+  url: https://azure.microsoft.com/en-us/services/api-management/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: 3ed2dce28476af97bd88c7d921a8a42c
+  item_date: "2013-04-12 00:00:00"
+  title: Schmap Takes A Deeper Dive Into Twitter Audience Data With Demographics Pro
+  url: https://techcrunch.com/2013/04/12/schmap-launches-demographics-pro/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 0ca9925c9b086048b1e578a5e5681ac7
+  item_date: "2013-04-13 00:00:00"
+  title: 'API Spotlight: MobStac, Crittercism, and Push Entertainment APIs'
+  url: http://www.programmableweb.com/news/api-spotlight-mobstac-crittercism-and-push-entertainment-apis/2013/04/13
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: a4d6d51d5083abeac49c9d5d924d108c
+  item_date: "2013-04-15 00:00:00"
+  title: YC-Backed Heap Takes On Google With Their Modern Take On Analytics
+  url: https://techcrunch.com/2013/04/15/yc-backed-heap-takes-on-google-with-a-modern-take-on-analytics/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 09898ef78959a0cb2a18c6f41b5267d1
+  item_date: "2013-04-15 00:00:00"
+  title: 'Contactually API: Keeping In Touch With The Most Important People In Your
+    Business ? The Customers'
+  url: http://www.programmableweb.com/news/contactually-api-keeping-touch-most-important-people-your-business-customers/2013/04/15
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f2d918546db9987c72e4fd47736c9e2e
+  item_date: "2013-04-15 00:00:00"
+  title: Going the Distance with Walkscore?s Travel Time API
+  url: http://www.programmableweb.com/news/going-distance-walkscores-travel-time-api/2013/04/15
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 62077a62aac352a64633ef3eb3211b05
+  item_date: "2013-04-15 00:00:00"
+  title: 'Today in APIs: athenahealth Partners with Mashery, Nevatech?s Upgraded API
+    Support, and 3 New APIs'
+  url: http://www.programmableweb.com/news/today-apis-athenahealth-partners-mashery-nevatechs-upgraded-api-support-and-3-new-apis/2013/04/15
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: bad3b4ce27ca79f31b75867e15383991
+  item_date: "2013-04-16 00:00:00"
+  title: Leftronic API V2 Preview
+  url: https://www.leftronic.com/leftronic-api-v2-preview-93021
+  domain: www.leftronic.com
+  image: ""
+- curated_id: c8642725a56b8c738a0b3c48e5ee87c7
+  item_date: "2013-04-16 00:00:00"
+  title: Every Cloud Service Needs an API Product Manager
+  url: http://www.programmableweb.com/news/every-cloud-service-needs-api-product-manager/2013/04/16
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 057dfb08dc04dcd3f7e0fc4983b4f5a8
+  item_date: "2013-04-16 00:00:00"
+  title: Kippt Launches Open API with Developer Site and App Gallery
+  url: http://www.programmableweb.com/news/kippt-launches-open-api-developer-site-and-app-gallery/2013/04/16
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5e1df35eca051bad569ddf2166e0f7dd
+  item_date: "2013-04-16 00:00:00"
+  title: 'Today in APIs: Google Mirror API, Evernote Accelerator Program, and 40 New
+    APIs'
+  url: http://www.programmableweb.com/news/today-apis-google-mirror-api-evernote-accelerator-program-and-40-new-apis/2013/04/16
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 09629582148ca3e1ff72316818497d14
+  item_date: "2013-04-17 00:00:00"
+  title: RentPaidOnline Releases Partner API Providing Expanded Rent Payment Options
+    to Property Managers and Renters
+  url: http://www.programmableweb.com/news/rentpaidonline-releases-partner-api-providing-expanded-rent-payment-options-to-property-managers-and-renters/2013/04/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b77c8ec6ad833aeb9997ad7609659c5a
+  item_date: "2013-04-17 00:00:00"
+  title: Sync and Migrate Data Across Apps and Platforms with FoxWeave API
+  url: http://www.programmableweb.com/news/sync-and-migrate-data-across-apps-and-platforms-foxweave-api/2013/04/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 0d2f4e442359bf0fd76a890461f0c55f
+  item_date: "2013-04-17 00:00:00"
+  title: 'Wattpad API: A Social Platform For Storytellers'
+  url: http://www.programmableweb.com/news/wattpad-api-social-platform-storytellers/2013/04/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b8964fb19e65897109d797898f445aee
+  item_date: "2013-04-17 00:00:00"
+  title: Integration in the Age of Big Data
+  url: http://www.programmableweb.com/news/integration-age-big-data/2013/04/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: ed1457fc9f8126a4308eb2407302151e
+  item_date: "2013-04-17 00:00:00"
+  title: 'Nordic APIs: The Business and Technology of APIs'
+  url: http://www.programmableweb.com/news/nordic-apis-business-and-technology-apis/2013/04/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: dd58b4a1a0f1052c2bf37339c3e94e4b
+  item_date: "2013-04-18 00:00:00"
+  title: 'The Navionics Mapping API: For Life Where the Road Ends'
+  url: http://www.programmableweb.com/news/navionics-mapping-api-life-where-road-ends/2013/04/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 6dc9e5df50243003363ae94d82ddd1f2
+  item_date: "2013-04-18 00:00:00"
+  title: 'Today in APIs: Intel Buys Mashery, Appy Pie Ex-beta, and 7 New APIs'
+  url: http://www.programmableweb.com/news/today-apis-intel-buys-mashery-appy-pie-ex-beta-and-7-new-apis/2013/04/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 4da4c13b9fd0150e1617451f1d269c89
+  item_date: "2013-04-18 00:00:00"
+  title: NodePing API Enables Server and Website Monitoring from 3rd Party Apps
+  url: http://www.programmableweb.com/news/nodeping-api-enables-server-and-website-monitoring-3rd-party-apps/2013/04/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 2cd0fafb6fa560355f464e15f95851ca
+  item_date: "2013-04-18 00:00:00"
+  title: 'Don?t Send Mails In Vain: Email Pie API Let?s You Know What Is Legit'
+  url: http://www.programmableweb.com/news/dont-send-mails-vain-email-pie-api-lets-you-know-what-legit/2013/04/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 8c221ec5497af0ca0d0f6a5bd4687bd0
+  item_date: "2013-04-18 00:00:00"
+  title: Google Mirror API documentation is open for developers
+  url: http://www.programmableweb.com/news/google-mirror-api-documentation-open-developers/2013/04/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b72dab97949048a893dcbb1542e23241
+  item_date: "2013-04-18 00:00:00"
+  title: Evernote Launches Accelerator, Month-Long Mentorship Program for Most Talented
+    2013 Devcup Competition Developers
+  url: http://www.programmableweb.com/news/evernote-launches-accelerator-month-long-mentorship-program-most-talented-2013-devcup-competition-developers/2013/04/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 09e0f25b654a6bd04e84ee749dac6f21
+  item_date: "2013-04-19 00:00:00"
+  title: Twilio Extends Communications API Platform to the Japan Market
+  url: http://www.programmableweb.com/news/twilio-extends-communications-api-platform-to-japan-market/2013/04/19
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 40ba71d74c77dc49e1353b3eb0eb8a19
+  item_date: "2013-04-19 00:00:00"
+  title: Cabforce Launches Taxi API
+  url: http://www.programmableweb.com/news/cabforce-launches-taxi-api/2013/04/19
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f3d56207f8e3d46eae09ee6806fa84d3
+  item_date: "2013-04-19 00:00:00"
+  title: Now The Power Is In Your Hands With Leap Motion?s API
+  url: http://www.programmableweb.com/news/now-power-your-hands-leap-motions-api/2013/04/19
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: fc54f94829f0059340d326f9c7aaa6de
+  item_date: "2013-04-19 00:00:00"
+  title: 'Foodcare: The API a Day that Keeps the Doctor Away'
+  url: http://www.programmableweb.com/news/foodcare-api-day-keeps-doctor-away/2013/04/19
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 53edb2472e12824eaadefd244f153b15
+  item_date: "2013-04-22 00:00:00"
+  title: 'Positionly API: How Visible Is Your Website In The Jungle That Is The World
+    Wide Web?'
+  url: http://www.programmableweb.com/news/positionly-api-how-visible-your-website-jungle-world-wide-web/2013/04/22
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 72b95fcb09587b8abead72a304bad3ae
+  item_date: "2013-04-22 00:00:00"
+  title: 'Activestandards API: Making Technical  Marketing Depts. Play Nice Together'
+  url: http://www.programmableweb.com/news/activestandards-api-making-technical-marketing-depts.-play-nice-together/2013/04/22
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 7b9c523fd3f7eb0c9dd400ae1ecc5c5b
+  item_date: "2013-04-23 00:00:00"
+  title: Opensource Integration Demos
+  url: http://campaigncog.com/blog/2013/04/23/opensource-integration-demos/
+  domain: campaigncog.com
+  image: ""
+- curated_id: 065e765da9b2220a913d7bc63bb046a0
+  item_date: "2013-04-23 00:00:00"
+  title: OneTok Refines SDK and Focuses on Carriers, Social Networks, and Messaging
+    Apps
+  url: http://www.programmableweb.com/news/onetok-refines-sdk-and-focuses-carriers-social-networks-and-messaging-apps/2013/04/23
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5bcb98c67bbdd0cfce9498b7df7d0a50
+  item_date: "2013-04-23 00:00:00"
+  title: 'The Gyft API: It?s Game On for Developers'
+  url: http://www.programmableweb.com/news/gyft-api-its-game-developers/2013/04/23
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3ff017667b56ad941512d24f5e141a16
+  item_date: "2013-04-24 00:00:00"
+  title: 'PW Interview: Amber Feng, Stripe API, The Payment Web'
+  url: http://www.programmableweb.com/news/pw-interview-amber-feng-stripe-api-payment-web/2013/04/24
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 1f43cde02cb355017e598364e99ce94a
+  item_date: "2013-04-24 00:00:00"
+  title: Dovico Software Launches Portal Featuring Dovico API Driven Apps
+  url: http://www.programmableweb.com/news/dovico-software-launches-portal-featuring-dovico-api-driven-apps/2013/04/24
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 67155bce84020af9a5fa057014ee5d08
+  item_date: "2013-04-24 00:00:00"
+  title: 'The Forecast API: Bringing a New Day to Weather Data'
+  url: http://www.programmableweb.com/news/forecast-api-bringing-new-day-to-weather-data/2013/04/24
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 66f7d5f2d0f1d7f7d4ec0e7af487aeaf
+  item_date: "2013-04-25 00:00:00"
+  title: Introduction to Big Data
+  url: http://www.opentracker.net/article/introduction-big-data
+  domain: www.opentracker.net
+  image: ""
+- curated_id: dfd563be00d22c5aa0677115f84185c3
+  item_date: "2013-04-25 00:00:00"
+  title: 'Platform success strategies: Communicate the value of your API'
+  url: http://www.programmableweb.com/news/platform-success-strategies-communicate-value-your-api/2013/04/25
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5a190037c831b38f7f5883777ed4f8fe
+  item_date: "2013-04-25 00:00:00"
+  title: Prefer To Listen To The News Rather Than Read It? Umano?s API Is For You
+  url: http://www.programmableweb.com/news/prefer-to-listen-to-news-rather-read-it-umanos-api-you/2013/04/25
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 444d63332f2e8bb81e1bd9b14bc6dae4
+  item_date: "2013-04-25 00:00:00"
+  title: Expert System Releases Cogito Intelligence API Helping Analysts Quickly and
+    Accurately Evaluate Intelligence Data
+  url: http://www.programmableweb.com/news/expert-system-releases-cogito-intelligence-api-helping-analysts-quickly-and-accurately-evaluate-intelligence-data/2013/04/25
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 50750022140c180ba27535d14c32b0a4
+  item_date: "2013-04-26 00:00:00"
+  title: Sweden?s Stockholm University Integrates EBSCO Discovery Service API into
+    Library Software Platform
+  url: http://www.programmableweb.com/news/swedens-stockholm-university-integrates-ebsco-discovery-service-api-library-software-platform/2013/04/26
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 2c97a06df7716e0c70c4446eb9107e27
+  item_date: "2013-04-26 00:00:00"
+  title: Why the Uproar for API Management? Mashery, Layer 7, and 3Scale Bask in Recent
+    Attention
+  url: http://www.programmableweb.com/news/why-uproar-api-management-mashery-layer-7-and-3scale-bask-recent-attention/2013/04/26
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 80d05f3a3dcdea0e8b7e2c96d796356f
+  item_date: "2013-04-26 00:00:00"
+  title: Version 1.0 of the Tin Can API Goes Live
+  url: http://www.programmableweb.com/news/version-1.0-tin-can-api-goes-live/2013/04/26
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f7fad0adc663595b3ec6237d37c9e11d
+  item_date: "2013-04-29 00:00:00"
+  title: Edamam Releases Nutrition API to Developers to Create Enhanced Food and Recipe
+    Apps
+  url: http://www.programmableweb.com/news/edamam-releases-nutrition-api-to-developers-to-create-enhanced-food-and-recipe-apps/2013/04/29
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b82bb1bdb172c8c0e17f03a086e0e38a
+  item_date: "2013-04-29 00:00:00"
+  title: 'PW Interview: Stephen Balaban of Lamda Labs on the Face Recognition API'
+  url: http://www.programmableweb.com/news/pw-interview-stephen-balaban-lamda-labs-face-recognition-api/2013/04/29
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 65058fc6790e9215d0034dc0f29a44e9
+  item_date: "2013-04-29 00:00:00"
+  title: 'The Wevideo API: Editing and Storyboard Tools at Your Fingertips'
+  url: http://www.programmableweb.com/news/wevideo-api-editing-and-storyboard-tools-your-fingertips/2013/04/29
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 0560743abfbdc3732e89a89f314e8564
+  item_date: "2013-04-29 00:00:00"
+  title: NextGen Storage for Next Gen Apps
+  url: http://www.bmc.com/truesightpulse
+  domain: www.bmc.com
+  image: ""
+- curated_id: bb421d2cf6acf70f78f85032ccbb96b9
+  item_date: "2013-04-30 00:00:00"
+  title: Ford Asks Developers To Create Apps That Promote Fuel Efficiency
+  url: http://www.programmableweb.com/news/ford-asks-developers-to-create-apps-promote-fuel-efficiency/2013/04/30
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 1fdf52590cd971e2d30c3666cc030279
+  item_date: "2013-04-30 00:00:00"
+  title: '9,000 APIs: Mobile Gets Serious'
+  url: http://www.programmableweb.com/news/9000-apis-mobile-gets-serious/2013/04/30
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5bb3a999f41ef35af5d155677140048b
+  item_date: "2013-05-01 00:00:00"
+  title: Precog launches with a plan to simplify analytics on unstructured data
+  url: http://gigaom.feedsportal.com/c/34996/f/646446/s/2b652b35/l/0Lgigaom0N0C20A130C0A50C0A10Cprecog0Elaunches0Ewith0Ea0Eplan0Eto0Esimplify0Eanalytics0Eon0Eunstructured0Edata0C/story01.htm
+  domain: gigaom.feedsportal.com
+  image: ""
+- curated_id: f23671ffe7b9b2a0bdce4b95367551dd
+  item_date: "2013-05-01 00:00:00"
+  title: Google Extends Deprecation Timeline for JavaScript Maps API v2
+  url: http://www.programmableweb.com/news/google-extends-deprecation-timeline-javascript-maps-api-v2/2013/05/01
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: c0a12e4c92aaab2f72f210d1b2c15706
+  item_date: "2013-05-01 00:00:00"
+  title: 'Oddcast Releases Text-to-Speech API: Vocalware'
+  url: http://www.programmableweb.com/news/oddcast-releases-text-to-speech-api-vocalware/2013/05/01
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 82e41f1d7f2b4daef55e02817a5c05f8
+  item_date: "2013-05-01 00:00:00"
+  title: 'Printzel API: Creating Stylish Photo Books Goes Mobile'
+  url: http://www.programmableweb.com/news/printzel-api-creating-stylish-photo-books-goes-mobile/2013/05/01
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f2cc9d4ec187f67adf5bedf8830d0ef5
+  item_date: "2013-05-02 00:00:00"
+  title: Introducing Chat Analytics from Hipmob
+  url: http://blog.hipmob.com/post/49461489477/introducing-chat-analytics-from-hipmob
+  domain: blog.hipmob.com
+  image: ""
+- curated_id: 88ec4902e89edeea1f0c8bc756c587b8
+  item_date: "2013-05-02 00:00:00"
+  title: 'PW Interview: Michael Schonfield of Dwolla API on Innovation Meeting the
+    Payment Web'
+  url: http://www.programmableweb.com/news/pw-interview-michael-schonfeld-dwolla-api-innovation-meeting-payment-web/2013/05/02
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 4f067c4d7bd665c220be901b24957018
+  item_date: "2013-05-02 00:00:00"
+  title: 'CAO: Chief Analytics Officer'
+  url: http://www.opentracker.net/blog/cao-chief-analytics-officer
+  domain: www.opentracker.net
+  image: ""
+- curated_id: 6243dfe009b103358c7f23160496df0d
+  item_date: "2013-05-02 00:00:00"
+  title: 'Ready-Made Multi-Messaging Functionality: Whispir API'
+  url: http://www.programmableweb.com/news/ready-made-multi-messaging-functionality-whispir-api/2013/05/02
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 254a863d2e31632051700c8d6d4f6eb3
+  item_date: "2013-05-02 00:00:00"
+  title: GreenButton Releases Updated SDK and New Management API Allowing Compute-Intensive
+    Applications to be Scaled Out in the Cloud
+  url: http://www.programmableweb.com/news/greenbutton-releases-updated-sdk-and-new-management-api-allowing-compute-intensive-applications-to-be-scaled-out-cloud/2013/05/02
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 45c36ba6d61d83ee200c9da477bbab4e
+  item_date: "2013-05-03 00:00:00"
+  title: TransactionPoint Serves as an API to Streamline Real Estate Transactions
+  url: http://www.programmableweb.com/news/transactionpoint-serves-api-to-streamline-real-estate-transactions/2013/05/03
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 33fda6b4e75b31cbcd4dcae7c82410ee
+  item_date: "2013-05-03 00:00:00"
+  title: White House Releases We the People API to the Public
+  url: http://www.programmableweb.com/news/white-house-releases-we-people-api-to-public/2013/05/03
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: c7ed712ea19b37fc9df7928b513519b1
+  item_date: "2013-05-03 00:00:00"
+  title: 'Alternative Keys: Fine-grained, REST API Access to Your Machine Learning
+    Resources'
+  url: https://blog.bigml.com/2013/05/03/alternative-keys-fine-grained-rest-api-access-to-your-machine-learning-resources/
+  domain: blog.bigml.com
+  image: ""
+- curated_id: cf3b3552eaf0033d97abec6e7ca17eac
+  item_date: "2013-05-04 00:00:00"
+  title: 'API Spotlight: Edamam, BancBox, and Wevideo APIs'
+  url: http://www.programmableweb.com/news/api-spotlight-edamam-bancbox-and-wevideo-apis/2013/05/04
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 4c5e2b9527b58c02bd2589d4df07e65a
+  item_date: "2013-05-06 00:00:00"
+  title: 'Thinkery API: Organize Your Thoughts'
+  url: http://www.programmableweb.com/news/thinkery-api-organize-your-thoughts/2013/05/06
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f4926615844bc9bda7768c1264c62dd8
+  item_date: "2013-05-07 00:00:00"
+  title: Zapier Launches API Status Board
+  url: http://www.programmableweb.com/news/zapier-launches-api-status-board/2013/05/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: a54130adce41d8430aa16eaf6d64d047
+  item_date: "2013-05-07 00:00:00"
+  title: What Makes a Good Developer Portal ? The Story of DocuSign DevCenter
+  url: http://www.programmableweb.com/news/what-makes-good-developer-portal-
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 9d658e10b9de8fe65eb0c0ca98eb0fba
+  item_date: "2013-05-07 00:00:00"
+  title: Instagram introduces new photo tagging feature
+  url: https://www.viralheat.com/blog/2013/05/07/instagram-introduces-new-photo-tagging-feature/
+  domain: www.viralheat.com
+  image: ""
+- curated_id: eabc64c6365a68fdacf319290ed91eba
+  item_date: "2013-05-08 00:00:00"
+  title: New Billaway API Provides Enterprise Customers Access to Rewards Program
+  url: http://www.programmableweb.com/news/new-billaway-api-provides-enterprise-customers-access-to-rewards-program/2013/05/08
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3cb73f6aefdc9446023f47f2353ef00e
+  item_date: "2013-05-08 00:00:00"
+  title: Capturing Omniture (or Google Analytics, or Webtrends) Data into Splunk
+  url: http://blogs.splunk.com/2013/05/08/capturing-omniture-or-google-analytics-or-webtrends-data-into-splunk/
+  domain: blogs.splunk.com
+  image: ""
+- curated_id: 517d8834a2cfbc58552b9d4f5df0e0af
+  item_date: "2013-05-09 00:00:00"
+  title: CIR Launches API Allowing Public Access to VA Backlog Related Data
+  url: http://www.programmableweb.com/news/cir-launches-api-allowing-public-access-to-va-backlog-related-data/2013/05/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 756af01dbb67528da7c9616f30b824c5
+  item_date: "2013-05-09 00:00:00"
+  title: 'WhatsOnMyBookshelf API: Making Your Used Books Go Further'
+  url: http://www.programmableweb.com/news/whatsonmybookshelf-api-making-your-used-books-go-further/2013/05/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 9521cfed8c474b354ad773519564766b
+  item_date: "2013-05-09 00:00:00"
+  title: 'Dropbox to Host its First Developer Conference: DBX'
+  url: http://www.programmableweb.com/news/dropbox-to-host-its-first-developer-conference-dbx/2013/05/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f4bce2bb84372ce9d061ab2a1c044c83
+  item_date: "2013-05-10 00:00:00"
+  title: karmadata Launches New Website and API Providing Users Access to Public and
+    Private Industry Data
+  url: http://www.programmableweb.com/news/karmadata-launches-new-website-and-api-providing-users-access-to-public-and-private-industry-data/2013/05/10
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e3f5159aab6807773bb091339ec79baa
+  item_date: "2013-05-10 00:00:00"
+  title: 'Convo API: Communication Gets The Job Done'
+  url: http://www.programmableweb.com/news/convo-api-communication-gets-job-done/2013/05/10
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3e73a8159c268bdd1faeb925f2f0334f
+  item_date: "2013-05-14 00:00:00"
+  title: Planspot API Simplifies Event Marketing
+  url: http://www.programmableweb.com/news/planspot-api-simplifies-event-marketing/2013/05/14
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: d5cf4ab3bce4e8935d379f62147e4cf7
+  item_date: "2013-05-15 00:00:00"
+  title: Glympse Releases SDKs Allowing Developers to Add Real-Time Location Sharing
+    to Apps
+  url: http://www.programmableweb.com/news/glympse-releases-sdks-allowing-developers-to-add-real-time-location-sharing-to-apps/2013/05/15
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 48d0bfb40301d9405ce14eead67704f0
+  item_date: "2013-05-15 00:00:00"
+  title: Viralheat Comes to Mobile
+  url: https://www.viralheat.com/blog/2013/05/15/viralheat-comes-to-mobile/
+  domain: www.viralheat.com
+  image: ""
+- curated_id: a8f4c8e31836f2a2e52ea664500fe41b
+  item_date: "2013-05-16 00:00:00"
+  title: USDA Launches New API That Provides Developers Access to a Wealth of Farmers
+    Market Data
+  url: HTTP://h/
+  domain: h
+  image: ""
+- curated_id: d41492f2b7d8e62c8075d03e48569083
+  item_date: "2013-05-17 00:00:00"
+  title: Civic Hackers Across the Country Will Band Together in June for National
+    Day of Civic Hacking
+  url: http://www.programmableweb.com/news/civic-hackers-across-country-will-band-together-june-national-day-civic-hacking/2013/05/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: dfdc050bd51c12ef42d1d2ca973254b7
+  item_date: "2013-05-17 00:00:00"
+  title: Big Data, IoT, API ? Newer technologies protected by older security.
+  url: http://www.programmableweb.com/news/big-data-iot-api-...-newer-technologies-protected-older-security./2013/05/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 13b069c99395cf75fe3d49c1f2215064
+  item_date: "2013-05-21 00:00:00"
+  title: Swipely Raises $12M to Expand Push Into SMB Payment Analytics
+  url: http://streetfightmag.com/2013/05/21/swipley-raises-12-5m-to-expand-push-into-smb-payment-analytics/doing_wp_cron=1372638940.4163880348205566406250
+  domain: streetfightmag.com
+  image: ""
+- curated_id: b27cafba5a8de142bbbf7ce56421886f
+  item_date: "2013-05-21 00:00:00"
+  title: 'Indoor Environmental Quality Station #arduino #thingspeak #instructables'
+  url: http://community.thingspeak.com/2013/05/indoor-environmental-quality-station/
+  domain: community.thingspeak.com
+  image: ""
+- curated_id: ee2a617fc1f8fff633c9b736cbc14bb6
+  item_date: "2013-05-21 00:00:00"
+  title: Minbox Launches Lightning Fast File Sharing App
+  url: http://blog.programmableweb.com/2013/05/21/minbox-launches-lightning-fast-file-sharing-app/
+  domain: blog.programmableweb.com
+  image: ""
+- curated_id: c5989cc3c1dbb2abf2cf1f19abe18feb
+  item_date: "2013-05-22 00:00:00"
+  title: Metwit Weather API Now Features Push Weather Notifications
+  url: http://blog.programmableweb.com/2013/05/22/metwit-weather-api-now-features-push-weather-notifications/
+  domain: blog.programmableweb.com
+  image: ""
+- curated_id: 70e83ba223c8bba0cd535d3ea01a5f3c
+  item_date: "2013-05-22 00:00:00"
+  title: 'Know More, Sell More: Gumroad + Google Analytics'
+  url: http://blog.gumroad.com/post/51090589438
+  domain: blog.gumroad.com
+  image: ""
+- curated_id: 97f9091e83690fc9d9308871551f9a30
+  item_date: "2013-05-22 00:00:00"
+  title: Screenhero Offers Collaborative Screen Sharing via API
+  url: http://blog.programmableweb.com/2013/05/22/screenhero-offers-collaborative-screen-sharing-via-api/
+  domain: blog.programmableweb.com
+  image: ""
+- curated_id: aec513cbdbf58f16f69a2637861f5ddd
+  item_date: "2013-05-22 00:00:00"
+  title: 'The Truecaller API: Phone Directory via Crowd-source'
+  url: http://blog.programmableweb.com/2013/05/22/the-truecaller-api-phone-directory-via-crowd-source/
+  domain: blog.programmableweb.com
+  image: ""
+- curated_id: 20a65fe3450c03debf7bfcd20bb0a873
+  item_date: "2013-05-22 00:00:00"
+  title: 'When Text Doesn?t Quite Get The Message Across: SayRoom API'
+  url: http://www.programmableweb.com/news/when-text-doesnt-quite-get-message-across-sayroom-api/2013/05/22
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 0ce2672b64d59e7edde6a8eaf210e119
+  item_date: "2013-05-23 00:00:00"
+  title: Tibco Gets on the Cloud Integration Bus
+  url: http://www.programmableweb.com/news/tibco-gets-cloud-integration-bus/2013/05/23
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 577ca098307421f48eb5a3f8e6022a54
+  item_date: "2013-05-23 00:00:00"
+  title: Web Applications Load Tester
+  url: http://www.monitis.com/blog/2013/05/23/web-applications-load-tester
+  domain: www.monitis.com
+  image: ""
+- curated_id: 0419fb5f047f7df805389d64176c2c17
+  item_date: "2013-05-23 00:00:00"
+  title: Share Entire Conversations With TweetVue?s API
+  url: http://www.programmableweb.com/2013/05/23/share-entire-conversations-with-tweetvues-api/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 86afdafbc34363a0723324a10e659a75
+  item_date: "2013-05-23 00:00:00"
+  title: Khronos Group to Develop Open API for Advanced Camera Control
+  url: http://www.programmableweb.com/news/khronos-group-to-develop-open-api-advanced-camera-control/2013/05/23
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: c3ed3a08177724405fd0523412f819f0
+  item_date: "2013-05-23 00:00:00"
+  title: Twitter Extends Cut-Off for v1 to Allow for More Testing
+  url: http://www.programmableweb.com/news/twitter-extends-v1-cut-to-allow-more-testing/2013/05/23
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f3b8b4a3ba65fc8becab95e5497c30f9
+  item_date: "2013-05-24 00:00:00"
+  title: Postmaster Announces Carrier Integration Partner and New Funding
+  url: http://www.programmableweb.com/2013/05/24/postmaster-announces-carrier-integration-partner-and-new-funding/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: c1541cbbb8411616fb51a1aee32588db
+  item_date: "2013-05-24 00:00:00"
+  title: 'The SciBite API: Digging Up Pharma News'
+  url: http://www.programmableweb.com/news/scibite-api-digging-pharma-news/2013/05/24
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: eb68f42d11afa8e922aaaddaa99e725c
+  item_date: "2013-05-24 00:00:00"
+  title: 'Mention API: Know Who?s Saying What About Your Brand'
+  url: http://www.programmableweb.com/2013/05/24/mention-api-know-whos-saying-what-about-your-brand/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 2b87ebda29c2c4e070d6a55a65e08aa9
+  item_date: "2013-05-24 00:00:00"
+  title: TippingCircle Launches New API Allowing Developers to Integrate Social Payments
+    Into Apps
+  url: http://www.programmableweb.com/news/tippingcircle-launches-new-api-allowing-developers-to-integrate-social-payments-apps/2013/05/24
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 2a5dd3ec255810f63e8390f02f1ed10b
+  item_date: "2013-05-27 00:00:00"
+  title: Freespee meets Google Analytics
+  url: http://blog.freespee.com/2013/05/27/freespee-meets-google-analytics/
+  domain: blog.freespee.com
+  image: ""
+- curated_id: 11b543ef997849fbe068b8f8b2c43b0b
+  item_date: "2013-05-27 00:00:00"
+  title: Celery API Enables Pre-ordering and Flexible Payment Options
+  url: http://www.programmableweb.com/news/celery-api-enables-pre-ordering-and-flexible-payment-options/2013/05/27
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 51e7e7e0710d203835b9d6a1b2a8ea05
+  item_date: "2013-05-27 00:00:00"
+  title: 'Burstly?s Restructuring and Skyrocket Monetization: Out of This World'
+  url: http://www.programmableweb.com/2013/05/27/burstlys-restructuring-and-skyrocket-monetization-out-of-this-world/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: ee8227ab6d98fdaf521ba751b9d14265
+  item_date: "2013-05-27 00:00:00"
+  title: 'WhateverWeb API: Let?s Go Mobile!'
+  url: http://www.programmableweb.com/2013/05/27/whateverweb-api-lets-go-mobile/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 01355dbeb7c584b00d016679db7eac6e
+  item_date: "2013-05-27 00:00:00"
+  title: New App Based on Google Maps Eliminates Blind Spots in Video Surveillance
+  url: http://www.programmableweb.com/2013/05/27/new-app-based-on-google-maps-eliminates-blind-spots-in-video-surveillance/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 10826cf351ad314e682c00e63f7422fb
+  item_date: "2013-05-28 00:00:00"
+  title: '53 Energy APIs: Genability, 3TIER and EnergyStar'
+  url: http://www.programmableweb.com/news/53-energy-apis-genability-3tier-and-energystar/2013/05/28
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: d5e6452cf72aa6df296a94af16c6ce29
+  item_date: "2013-05-28 00:00:00"
+  title: Investigate an outage with Root Cause Analysis
+  url: http://royal.pingdom.com/2013/05/28/root-cause-analysis/
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: 6b82895da7bcb35fc6d7fd3fc4dd1da5
+  item_date: "2013-05-28 00:00:00"
+  title: Librato Now Integrates with PagerDuty
+  url: https://www.pagerduty.com/blog/librato-pagerduty-integration/
+  domain: www.pagerduty.com
+  image: ""
+- curated_id: c9b373005e2a7637040205d11b84e588
+  item_date: "2013-05-28 00:00:00"
+  title: 'PW Interview: Tal Rotbart Founder- CTO, SpringSense'
+  url: http://www.programmableweb.com/news/pw-interview-tal-rotbart-founder-cto-springsense/interview/2013/05/28
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b6909c7b8eafa8e9fe3c1f64bbf13a92
+  item_date: "2013-05-28 00:00:00"
+  title: The Justice Department?s NCVS API Opens Access to Crime Victimization Data
+  url: http://www.programmableweb.com/news/justice-departments-ncvs-api-opens-access-to-crime-victimization-data/2013/05/28
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 21b933709ccc7dd613bd88e3e13ce2c8
+  item_date: "2013-05-28 00:00:00"
+  title: 'Mathletics API: Making Math Education Add Up'
+  url: http://www.programmableweb.com/news/mathletics-api-making-math-education-add/2013/05/28
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 8874d7b527589bc6596dc50f91e0e13f
+  item_date: "2013-05-28 00:00:00"
+  title: Democratizing Machine Learning One Step at a Time
+  url: http://blog.bigml.com/2013/05/28/democratizing-machine-learning-one-step-at-a-time/
+  domain: blog.bigml.com
+  image: ""
+- curated_id: 20f1ec9ec9c905f8f62f949d6dd986e9
+  item_date: "2013-05-29 00:00:00"
+  title: Pinpointers API Adds Fleet Management to Existing Apps and Workflows
+  url: http://www.programmableweb.com/news/pinpointers-api-adds-fleet-management-to-existing-apps-and-workflows/2013/05/29
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e3eb3ef69c14f3cc20342ddd8e07071f
+  item_date: "2013-05-29 00:00:00"
+  title: 'Invest Europe: But Do Your DueDil First'
+  url: http://www.programmableweb.com/2013/05/29/invest-europe-but-do-your-duedil-first/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5daaae5336376155258b9aed1a996441
+  item_date: "2013-05-29 00:00:00"
+  title: Weemo Completes $3 Million Funding Round For Cloud Based, API-Centric Video
+    Platform
+  url: http://www.programmableweb.com/news/weemo-completes-3-million-funding-round-cloud-based-api-centric-video-platform/2013/05/29
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 28d63cd2baffcf1e2be167ff42adffe4
+  item_date: "2013-05-29 00:00:00"
+  title: 'APIs as Glue: Making it Stick'
+  url: http://www.programmableweb.com/news/apis-glue-making-it-stick/2013/05/29
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5b8f2be59f7c9394c28ffa93ceccc722
+  item_date: "2013-05-29 00:00:00"
+  title: BigML?speaking near you!
+  url: http://blog.bigml.com/2013/05/29/bigml-speaking-near-you/
+  domain: blog.bigml.com
+  image: ""
+- curated_id: 6ba3042ef27ef3eb0b4f5c2a98894771
+  item_date: "2013-05-30 00:00:00"
+  title: Quandl + BigML = Powerful financial, economic, and social predictive models
+  url: https://blog.bigml.com/2013/05/31/quandl-bigml-powerful-financial-economic-and-social-predictive-models/
+  domain: blog.bigml.com
+  image: ""
+- curated_id: a066f7a5e254a082d609d92d68d4592d
+  item_date: "2013-05-30 00:00:00"
+  title: 'Crashlytics for Android: Find the droid crashes you?re looking for'
+  url: https://dev.twitter.com/blog/crashlytics-android-find-droid-crashes-you%E2%80%99re-looking
+  domain: dev.twitter.com
+  image: ""
+- curated_id: bf9a411a821b4d38c76b77e767679e32
+  item_date: "2013-05-30 00:00:00"
+  title: API Economy Starts to Sort Winners and Losers
+  url: http://www.programmableweb.com/2013/05/30/api-economy-starts-to-sort-winners-and-losers/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 2110d8ea198eb8f6221e516cdeb2f843
+  item_date: "2013-05-30 00:00:00"
+  title: 'Bizimply API: A Management Tool To Banish The Paperwork'
+  url: http://www.programmableweb.com/news/bizimply-api-management-tool-to-banish-paperwork/2013/05/30
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: fad8e20e2c5bb89aa63dd615d74c3108
+  item_date: "2013-05-30 00:00:00"
+  title: Heroku Launches Platform API
+  url: http://www.programmableweb.com/2013/05/30/heroku-launches-platform-api/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: ef393b16a672cbae4452f6c0dbf70b19
+  item_date: "2013-05-31 00:00:00"
+  title: 'Roundup: Articles About Google Glass Apps and APIs'
+  url: http://www.programmableweb.com/2013/05/31/roundup-articles-about-google-glass-apps-and-apis/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: ceea0cd097b337ac79e895c7647c3750
+  item_date: "2013-05-31 00:00:00"
+  title: 'Google?s First 10 APIs: Where Are They Now?'
+  url: http://www.programmableweb.com/2013/05/31/googles-first-10-apis-where-are-they-now/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 9a0a879f0ff4c5e37a5b1e5c62e59e19
+  item_date: "2013-05-31 00:00:00"
+  title: 'Competitive Delivery Options For Retailers: Deliv API'
+  url: http://www.programmableweb.com/2013/05/31/competitive-delivery-options-for-retailers-deliv-api/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 9ed4c92dcaf6e308a4c548d41acb1363
+  item_date: "2013-05-31 00:00:00"
+  title: Valet Car Locator Automates its App with Google Location APIs
+  url: http://www.programmableweb.com/news/valet-car-locator-automates-its-app-google-location-apis/2013/05/31
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 9c4f057aaa49bac2c7f143f1684111b7
+  item_date: "2013-05-31 00:00:00"
+  title: Rallyverse, a platform that helps companies become socially adept, releases
+    its API
+  url: http://www.programmableweb.com/news/rallyverse-platform-helps-companies-become-socially-adept-releases-its-api/2013/05/31
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: ee4a2b1b69616f1e19d610034de856de
+  item_date: "2013-05-31 00:00:00"
+  title: How To Transform A Basic CSV Export Into Actionable Data [VIDEO]
+  url: http://authoritylabs.com/blog/csv-export-into-sexy-data-video/
+  domain: authoritylabs.com
+  image: ""
+- curated_id: 3d39aff4ddaa86474d65458317f67422
+  item_date: "2013-06-02 00:00:00"
+  title: 'APIs of the Week: Staff Picks Guidebox, Animetrics and Chicago Police Department'
+  url: http://www.programmableweb.com/2013/06/02/apis-of-the-week-staff-picks-guidebox-animetrics-and-chicago-police-department/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: adbcc2e68caaf7ed6f4e874ce41e3d89
+  item_date: "2013-06-03 00:00:00"
+  title: Blinkx Provides App, Open Source Video Player for Tizen Device Platform
+  url: http://www.programmableweb.com/2013/06/03/blinkx-provides-app-open-source-video-player-for-tizen-device-platform/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: a01da3a690a329bb3e0f3cafdd67d7cb
+  item_date: "2013-06-03 00:00:00"
+  title: Amazon Joins Single Sign-On Game with ?Login with Amazon?
+  url: http://www.programmableweb.com/2013/06/03/amazon-joins-single-sign-on-game-with-%e2%80%98login-with-amazon%e2%80%99/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 227d6cb1d617a2dd5ea45741f90089b1
+  item_date: "2013-06-03 00:00:00"
+  title: What Programming Language is Most Popular with APIs?
+  url: http://www.programmableweb.com/2013/06/03/what-programming-language-is-most-popular-with-apis/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 9e16aa1c59346edd49ba0ee72ada7bec
+  item_date: "2013-06-03 00:00:00"
+  title: HeyWatch Expands API Offering with Video Preview API
+  url: http://www.programmableweb.com/2013/06/03/heywatch-expands-api-offering-with-video-preview-api/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b8191c500cb29570af58816862dc3141
+  item_date: "2013-06-03 00:00:00"
+  title: API Strategy and Practice Conference Will Kick Off in San Francisco, October
+    23-25, 2013
+  url: http://www.programmableweb.com/2013/06/03/api-strategy-and-practice-conference-will-kick-off-in-san-francisco-october-23-25-2013/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: d5de05b191ee256fa1b8d5243625d9a3
+  item_date: "2013-06-03 00:00:00"
+  title: 'Carpoolworld API: Need A Ride To Work? There?s An App For That!'
+  url: http://www.programmableweb.com/2013/06/03/carpoolworld-api-need-a-ride-to-work-theres-an-app-for-that/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: dd07ab11e52a7a2a6ba054a6c1b5d0e9
+  item_date: "2013-06-04 00:00:00"
+  title: Freespee Analytics ? starting today ? is now free in Germany
+  url: http://blog.freespee.com/2013/06/04/freespee-analytics-%e2%80%93-starting-today-%e2%80%93-is-now-free-in-germany/
+  domain: blog.freespee.com
+  image: ""
+- curated_id: 08136c9fced1cbad211054527d547133
+  item_date: "2013-06-04 00:00:00"
+  title: Anatomy of a Developer Portal URL
+  url: http://www.programmableweb.com/2013/06/04/anatomy-of-a-developer-portal-url/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: c4f97fc99ef5dacfbd23dc6d4772f9cc
+  item_date: "2013-06-04 00:00:00"
+  title: 'An App That Always Remembers A Face: Animetrics Face Recognition API'
+  url: http://www.programmableweb.com/2013/06/04/an-app-that-always-remembers-a-face-animetrics-face-recognition-api/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: dab08b46dfc51cbe41913bd3dab7c099
+  item_date: "2013-06-04 00:00:00"
+  title: 'Deciphering Tim Cook?s Promise on APIs: The Part of ?Open? We Don?t Understand'
+  url: http://www.programmableweb.com/2013/06/04/deciphering-tim-cooks-promise-on-apis-the-part-of-open-we-dont-understand/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: d8554daf97e721c52d72f91219112987
+  item_date: "2013-06-04 00:00:00"
+  title: 'PW Interview: Andy Bartley, CEO Algorithms.io'
+  url: http://www.programmableweb.com/2013/06/04/pw-interview-andy-bartley-ceo-algorithms-io/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 90d23cfaf074c715c48aae7bb7664e8d
+  item_date: "2013-06-04 00:00:00"
+  title: Openmind Networks Offers its Mobile Communications Platform via API
+  url: http://www.programmableweb.com/news/openmind-networks-offers-its-mobile-communications-platform-api/2013/06/04
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 4dd7f88889983adade8c571e85378222
+  item_date: "2013-06-05 00:00:00"
+  title: NYU Student Who Tweets Every U.S. Drone Strike in History Releases API
+  url: http://www.programmableweb.com/news/nyu-student-who-tweets-every-u.s.-drone-strike-history-releases-api/2013/06/05
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: a8a7fb35a9e0b456f3bd3169a6793467
+  item_date: "2013-06-05 00:00:00"
+  title: 'SignNow API: Document Signing Goes Paperless'
+  url: http://www.programmableweb.com/2013/06/05/signnow-api-document-signing-goes-paperless/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: a472175247406ff88dd7efa4e1ab590e
+  item_date: "2013-06-05 00:00:00"
+  title: SOA Software Announces Availability of API Management Solution for Microsoft
+    Environments Including Windows Azure
+  url: http://www.programmableweb.com/news/soa-software-announces-availability-api-management-solution-microsoft-environments-including-windows-azure/2013/06/05
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 4418381a5803959d0f061e8631b8a033
+  item_date: "2013-06-05 00:00:00"
+  title: Xero Launches Payroll API
+  url: http://www.programmableweb.com/news/xero-launches-payroll-api/2013/06/05
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: d0c1a5ff8b4a2eb033efc2df20dbcfb4
+  item_date: "2013-06-06 00:00:00"
+  title: 'Appboy Launches Android SDK for Mobile CRM Platform: Engage Your Customer'
+  url: http://www.programmableweb.com/2013/06/06/appboy-launches-android-sdk-for-mobile-crm-platform-engage-your-customer/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 986d899f39d93a8fab5c92030ffaafb8
+  item_date: "2013-06-06 00:00:00"
+  title: WSO2 and API Evangelist to Co-Present Your API Branding Strategy Webinar
+    on June 13
+  url: http://www.programmableweb.com/news/wso2-and-api-evangelist-to-co-present-your-api-branding-strategy-webinar-june-13/2013/06/06
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 68b8c45d6bd9915621487b7027ed8a69
+  item_date: "2013-06-06 00:00:00"
+  title: Box Announces Developer Compensation Program and New SDKs
+  url: http://www.programmableweb.com/news/box-announces-developer-compensation-program-and-new-sdks/2013/06/06
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: ff6624632b6e371bda9dfb83f85846cb
+  item_date: "2013-06-06 00:00:00"
+  title: How To Choose an API That Works For You
+  url: http://www.programmableweb.com/news/how-to-choose-api-works-you/2013/06/06
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: bb0c466cd58659d39183e591470890fd
+  item_date: "2013-06-06 00:00:00"
+  title: Creating Good Content Is A Breeze With Textbroker?s API
+  url: http://www.programmableweb.com/2013/06/06/creating-good-content-is-a-breeze-with-textbrokers-api/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 706fcc73e54b689c7f8a014a0d688669
+  item_date: "2013-06-07 00:00:00"
+  title: 'The Guidebox API: All That Content Through Your App'
+  url: http://www.programmableweb.com/2013/06/07/the-guidebox-api-all-that-content-through-your-app/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: bd13da2d0799fd86510988961c80e53c
+  item_date: "2013-06-07 00:00:00"
+  title: 'Bitcoin as an API for Money: Creating Money-As-a-Service'
+  url: http://www.programmableweb.com/news/bitcoin-api-money-creating-money-service/2013/06/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b2c81c85f95dc524e73ec2c8d85af229
+  item_date: "2013-06-07 00:00:00"
+  title: LoginRadius Adds Login with Amazon, Platform Now Serves Over 50,000 Sites
+    and Reaches 10 Million Users Per Month
+  url: http://www.programmableweb.com/2013/06/07/loginradius-adds-login-with-amazon-platform-now-serves-over-50000-sites-and-reaches-10-million-users-per-month/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f2a3580e3594c0d1c439a279e7d7c966
+  item_date: "2013-06-10 00:00:00"
+  title: 'Google Launches APIs: CalDAV and CardDAV, Cloud SQL API, Content Experiments'
+  url: http://www.programmableweb.com/2013/06/10/google-launches-apis-caldav-and-carddav-cloud-sql-api-content-experiments/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e66318bbf6ff06d819d97be39002eead
+  item_date: "2013-06-17 00:00:00"
+  title: Framebase Offers an API for Video
+  url: http://www.programmableweb.com/2013/06/17/framebase-offers-an-api-for-video/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 4e0f423e88f0480e605ef828d3334404
+  item_date: "2013-06-17 00:00:00"
+  title: 'RESTful APIs: White House Sets The Standard(s)'
+  url: http://www.programmableweb.com/news/restful-apis-white-house-sets-standards/2013/06/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 1f85cc13b60ec6288fb8b474561a535a
+  item_date: "2013-06-17 00:00:00"
+  title: 'Converser API: Hear It Straight From The Customer?s Mouth'
+  url: http://www.programmableweb.com/2013/06/17/converser-api-hear-it-straight-from-the-customers-mouth/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: d51026970aac7a6e79410492868299ee
+  item_date: "2013-06-17 00:00:00"
+  title: MMS APIs are Unlocking the Mobile Future
+  url: http://www.programmableweb.com/news/mms-apis-are-unlocking-mobile-future/2013/06/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f7f90976b7c28db2c0eb7a21f760381a
+  item_date: "2013-06-18 00:00:00"
+  title: Elastic Path Secures $8 Million for Digital Commerce API
+  url: http://www.programmableweb.com/2013/06/18/elastic-path-secures-8-million-for-digital-commerce-api/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5c4e28d4ad143a9d036a89627ab3ffb3
+  item_date: "2013-06-18 00:00:00"
+  title: 'Announcing Ice: Cloud Spend and Usage Analytics'
+  url: https://www.blogger.com/feeds/725338818844296080/posts/default/7509409158509794906
+  domain: www.blogger.com
+  image: ""
+- curated_id: 8ed7aaabf2fb8d293e2047f947f1dea6
+  item_date: "2013-06-18 00:00:00"
+  title: 5 Platforms for Location-Based Listening  Analytics
+  url: http://streetfightmag.com/2013/06/18/5-platforms-for-location-based-listening-analytics/
+  domain: streetfightmag.com
+  image: ""
+- curated_id: 7cac34e6a8f818549ed2c489caae77df
+  item_date: "2013-06-18 00:00:00"
+  title: 'VidyoConferencing 3.0: New Capabilities Available With API Integration'
+  url: http://www.programmableweb.com/2013/06/18/vidyoconferencing-3-0-new-capabilities-available-with-api-integration/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 6f934f3f8f9d5a1550863c6a3d46c874
+  item_date: "2013-06-18 00:00:00"
+  title: 'Dimple: PMSI Launches Open Source D3 API'
+  url: http://www.programmableweb.com/news/dimple-pmsi-launches-open-source-d3-api/2013/06/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f133c6cee1fd72211f5f4f854f78b6cd
+  item_date: "2013-06-18 00:00:00"
+  title: The Rise of the ?Third Platform?
+  url: http://www.gooddata.com/blog
+  domain: www.gooddata.com
+  image: ""
+- curated_id: 96efe276a39513755b71b11f01561472
+  item_date: "2013-06-18 00:00:00"
+  title: 'Fighting Off The Fraudsters: Socure API'
+  url: http://www.programmableweb.com/2013/06/18/fighting-off-the-fraudsters-socure-api/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 1533ca7854ddc1292705b40804c199ad
+  item_date: "2013-06-19 00:00:00"
+  title: 'ActiveStandards API: Making Sure Your Site Measures Up'
+  url: http://www.programmableweb.com/news/activestandards-api-making-sure-your-site-measures/2013/06/19
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: d2907eed6d3cf3c23416c9d0f0e74050
+  item_date: "2013-06-19 00:00:00"
+  title: Ringadoc Debuts ?Anywhere, Anytime? Doctor Answering Service API
+  url: http://www.programmableweb.com/2013/06/19/ringadoc-debuts-%e2%80%98anywhere-anytime%e2%80%99-doctor-answering-service-api/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: d3f0dfa343fa8982ebd478138b6aed3a
+  item_date: "2013-06-19 00:00:00"
+  title: 'Automobile: The Next Major Technology Platform ? Part I ? Connected Vehicle
+    Developer Programs and Standards Groups'
+  url: http://www.programmableweb.com/news/automobile-next-major-technology-platform-part-i-connected-vehicle-developer-programs-and-standards-groups/2013/06/19
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 077914cb93a04fb63bbc479f5ca28040
+  item_date: "2013-06-19 00:00:00"
+  title: Urban Airship Powers Push Notifications for Three Massive Event Apps
+  url: http://www.programmableweb.com/news/urban-airship-powers-push-notifications-three-massive-event-apps/2013/06/19
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: bb04c8ba6d56447aa0b0cf4bf968cbfb
+  item_date: "2013-06-20 00:00:00"
+  title: 'Double Interview: Nexmo Bandwidth Talk Strategy in an API-Driven World'
+  url: http://www.programmableweb.com/news/double-interview-nexmo-bandwidth-talk-strategy-api-driven-world/interview/2013/06/20
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 2c74f9b04c4112f60d9e24d3e7f0a1f6
+  item_date: "2013-06-20 00:00:00"
+  title: Keek Launches First API for Video Updates
+  url: http://www.programmableweb.com/2013/06/20/keek-launches-first-api-for-video-updates/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 6af39e20c0192bafe4d1a1bfbc12bb00
+  item_date: "2013-06-20 00:00:00"
+  title: 'Onehub API: Serious Security For File Sharing'
+  url: http://www.programmableweb.com/2013/06/20/onehub-api-serious-security-for-file-sharing/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5a8337a6ab3c015f986be6092d138669
+  item_date: "2013-06-20 00:00:00"
+  title: Thermostat Maker Ecobee Launches Home Automation API
+  url: http://www.programmableweb.com/news/thermostat-maker-ecobee-launches-home-automation-api/2013/06/20
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 14e5da6df1283ae31ef2f298ae60faaf
+  item_date: "2013-06-20 00:00:00"
+  title: 'Xively API: Connecting Devices to an IoT Platform'
+  url: http://www.programmableweb.com/news/xively-api-connecting-devices-to-iot-platform/2013/06/20
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 324f1ef1c9cac403f4ec855b670306f3
+  item_date: "2013-06-21 00:00:00"
+  title: Education Hackathon Seeks To Solve Real World Problems
+  url: http://www.programmableweb.com/news/education-hackathon-seeks-to-solve-real-world-problems/2013/06/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e3750f477171019d5c731ffab122e55e
+  item_date: "2013-06-21 00:00:00"
+  title: Mobile Analytics (iOS) with Storm
+  url: http://blogs.splunk.com/2013/06/21/mobile-analytics-ios-with-storm/
+  domain: blogs.splunk.com
+  image: ""
+- curated_id: fd23f819ff81c2de42ae26af0ffe4f41
+  item_date: "2013-06-21 00:00:00"
+  title: Mixpanel just got more powerful
+  url: https://blog.mixpanel.com/2013/06/21/mixpanel-just-got-more-powerful/
+  domain: blog.mixpanel.com
+  image: ""
+- curated_id: 06bc2cebd9a98fa177325b74ed937b4a
+  item_date: "2013-06-21 00:00:00"
+  title: Registration Begins for API World 2013 in San Francisco
+  url: http://www.programmableweb.com/news/registration-begins-api-world-2013-san-francisco/2013/06/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 28758a6ae7befa733c8be108bd547946
+  item_date: "2013-06-21 00:00:00"
+  title: 'Gravity RD Recommendation API: See You at the (Right) Movies'
+  url: http://www.programmableweb.com/news/gravity-rd-recommendation-api-see-you-right-movies/2013/06/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e86707f60787cbfb2e247b5bd879a6a6
+  item_date: "2013-06-21 00:00:00"
+  title: 'Automobile: The Next Major Technology Platform ? Part III ? Apple Enters
+    Car as a Platform Arena, GM?s Dan Akerson'
+  url: http://www.programmableweb.com/news/automobile-next-major-technology-platform-part-iii-apple-enters-car-platform-arena-gms-dan-akerson/2013/06/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: cbbc6c974f18367dabd518dfcc3417a2
+  item_date: "2013-06-21 00:00:00"
+  title: 'How Are You? API: Taking Better Care Of Your Health'
+  url: http://www.programmableweb.com/news/how-are-you-api-taking-better-care-your-health/2013/06/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: cdc36ec1642aca679fca7255d0f334e2
+  item_date: "2013-06-21 00:00:00"
+  title: EE 4G Hackathon Announces API Partners
+  url: http://www.programmableweb.com/2013/06/21/ee-4g-hackathon-announces-api-partners/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: c112796bf9b01e4a900a0a74bec8d5a8
+  item_date: "2013-06-21 00:00:00"
+  title: The Perils of Being a Mobile App Developer
+  url: http://www.programmableweb.com/news/perils-being-mobile-app-developer/2013/06/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 310c5bbc68b7a8a4971a1f6c6b28ea1a
+  item_date: "2013-06-24 00:00:00"
+  title: 'Windows Extends Azure MBaaS: Custom APIs Just a Mouse Click Away'
+  url: http://www.programmableweb.com/news/windows-extends-azure-mbaas-custom-apis-just-mouse-click-away/2013/06/24
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 482083dc56f908502a3639045f4ec07d
+  item_date: "2013-06-24 00:00:00"
+  title: Traindom API Provides Access to Infoproduct Platform
+  url: http://www.programmableweb.com/2013/06/24/traindom-api-provides-access-to-infoproduct-platform/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 7cc9f5829f282333b8139fa349668b02
+  item_date: "2013-06-24 00:00:00"
+  title: 'SmartFile for Developers: Developer Centric PaaS for Files'
+  url: http://www.programmableweb.com/2013/06/24/smartfile-for-developers-developer-centric-paas-for-files/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 7ab5fd9c4b6bdcca71aff380947e83de
+  item_date: "2013-06-24 00:00:00"
+  title: 'Text Message Marketing: Slick Text Debuts API'
+  url: http://www.programmableweb.com/2013/06/24/text-message-marketing-slick-text-debuts-api/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: ebfe826fb9fa2350c29644ad08fd179c
+  item_date: "2013-06-24 00:00:00"
+  title: The Quandary of To-do Apps Without APIs
+  url: http://www.programmableweb.com/2013/06/24/the-quandary-of-to-do-apps-without-apis/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b3107aa0e66c5ef5340ae242a096b8af
+  item_date: "2013-06-24 00:00:00"
+  title: 'ZOWi API: A Digital Quizmaster For Effective Learning'
+  url: http://www.programmableweb.com/2013/06/24/zowi-api-a-digital-quizmaster-for-effective-learning/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: d81293fbdd6c4912dd652066c9261555
+  item_date: "2013-06-25 00:00:00"
+  title: 'The Ocutag API: Delivering Answers with Visual Search'
+  url: http://www.programmableweb.com/2013/06/25/the-ocutag-api-delivering-answers-with-visual-search/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3160696c6a9c6c58879bbe47825c912a
+  item_date: "2013-06-25 00:00:00"
+  title: Jinni Expands API to Find Movies and TV to Satisfy Everyone?s Preference
+  url: http://www.programmableweb.com/2013/06/25/jinni-expands-api-to-find-movies-and-tv-to-satisfy-everyones-preference/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: fe8ff21713cdff98f68ffa824f855192
+  item_date: "2013-06-25 00:00:00"
+  title: 'Glympse API: Location Sharing With More Control'
+  url: http://www.programmableweb.com/2013/06/25/glympse-api-location-sharing-with-more-control/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 4a43b326b21e2caf28325417e5dfb58b
+  item_date: "2013-06-26 00:00:00"
+  title: Introducing BigML Subscriptions + Flexible Usage Options
+  url: https://blog.bigml.com/2013/06/26/introducing-bigml-subscriptions-flexible-usage-options/
+  domain: blog.bigml.com
+  image: ""
+- curated_id: 0910e69e5b90c52ee1bfb63fdab3f688
+  item_date: "2013-06-27 00:00:00"
+  title: Binding Machine Learning and node.js
+  url: https://blog.bigml.com/2013/06/27/binding-machine-learning-and-node-js/
+  domain: blog.bigml.com
+  image: ""
+- curated_id: 4297bcc6518533180b19b573eaf97de5
+  item_date: "2013-06-28 00:00:00"
+  title: The Challenges of Being a Mobile App Developer
+  url: http://www.programmableweb.com/news/challenges-being-mobile-app-developer/2013/06/28
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 9636dd2c3f005cae64c383ac18a2dd53
+  item_date: "2013-06-28 00:00:00"
+  title: 'The Tradegecko API: The Path to Fulfillment'
+  url: http://www.programmableweb.com/2013/06/28/the-tradegecko-api-the-path-to-fulfillment/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b023ad0ac2116f5e2b790a61b3223da7
+  item_date: "2013-06-28 00:00:00"
+  title: Most Popular APIs That Are No More
+  url: http://www.programmableweb.com/2013/06/28/most-popular-apis-that-are-no-more/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e209230b17372196127fc35dccc867a5
+  item_date: "2013-06-28 00:00:00"
+  title: New Social Media Channel Added to the Trumpia API
+  url: http://www.programmableweb.com/2013/06/28/new-social-media-channel-added-to-the-trumpia-api/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f50adac8445324002f3c38f324125dc7
+  item_date: "2013-06-28 00:00:00"
+  title: Searching for a Parking Space? Streetline Releases Free Basic API
+  url: http://www.programmableweb.com/2013/06/28/searching-for-a-parking-space-streetline-releases-free-basic-api/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 9f610ebf33c07e05d10028b504bc846a
+  item_date: "2013-06-28 00:00:00"
+  title: 'SEO Success: BrightEdge API'
+  url: http://www.programmableweb.com/news/seo-success-brightedge-api/2013/06/28
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 0aa76bd628fec5f862ff5c976646e718
+  item_date: "2013-07-01 00:00:00"
+  title: Twitter Ushers in Second Round of Ads API Partners
+  url: http://www.programmableweb.com/news/twitter-ushers-second-round-ads-api-partners/2013/07/01
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 96d833c17a61cf65eb25a99885a98c02
+  item_date: "2013-07-01 00:00:00"
+  title: Walgreens Announces QuickPrints API Designed for Windows 8 Coming Soon, App
+    Contest
+  url: http://www.programmableweb.com/2013/07/01/walgreens-announces-quickprints-api-designed-for-windows-8-coming-soon-app-contest/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 12ecb0ec000ffe9fcc929648d313d0c0
+  item_date: "2013-07-01 00:00:00"
+  title: 'HackPad API: A Handy Tool For Document Collaboration'
+  url: http://www.programmableweb.com/news/hackpad-api-handy-tool-document-collaboration/2013/07/01
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 17e23af45c4a9c4a833b916d82390d79
+  item_date: "2013-07-01 00:00:00"
+  title: You Don?t Need Coursera to Get Started with Machine Learning
+  url: https://blog.bigml.com/2013/07/01/you-dont-need-coursera-to-get-started-with-machine-learning/
+  domain: blog.bigml.com
+  image: ""
+- curated_id: d03c5018ea02cdff2b088c053d95ab4c
+  item_date: "2013-07-01 00:00:00"
+  title: Practice Fusion Releases New Imaging API Ahead of EHR Incentive Changes
+  url: http://www.programmableweb.com/news/practice-fusion-releases-new-imaging-api-ahead-ehr-incentive-changes/2013/07/01
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 8a14ecac3c0ff8604b658749ce4b3bb5
+  item_date: "2013-07-02 00:00:00"
+  title: Droplr API Opens The Door For Even Better File Sharing Options
+  url: http://www.programmableweb.com/2013/07/02/droplr-api-opens-the-door-for-even-better-file-sharing-options/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e0360bfc5fc7033066211aa146773522
+  item_date: "2013-07-03 00:00:00"
+  title: With Firefox 23 Beta, Firefox Opens Social API to All
+  url: http://www.programmableweb.com/news/firefox-23-beta-firefox-opens-social-api-to-all/2013/07/03
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f4bdcb9cf8e96702d532e492f68f25c4
+  item_date: "2013-07-03 00:00:00"
+  title: Create and Manage Email Newsletters in Browser via the Ubivox API
+  url: http://www.programmableweb.com/2013/07/03/create-and-manage-email-newsletters-in-browser-via-the-ubivox-api/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 1a882a09ba346c634d4f0a68c0def50d
+  item_date: "2013-07-03 00:00:00"
+  title: 'Contentful API: Platform-Agnostic Content Distribution Has Arrived'
+  url: http://www.programmableweb.com/news/contentful-api-platform-agnostic-content-distribution-has-arrived/2013/07/03
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 969adce92ef01276dfb7c44f96b7ebfc
+  item_date: "2013-07-04 00:00:00"
+  title: SciFinder Now Available via API
+  url: http://www.programmableweb.com/news/scifinder-now-available-api/2013/07/04
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: dc62087b934b643ed9afeabf19709105
+  item_date: "2013-07-05 00:00:00"
+  title: 'Guild Wars 2 API: Be a Real Hero and Build Your Own Tools'
+  url: http://www.programmableweb.com/news/guild-wars-2-api-be-real-hero-and-build-your-own-tools/2013/07/05
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 533157ba4f3a6c4fb94b2e9a0ef24f23
+  item_date: "2013-07-05 00:00:00"
+  title: Dish Opens Second Screen API to Partners
+  url: http://www.programmableweb.com/2013/07/05/dish-opens-second-screen-api-to-partners/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 453c16339f7dda56c7cad5ef4f9e2ead
+  item_date: "2013-07-05 00:00:00"
+  title: All Open Data APIs Should Have Machine Readable Metadata, Says ODI ?And Here?s
+    How
+  url: http://www.programmableweb.com/2013/07/05/all-open-data-apis-should-have-machine-readable-metadata-says-odi-and-heres-how/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 6cb7db401b28113f6d60c56f1f43f671
+  item_date: "2013-07-05 00:00:00"
+  title: DoneDone API Enables Collaborative Issue Tracking
+  url: http://www.programmableweb.com/news/donedone-api-enables-collaborative-issue-tracking/2013/07/05
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 719c78d800e575c773716cff58d9ed5e
+  item_date: "2013-07-06 00:00:00"
+  title: AuthorityLabs 3.0 is Here!
+  url: https://authoritylabs.com/blog/new-authoritylabs-interface/
+  domain: authoritylabs.com
+  image: ""
+- curated_id: 7125722fa19a718af6444eed69c2f518
+  item_date: "2013-07-07 00:00:00"
+  title: 'APIs of the Week: Staff Picks Pearson, Citrix and Hatebase'
+  url: http://www.programmableweb.com/news/apis-week-staff-picks-pearson-citrix-and-hatebase/2013/07/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 03b2050700a5ace65ea478626155f71e
+  item_date: "2013-07-08 00:00:00"
+  title: Where Do We Lead the APIs of Tomorrow? API Craft Aims to Find Out
+  url: http://www.programmableweb.com/news/where-do-we-lead-apis-tomorrow-api-craft-aims-to-find-out/2013/07/08
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 6e0e73c2f91fae909d0cf8c173171e88
+  item_date: "2013-07-08 00:00:00"
+  title: 'Manage Museum and Gallery Collections via API: eHive'
+  url: http://www.programmableweb.com/news/manage-museum-and-gallery-collections-api-ehive/2013/07/08
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 85d13d182550dea10a7068ca21465cc9
+  item_date: "2013-07-08 00:00:00"
+  title: Fancy Photos Are A Breeze With Ribbet API
+  url: http://www.programmableweb.com/news/fancy-photos-are-breeze-ribbets-api/2013/07/08
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 518f5dc30a6c05d2b57df861ca07ebe6
+  item_date: "2013-07-08 00:00:00"
+  title: 'The OOcharts API: Simplifying Google Analytics'
+  url: http://www.programmableweb.com/news/oocharts-api-simplifying-google-analytics/2013/07/08
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 6bb6b97609728ebf9b62e37bf330bde9
+  item_date: "2013-07-08 00:00:00"
+  title: Get an Exclusive Features Preview in the New Secret Lab
+  url: https://www.wrike.com/blog/07/08/2013/get-an-exclusive-features-preview-new-secret-lab/
+  domain: www.wrike.com
+  image: ""
+- curated_id: 39147d626fe26ffb3576e1ae00f90bae
+  item_date: "2013-07-09 00:00:00"
+  title: 'Given.to: The API That Keeps on Giving'
+  url: http://www.programmableweb.com/news/given.to-api-keeps-giving/2013/07/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: bbc1777a79f6ef9dca9493c022fac339
+  item_date: "2013-07-09 00:00:00"
+  title: SOA Software API Management Solution Allows Enterprises to Manage Full Lifecycle
+    of DataPower-Based APIs
+  url: http://www.programmableweb.com/news/soa-software-api-management-solution-allows-enterprises-to-manage-full-lifecycle-datapower-based-apis/2013/07/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3b93a04e0ae62fcaa1c4835264bfd7d8
+  item_date: "2013-07-09 00:00:00"
+  title: Firebase Adds Android to Mobile Support
+  url: http://www.programmableweb.com/news/firebase-adds-android-to-mobile-support/2013/07/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e0f1da827f7e68d9071d6f01a82b8ce7
+  item_date: "2013-07-09 00:00:00"
+  title: 33 Google APIs That Are No More
+  url: http://www.programmableweb.com/news/33-google-apis-are-no-more/2013/07/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e61106f2694a3368d334f5c06f691188
+  item_date: "2013-07-09 00:00:00"
+  title: Apsalar?s Demand-Side Platform Available and Out of Beta
+  url: https://apsalar.com/2013/07/apsalar-mobile-dsp/
+  domain: apsalar.com
+  image: ""
+- curated_id: 3ae1649532f7fd5d42a9c6f180ad9473
+  item_date: "2013-07-09 00:00:00"
+  title: Using Crime Data via APIs for Good? or Evil?
+  url: http://www.programmableweb.com/news/using-crime-data-apis-good
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 6c098eb1c8b904190bea131a3b089be4
+  item_date: "2013-07-09 00:00:00"
+  title: '35 Editing APIs: Aviary, Google Translator and Pho.to'
+  url: http://www.programmableweb.com/news/35-editing-apis-aviary-google-translator-and-pho.to/2013/07/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e222db8cc103bece2ff0e05968d55a78
+  item_date: "2013-07-10 00:00:00"
+  title: Factual Helps App Developers Personalize The Mobile Experience
+  url: http://www.programmableweb.com/news/factual-helps-app-developers-personalize-mobile-experience/2013/07/10
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 06122a91bc584f95bda3af3bc7999658
+  item_date: "2013-07-10 00:00:00"
+  title: 'MailWriter API: For The Love Of Sending Letters'
+  url: http://www.programmableweb.com/news/mailwriter-api-love-sending-letters/2013/07/10
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 6e5f1d5a963041e9f969b07f1cca086a
+  item_date: "2013-07-10 00:00:00"
+  title: 'Run Realtime Reports on Chapoo?s Project Management Platform: Chapoo API'
+  url: http://www.programmableweb.com/news/run-realtime-reports-chapoos-project-management-platform-chapoo-api/2013/07/10
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: d588b19b2b7106c1f7e12d2a1f929bc1
+  item_date: "2013-07-10 00:00:00"
+  title: New WSO2 App Factory Allows Management of Complete Enterprise Application
+    Lifecycle
+  url: http://www.programmableweb.com/news/new-wso2-app-factory-allows-management-complete-enterprise-application-lifecycle/2013/07/10
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b5ebfe226fbc36f18a42594fcf57d754
+  item_date: "2013-07-10 00:00:00"
+  title: Mobile Developer Becomes Redundant
+  url: http://www.programmableweb.com/news/mobile-developer-becomes-redundant/2013/07/10
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 33e6a7e87ce647676d8aa3f68f82a315
+  item_date: "2013-07-10 00:00:00"
+  title: Dropbox?s New Datastore API Lets Third-Party Apps Sync Data
+  url: http://www.programmableweb.com/news/dropbox
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: edeef726d76b202441b0ee0e9c79de1b
+  item_date: "2013-07-11 00:00:00"
+  title: Announcing updated UserVoice Analytics!
+  url: https://community.uservoice.com/blog/announcing-updated-uservoice-analytics//
+  domain: community.uservoice.com
+  image: ""
+- curated_id: 2d6c0f86b278be1e6e6b419fdcf0d017
+  item_date: "2013-07-11 00:00:00"
+  title: 'Cigna Health API: Realtime Health Data for Third Party Applications'
+  url: http://www.programmableweb.com/news/cigna-health-api-realtime-health-data-third-party-applications/2013/07/11
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: d3be559699c7f79c062e8fa93aaaad21
+  item_date: "2013-07-11 00:00:00"
+  title: HeyWatch?s Robot API Simplifies Video Encoding Integration
+  url: http://www.programmableweb.com/news/heywatchs-robot-api-simplifies-video-encoding-integration/2013/07/11
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 15eba5909134568e8713cc9e430cb610
+  item_date: "2013-07-12 00:00:00"
+  title: Say Goodbye to Google Latitude, Service to be Shut Down August 9
+  url: http://www.programmableweb.com/news/say-goodbye-to-google-latitude-service-to-be-shut-down-august-9/2013/07/12
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: af33fcadd4c7de9a8fcfb3a9042a899c
+  item_date: "2013-07-12 00:00:00"
+  title: 'Know Your Apps And Make Better Business Decisions: App Annie API'
+  url: http://www.programmableweb.com/news/know-your-apps-and-make-better-business-decisions-app-annie-api/2013/07/12
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5b94e81345ff21ada35c87df08d55a55
+  item_date: "2013-07-12 00:00:00"
+  title: LeadLedger Launches Sales Lead Generation API
+  url: http://www.programmableweb.com/news/leadledger-launches-sales-lead-generation-api/2013/07/12
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5cef615d9d813fbb7f05882c076ef147
+  item_date: "2013-07-12 00:00:00"
+  title: 'Infographic: Companies With the Most APIs'
+  url: http://www.programmableweb.com/news/infographic-companies-most-apis/2013/07/12
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: a0f411b7313fd8e6c4ad030414d68c6f
+  item_date: "2013-07-29 00:00:00"
+  title: Graphite at Evernote
+  url: http://blog.evernote.com/tech/2013/07/29/graphite-at-evernote/
+  domain: blog.evernote.com
+  image: ""
+- curated_id: ddcc4f611d2d7b0790494199110a4c97
+  item_date: "2013-07-29 00:00:00"
+  title: API Management Platforms Focus On Helping Business Monetize APIs
+  url: http://www.programmableweb.com/news/api-management-platforms-focus-helping-business-monetize-apis/2013/07/29
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: aefaf986c38017e18e01653631a7d449
+  item_date: "2013-07-29 00:00:00"
+  title: 'The StatusPage API: Neither Death, Nor Taxes, Nor Downtime Stays This Service
+    From Your Customers'
+  url: http://www.programmableweb.com/news/statuspage-api-neither-death-nor-taxes-nor-downtime-stays-service-your-customers/2013/07/29
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 2500f0c913d7ce5566a90548523be197
+  item_date: "2013-07-30 00:00:00"
+  title: 'Sensetecnic WoTkit API: Ramping Up the Internet of Things'
+  url: http://www.programmableweb.com/news/sensetecnic-wotkit-api-ramping-internet-things/2013/07/30
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 139a6f6d84f9811bc918883653d4648b
+  item_date: "2013-07-30 00:00:00"
+  title: PlanetRe Books the Inuit Quickbooks API into Its System
+  url: http://www.programmableweb.com/news/planetre-books-inuit-quickbooks-api-its-system/2013/07/30
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 1c4fd379782c63056753754d69b213fa
+  item_date: "2013-07-30 00:00:00"
+  title: 'KarmaCRM API: The Magic Ingredient For Successful Sales'
+  url: http://www.programmableweb.com/news/karmacrm-api-magic-ingredient-successful-sales/2013/07/30
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: cdba08aadbacfd4d3ee9bd5002f94819
+  item_date: "2013-07-30 00:00:00"
+  title: The Recent Rise of Government Open Data APIs
+  url: http://www.programmableweb.com/news/recent-rise-government-open-data-apis/2013/07/30
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 7be850810b601d1dc0b55cfc3d409208
+  item_date: "2013-07-30 00:00:00"
+  title: Google Calendar API and Cloud Storage Updates Ring In Efficiency
+  url: http://www.programmableweb.com/news/google-calendar-api-and-cloud-storage-updates-ring-efficiency/2013/07/30
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b7bf198bf454792df84ebe053138cfb9
+  item_date: "2013-07-30 00:00:00"
+  title: OpenSearchServer Launches Screenshot API with More Soon to Come
+  url: http://www.programmableweb.com/news/opensearchserver-launches-screenshot-api-more-soon-to-come/2013/07/30
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e8abc1fe6bf3839a778a7d082fc94b0d
+  item_date: "2013-07-30 00:00:00"
+  title: 'OpenDataCommunities API: Data Discovery and Visualizations for UK neighborhoods'
+  url: http://www.programmableweb.com/news/opendatacommunities-api-data-discovery-and-visualizations-uk-neighborhoods/2013/07/30
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: a917639de5a991852c065b14b4c5e610
+  item_date: "2013-07-31 00:00:00"
+  title: 'Kinvey?s Premium Analytics: Deeper Knowledge About Your App Users'
+  url: https://www.kinvey.com/blog/3103/kinveys-premium-analytics
+  domain: www.kinvey.com
+  image: ""
+- curated_id: 600a1877518c6f808fbc82a80b7b4e1b
+  item_date: "2013-07-31 00:00:00"
+  title: NFLData.com Wants to Score With Sports Data API
+  url: http://www.programmableweb.com/news/nfldata.com-wants-to-score-sports-data-api/2013/07/31
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 129083cc85db7b4e789317ede7cd0ed5
+  item_date: "2013-08-01 00:00:00"
+  title: Interview with Apigee CEO Chet Kapoor on its $35 Million Funding Round
+  url: http://www.programmableweb.com/news/interview-apigee-ceo-chet-kapoor-its-35-million-funding-round/interview/2013/08/01
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 87ec9b58944d7fff8be4404a2093799e
+  item_date: "2013-08-01 00:00:00"
+  title: Ready to Go Shopping? Diffbot?s Product API Parses Product Data
+  url: http://www.programmableweb.com/news/ready-to-go-shopping-diffbot
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: db6a52ef98f54fc8f64a0f4be752e39b
+  item_date: "2013-08-01 00:00:00"
+  title: AppDirect Launches Series of Marketplace APIs
+  url: http://www.programmableweb.com/news/appdirect-launches-series-marketplace-apis/2013/08/01
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f195ffd4de6e27d231e87f4c79f9abf9
+  item_date: "2013-08-01 00:00:00"
+  title: Latest Release of App Annie Includes Key Enhancements and New Analytics API
+  url: http://www.programmableweb.com/news/latest-release-app-annie-includes-key-enhancements-and-new-analytics-api/2013/08/01
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f8a00c753d14924fddbb5fd4a391d902
+  item_date: "2013-08-02 00:00:00"
+  title: New Cloud Elements Messaging Hub Delivers Uniform API for SaaS Messaging
+    Integration
+  url: http://www.programmableweb.com/news/new-cloud-elements-messaging-hub-delivers-uniform-api-saas-messaging-integration/2013/08/02
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 362c6cf2d27b00acd2c4fa05ca48adf8
+  item_date: "2013-08-02 00:00:00"
+  title: Another One Bites the Twitter Dust
+  url: http://blog.sysomos.com/2013/08/02/another-one-bites-the-twitter-dust/
+  domain: blog.sysomos.com
+  image: ""
+- curated_id: f0e57a1aef30998270b682771818b1de
+  item_date: "2013-08-05 00:00:00"
+  title: Introducing Company Page Posting and Analytics to the LinkedIn Platform
+  url: https://developer.linkedin.com/blog/introducing-company-page-posting-and-analytics-linkedin-platform
+  domain: developer.linkedin.com
+  image: ""
+- curated_id: 3062ba6f9ac9f7cdc217940a116bb0ef
+  item_date: "2013-08-07 00:00:00"
+  title: Poikos Launches FlitFit API to Capture and Integrate Body Measurements with
+    Third Party Apps
+  url: http://www.programmableweb.com/news/poikos-launches-flitfit-api-to-capture-and-integrate-body-measurements-third-party-apps/2013/08/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: bbf9268c92ff0e68fb5c4219ac032f35
+  item_date: "2013-08-07 00:00:00"
+  title: Micro-Survey Platform SlimSurveys Launches Brand New API
+  url: http://www.programmableweb.com/news/micro-survey-platform-slimsurveys-launches-brand-new-api/2013/08/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 60b6066992310ef98f8110477cc57084
+  item_date: "2013-08-07 00:00:00"
+  title: 'The LaunchPad Recruits API: Speeding Up the Hiring Process?Maybe'
+  url: http://www.programmableweb.com/news/launchpad-recruits-api-speeding-hiring-process-maybe/2013/08/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 548d470513dc9e17905486098a1a47a2
+  item_date: "2013-08-07 00:00:00"
+  title: A Note from ProgrammableWeb?s New Editor in Chief
+  url: http://www.programmableweb.com/news/note-programmablewebs-new-editor-chief/2013/08/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5f00333a1d5da118b9682d3871fb9aac
+  item_date: "2013-08-07 00:00:00"
+  title: 'Google APIs: XML Still Leads JSON'
+  url: http://www.programmableweb.com/news/google-apis-xml-still-leads-json/2013/08/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 8dffc7518b9944e74ab131eeca8aa9bb
+  item_date: "2013-08-07 00:00:00"
+  title: 'National Farmer?s Market Week: How to Eat Local, Wherever You Are'
+  url: http://www.programmableweb.com/news/national-farmers-market-week-how-to-eat-local-wherever-you-are/2013/08/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 71eab307dfd9d7c46ddb5d09312e8c75
+  item_date: "2013-08-07 00:00:00"
+  title: '39 Answers APIs: Yahoo Answers, Quora and Stack Exchange'
+  url: http://www.programmableweb.com/news/39-answers-apis-yahoo-answers-quora-and-stack-exchange/2013/08/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3d0412909077aa5000ad849c4e055186
+  item_date: "2013-08-07 00:00:00"
+  title: Facebook Targeting Comes to Viralheat
+  url: https://www.viralheat.com/blog/2013/08/07/facebook-targeting-comes-to-viralheat/
+  domain: www.viralheat.com
+  image: ""
+- curated_id: 301490ce98edc78c1bf840466d43f171
+  item_date: "2013-08-07 00:00:00"
+  title: 'Pedalling the Connection: Data, Devices and APIs in Le Tour de France'
+  url: http://www.programmableweb.com/news/pedalling-connection-data-devices-and-apis-le-tour-de-france/2013/08/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: af786f6b2d3fa94a8d36f9baab1bad14
+  item_date: "2013-08-08 00:00:00"
+  title: 'Analytics: Build vs Buy'
+  url: https://blog.mixpanel.com/2013/08/08/analytics-build-vs-buy/
+  domain: blog.mixpanel.com
+  image: ""
+- curated_id: b852c6b3cc7080e848698a3286c2edb8
+  item_date: "2013-08-08 00:00:00"
+  title: Connect Devices Together With the New Illiri API
+  url: http://www.programmableweb.com/news/connect-devices-together-new-illiri-api/2013/08/08
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 4ca74bbae038c3cefb715440f6125a80
+  item_date: "2013-08-08 00:00:00"
+  title: BugDigger API Removes the Human Element from Bug Reporting
+  url: http://www.programmableweb.com/news/bugdigger-api-removes-human-element-bug-reporting/2013/08/08
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 6d224a3d50ece731892bf12895d887d4
+  item_date: "2013-08-09 00:00:00"
+  title: The Rise of Continuous Application Testing in the Cloud
+  url: http://www.programmableweb.com/news/rise-continuous-application-testing-cloud/2013/08/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: c5f24a1ef8129becef857b1f03a241bc
+  item_date: "2013-08-09 00:00:00"
+  title: GM Finds New Roads with Curated App Store, More Changes Down the Track
+  url: http://www.programmableweb.com/news/gm-finds-new-roads-curated-app-store-more-changes-down-track/2013/08/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b67d2e5433ff803b6ca892951e5e2b1f
+  item_date: "2013-08-09 00:00:00"
+  title: KidoZen Releases Enterprise Systems APIs Platform (mBaaS)
+  url: http://www.programmableweb.com/news/kidozen-releases-enterprise-systems-apis-platform-mbaas/2013/08/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: ce91be846e8711f010e056d5d678c3de
+  item_date: "2013-08-09 00:00:00"
+  title: Google Cloud Platform Announces Introduces Key Features Announced at IO
+  url: http://www.programmableweb.com/news/google-cloud-platform-announces-introduces-key-features-announced-io/2013/08/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5fa8aa5e95bd6542c6236767c5278391
+  item_date: "2013-08-11 00:00:00"
+  title: Bitdeli Badge for GitHub Analytics (re)launches!
+  url: http://blog.bitdeli.com/post/58039417256/bitdeli-badge-for-github-analytics-re-launches
+  domain: blog.bitdeli.com
+  image: ""
+- curated_id: 1fb02cc2590c14a90ff0b5c8ed948b1f
+  item_date: "2013-08-13 00:00:00"
+  title: Developers Invited to Participate in First-Ever Public HACKTIVE Hackathon
+  url: http://www.programmableweb.com/news/developers-invited-to-participate-first-ever-public-hacktive-hackathon/2013/08/13
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 8de7edd69674cbf0adf43c716ff1b9c0
+  item_date: "2013-08-13 00:00:00"
+  title: Movideo Provides Managed Video Platform via API
+  url: http://www.programmableweb.com/news/movideo-provides-managed-video-platform-api/2013/08/13
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 730a137080e5d572fc7529ca24f1f43c
+  item_date: "2013-08-13 00:00:00"
+  title: IBM Corelet Language Allows Developers to Build Apps that Mimic Human Brain
+  url: http://www.programmableweb.com/news/ibm-corelet-language-allows-developers-to-build-apps-mimic-human-brain/2013/08/13
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f4b994e9f762c4fe266b05aad32346b2
+  item_date: "2013-08-13 00:00:00"
+  title: 'The Fareclock API: The Face (Recognition) of Modern Times'
+  url: http://www.programmableweb.com/news/fareclock-api-face-recognition-modern-times/2013/08/13
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 130a26599462fbc4a7826ee8a2a7f167
+  item_date: "2013-08-15 00:00:00"
+  title: Getting started
+  url: http://developer.infoconnect.com/guide
+  domain: developer.infoconnect.com
+  image: ""
+- curated_id: 0ed55e63ff5e5047afcbe73f198e850f
+  item_date: "2013-08-15 00:00:00"
+  title: Apsalar Raises $9M Series B Led by DCM to Expand Mobile DSP
+  url: https://apsalar.com/blog/
+  domain: apsalar.com
+  image: ""
+- curated_id: 11a0186a206b69b8c11927893340f24a
+  item_date: "2013-08-16 00:00:00"
+  title: 'iOS apps: Update to Mixpanel library 2.0.0 before iOS 7 launches'
+  url: https://blog.mixpanel.com/2013/08/16/ios-apps-update-to-mixpanel-library-2-0-0-before-ios-7-launches/
+  domain: blog.mixpanel.com
+  image: ""
+- curated_id: 81541cb84dc3d6a299177c1518ec5625
+  item_date: "2013-08-22 00:00:00"
+  title: GET vs POST ? A RESTful Primer
+  url: http://developer.infoconnect.com/get-vs-post-%E2%80%93-restful-primer
+  domain: developer.infoconnect.com
+  image: ""
+- curated_id: bffd9d0c4b7226bf92a1191e1305222a
+  item_date: "2013-08-28 00:00:00"
+  title: Get Your Geek On With These Five Free Developer Tools
+  url: https://authoritylabs.com/blog/free-developer-tools/
+  domain: authoritylabs.com
+  image: ""
+- curated_id: b0c28abd07f979e3bcdf2f562e05f368
+  item_date: "2013-09-03 00:00:00"
+  title: JSON and XML
+  url: http://developer.infoconnect.com/guide/json-vs-xml
+  domain: developer.infoconnect.com
+  image: ""
+- curated_id: 4c6da836ef37ba9d7636b152cd1c6544
+  item_date: "2013-09-05 00:00:00"
+  title: 'Parse Analytics: Same Great Taste, Now Just the Way You Like It'
+  url: http://blog.parse.com/announcements/parse-analytics-same-great-taste-now-just-the-way-you-like-it/
+  domain: blog.parse.com
+  image: ""
+- curated_id: 6ecbcbc9646f65582083b1233122d21f
+  item_date: "2013-09-09 00:00:00"
+  title: Announcing Our Updated Analytics Dashboard
+  url: https://apsalar.com/2013/09/announcing-our-updated-analytics-dashboard/
+  domain: apsalar.com
+  image: ""
+- curated_id: 2f3a65f43128caef177e00ecf43a8e05
+  item_date: "2013-09-13 00:00:00"
+  title: Server HTTP Response Monitoring Now in AuthorityLabs
+  url: https://authoritylabs.com/blog/response-indicator/
+  domain: authoritylabs.com
+  image: ""
+- curated_id: 209ca39fe21d1eb912da894ef925f77f
+  item_date: "2013-09-16 00:00:00"
+  title: No-Hassle Javascript Database
+  url: http://blog.loggr.net/post/61404850710/no-hassle-javascript-database#_=_
+  domain: blog.loggr.net
+  image: ""
+- curated_id: 910065e3fbd6dea741f557e28e909ade
+  item_date: "2013-09-23 00:00:00"
+  title: 'Fortumo Reporting API: Smart Analytics For Boosting Your Revenue'
+  url: http://blog.fortumo.com/fortumo-reporting-api-smart-analytics-for-boosting-your-revenue/
+  domain: blog.fortumo.com
+  image: ""
+- curated_id: 3c955143a28888d119479d1f48c5ad66
+  item_date: "2013-09-26 00:00:00"
+  title: DataSift Announces Next Generation Historics
+  url: http://blog.datasift.com/2013/09/26/why-better-data-is-important-historic-access-across-social/
+  domain: blog.datasift.com
+  image: ""
+- curated_id: 55577361a672ed17bdda4ca1cf04d644
+  item_date: "2013-09-30 00:00:00"
+  title: Use rsyslog and ElasticSearch for Powerful Log Aggregation
+  url: https://puppet.com/blog/use-rsyslog-and-elasticsearch-for-powerful-log-aggregation
+  domain: puppet.com
+  image: ""
+- curated_id: afd4a2a92d5fb64121f670d94e9757f5
+  item_date: "2013-10-10 00:00:00"
+  title: A Compete Analysis of Obamacare
+  url: https://blog.compete.com/2013/10/10/obamacare-insurance-industry/
+  domain: blog.compete.com
+  image: ""
+- curated_id: 26694bc0f46f8ba24a61b22556b4e77b
+  item_date: "2013-10-15 00:00:00"
+  title: Create Your Custom Report Using Pivot Analytics
+  url: http://blogs.shephertz.com/2013/10/16/create-your-custom-report-using-pivot-analytics/
+  domain: blogs.shephertz.com
+  image: ""
+- curated_id: 63680f4f442237e28cce7a7bf29043c1
+  item_date: "2013-10-30 00:00:00"
+  title: Data Preparation for Machine Learning using MySQL
+  url: https://blog.bigml.com/2013/10/30/data-preparation-for-machine-learning-using-mysql/
+  domain: blog.bigml.com
+  image: ""
+- curated_id: 75b4fbcf59ec66aab4ee23fc19e3e9e4
+  item_date: "2013-11-07 00:00:00"
+  title: 'InMobi Analytics: The one stop solution for all your analytics needs'
+  url: http://www.inmobi.com/blog/2013/11/07/inmobi-analytics-the-one-stop-solution-for-all-your-analytics-needs/
+  domain: www.inmobi.com
+  image: ""
+- curated_id: 76425122ce5d11378c24cf8886eb7e3f
+  item_date: "2013-11-10 00:00:00"
+  title: 'Sunday Series: Healthcare.gov Traffic Gives Large Boost to Insurance Category'
+  url: https://blog.compete.com/2013/11/10/healthcare-insurance-category/
+  domain: blog.compete.com
+  image: ""
+- curated_id: 24d1afb9f18061887b2ae637b446e0ae
+  item_date: "2013-11-19 00:00:00"
+  title: 'Improvements to Google Apps Marketplace: Wrike Goes Side-by-Side'
+  url: http://www.wrike.com/blog/11/19/2013/Improvements-to-Google-Apps-Marketplace-Wrike-Goes-Side-Side
+  domain: www.wrike.com
+  image: ""
+- curated_id: ac2d7deece631c5bbaeb81834af5b9d4
+  item_date: "2013-11-26 00:00:00"
+  title: Viralheat Adds Tumblr Integration
+  url: https://www.viralheat.com/blog/2013/11/26/viralheat-adds-tumblr-integration/
+  domain: www.viralheat.com
+  image: ""
+- curated_id: 04a0cb69bb27c1850e7ec5fe617d2639
+  item_date: "2013-12-03 00:00:00"
+  title: CrunchBase Reaches 50k Investment Rounds and 450k Profiles
+  url: https://info.crunchbase.com/2013/12/crunchbase-reaches-50k-investment-rounds-and-450k-profiles/
+  domain: info.crunchbase.com
+  image: ""
+- curated_id: 1992d1e5f945040730a855e6d1200be2
+  item_date: "2013-12-06 00:00:00"
+  title: Top 10 API traffic this year
+  url: https://fanart.tv/2013/12/top-10-api-traffic-this-year/
+  domain: fanart.tv
+  image: ""
+- curated_id: 98ba0516c1d98905e117ff2ebd43f0a8
+  item_date: "2013-12-18 00:00:00"
+  title: New API for Public ThingSpeak Channels Makes it Easy to Discover Open Data
+  url: http://community.thingspeak.com/2013/12/new-api-for-public-thingspeak-channels-make-it-easy-to-discover-open-data/
+  domain: community.thingspeak.com
+  image: ""
+- curated_id: 464f29ea98a504951acbd015877489ff
+  item_date: "2014-01-08 09:04:42"
+  title: Apigee Acquires InsightsOne To Deepen API Analytics Offerings | TechCrunch
+  url: https://techcrunch.com/2014/01/08/apigee-acquires-insightsone-to-deepen-api-insights-with-predictive-analytics/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 2b85fe7fd0829da80e93aaee57f39aaa
+  item_date: "2014-01-09 00:00:00"
+  title: 'Wrike and Github: Collaborative Coding Gets Much Easier with Wrike?s API'
+  url: http://www.wrike.com/blog/01/09/2014/Wrike-and-Github-Collaborative-Coding-Gets-Much-Easier-Wrike-API
+  domain: www.wrike.com
+  image: ""
+- curated_id: 28194f7dc1fc15fefd8bf22ed8df895e
+  item_date: "2014-01-30 00:00:00"
+  title: Build Charts with Historical Data and the Analytics API
+  url: https://developer.salesforce.com/blogs/developer-relations/2014/01/build-charts-with-history-tracking-data.html
+  domain: developer.salesforce.com
+  image: ""
+- curated_id: 8c170e2640206f794efa5ade0ec9bb98
+  item_date: "2014-03-03 00:00:00"
+  title: BigML + Tableau = Powerful Predictive Visualizations for Everyone
+  url: https://blog.bigml.com/2014/03/03/bigml-tableau-powerful-predictive-visualizations-for-everyone/
+  domain: blog.bigml.com
+  image: ""
+- curated_id: ac6d8ab999f49bc5f58ef07035f48fec
+  item_date: "2014-03-03 00:00:00"
+  title: AngularJS Routing
+  url: https://my.webtrends.com/release-notes
+  domain: my.webtrends.com
+  image: ""
+- curated_id: 4e5e22508ea7644b547eb3e89fb2198e
+  item_date: "2014-03-04 00:00:00"
+  title: Mixcloud crosses the pond, opens new office in USA
+  url: https://blog.mixcloud.com/2014/03/04/mixcloud-opens-up-shop-in-the-us/
+  domain: blog.mixcloud.com
+  image: ""
+- curated_id: 1a7377c5fdfcc5f2760ac52bdac7ce4b
+  item_date: "2014-04-10 00:00:00"
+  title: APImetrics Announces New Partnership with Radius Inc
+  url: http://apimetrics.io/2014/04/10/1057/
+  domain: apimetrics.io
+  image: ""
+- curated_id: 9c111d0cb4f06f1e5578408d4f929ce0
+  item_date: "2014-05-27 00:00:00"
+  title: The Postmark Statistics API
+  url: https://postmarkapp.com/blog/the-postmark-statistics-api
+  domain: postmarkapp.com
+  image: ""
+- curated_id: 1738c99898aadce00fee64e1881c7d61
+  item_date: "2014-06-09 00:00:00"
+  title: 'File Encryption at Rest: Your Attachments Made Even More Secure'
+  url: https://www.wrike.com/blog/06/09/2014/File-Encryption-Rest-Your-Attachments-Made-Even-More-Secure
+  domain: www.wrike.com
+  image: ""
+- curated_id: 9667af49dd5afaa7f5a1093a2806a48a
+  item_date: "2014-06-11 00:00:00"
+  title: Using Kimono Labs to Scrape the Web for Free
+  url: https://moz.com/blog/web-scraping-with-kimono-labs
+  domain: moz.com
+  image: ""
+- curated_id: 7c9d3f743a59c67daeeef85a93796e4d
+  item_date: "2014-06-11 00:00:00"
+  title: Electric Imp + Keen IO = IoT Analytics Magic
+  url: http://keenio.tumblr.com/post/88522353601/electric-imp-keen-io-iot-analytics-magic
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 6ab6da97051f8ba52df58dc61071582c
+  item_date: "2014-06-18 00:00:00"
+  title: Using Wrikes API to Calculate Project Budgets
+  url: https://www.wrike.com/blog/using-wrikes-api-to-calculate-project-budgets/
+  domain: www.wrike.com
+  image: ""
+- curated_id: d3bfe93f0398908d996dde4f800209b3
+  item_date: "2014-06-18 00:00:00"
+  title: 'Visualized: UK Gov G-cloud transactions '
+  url: http://blog.getdataseed.com/post/89162241552/updated-uk-gov-g-cloud-transactions-visualized
+  domain: blog.getdataseed.com
+  image: ""
+- curated_id: d4eede07e1dfb5f0b8118b03436a8645
+  item_date: "2014-06-27 00:00:00"
+  title: Using Zapier and Google Spreadsheets for Twitter Contest Management
+  url: https://authoritylabs.com/blog/twitter-contests/
+  domain: authoritylabs.com
+  image: ""
+- curated_id: 4f645c6ff44256d79b2469754a94c4ef
+  item_date: "2014-06-27 18:33:35"
+  title: Multivariate Data Analysis and  Visualization T...
+  url: http://www.scoop.it/t/r-for-journalists/p/4023716215/2014/06/27/multivariate-data-analysis-and-visualization-through-network-mapping
+  domain: www.scoop.it
+  image: ""
+- curated_id: c10910d8b78ab866c11a3fe721b1e82c
+  item_date: "2014-06-29 00:00:00"
+  title: Google, Twitter and NASA are showing why data is the new cloud
+  url: https://gigaom.com/2014/06/29/google-twitter-and-nasa-are-showing-why-data-is-the-new-cloud/
+  domain: gigaom.com
+  image: ""
+- curated_id: a508970d9abb3756da3d7dce28b44e6d
+  item_date: "2014-06-29 00:00:00"
+  title: See all of your social data in one place
+  url: http://www.socialreport.com/blog/see-all-of-your-social-data-in-one-place/
+  domain: www.socialreport.com
+  image: ""
+- curated_id: 8d0ded5ab9164c15e38bf6ae28112083
+  item_date: "2014-06-30 00:00:00"
+  title: Tooling and Analytics APIs?What They Are and When to Use Them
+  url: https://developer.salesforce.com/blogs/tech-pubs/2014/06/tooling-analytics-apis-use.html
+  domain: developer.salesforce.com
+  image: ""
+- curated_id: 28ef4d7813a3ea6f64691e1f6cdb2bb8
+  item_date: "2014-07-15 00:00:00"
+  title: '4 Easy Ways to Visualize Excel Data on Bing Maps '
+  url: https://blogs.msdn.microsoft.com/bingdevcenter/2014/07/15/4-easy-ways-to-visualize-excel-data-on-bing-maps/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: cc202ff3bc4933b99f78843fdab4ac3e
+  item_date: "2014-07-16 00:00:00"
+  title: Custom SMTP Delivery, SPF Check  REST Conversion API
+  url: http://rejoiner.com/resources/
+  domain: rejoiner.com
+  image: ""
+- curated_id: 7ac4ebc5d4ecb144a52b5348acb9ef3f
+  item_date: "2014-07-21 00:00:00"
+  title: Excel Tool to Automatically Format Your CSV Export
+  url: https://authoritylabs.com/blog/excel-tool-automatically-format-csv-export/
+  domain: authoritylabs.com
+  image: ""
+- curated_id: e29f35aa1ab9a688b1c89d499ef39c97
+  item_date: "2014-07-22 00:00:00"
+  title: New features just released
+  url: http://blog.getdataseed.com/post/92541396442/new-features-just-released#_=_
+  domain: blog.getdataseed.com
+  image: ""
+- curated_id: f0d8de99978ab38110ba5ef8b3a9bacd
+  item_date: "2014-07-22 00:00:00"
+  title: Wrike Integrates with Zapier for a World of Automation
+  url: https://www.wrike.com/blog/wrike-integrates-with-zapier-for-a-world-of-automation/
+  domain: www.wrike.com
+  image: ""
+- curated_id: 839362209e4ccab08c6d464a70fb6164
+  item_date: "2014-07-25 00:00:00"
+  title: Bing Maps REST and SOAP Services Imagery Styling Improvements Now Live!
+  url: https://blogs.msdn.microsoft.com/bingdevcenter/2014/07/25/bing-maps-rest-and-soap-services-imagery-styling-improvements-now-live/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: de2b1cf6f438a3d2c234ed8659503edb
+  item_date: "2014-07-31 00:00:00"
+  title: Apple and IBM Partnership Signals Rise of Enterprise Apps
+  url: https://www.appannie.com/insights/apple-and-ibm-partnership-signals-rise-of-enterprise-apps/
+  domain: www.appannie.com
+  image: ""
+- curated_id: cd66d6b9439fed8e9ed8b40b8c5b5172
+  item_date: "2014-08-04 00:00:00"
+  title: Sqrrl Connects to Hunk for Exploratory Analytics and Visualizations
+  url: http://blogs.splunk.com/2014/08/04/sqrrl-connects-to-hunk-for-exploratory-analytics/
+  domain: blogs.splunk.com
+  image: ""
+- curated_id: 6bea8ee15172c43d52dfe27fb1c92359
+  item_date: "2014-08-06 00:00:00"
+  title: Data Visualization Guide for Marketers
+  url: https://authoritylabs.com/blog/data-visualization-guide-marketers/
+  domain: authoritylabs.com
+  image: ""
+- curated_id: a6e2b15360e8c120d3de9ddae5d68a9c
+  item_date: "2014-08-13 00:00:00"
+  title: Join us at the Open Analytics Cyber Summit
+  url: https://ikanow.com/join-us-at-the-open-analytics-cyber-summit/
+  domain: ikanow.com
+  image: ""
+- curated_id: 73b1080d776ec5235531d1bc50471cc8
+  item_date: "2014-08-18 00:00:00"
+  title: Bing Developer Assistant for Visual Studio focuses on improving productivity
+    within the experience
+  url: https://blogs.msdn.microsoft.com/bingdevcenter/2014/08/18/bing-developer-assistant-for-visual-studio-focuses-on-improving-productivity-within-the-experience/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: c29fc893ce3b3e9cb93c36227396072b
+  item_date: "2014-08-18 00:00:00"
+  title: Funneldamentals (Ugh. Sorry. Sorry.)
+  url: http://keenio.tumblr.com/post/95135161401/beyond-funneldamentals-a-more-powerful-behavior#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 2138bb792c0b61f396537a3d2a056a53
+  item_date: "2014-08-21 00:00:00"
+  title: 'App Annie Interview Series ? Mobile Ad Insider: Fyber'
+  url: https://www.appannie.com/insights/
+  domain: www.appannie.com
+  image: ""
+- curated_id: 715a515f8bd2bbb623c7d9573fafb5fc
+  item_date: "2014-09-23 00:00:00"
+  title: Come and meet us at API Strategy and Practice
+  url: http://apimetrics.io/2014/09/23/come-meet-us-api-strategy-practice/
+  domain: apimetrics.io
+  image: ""
+- curated_id: 58cc612a809b4962071e53ddf619b2f2
+  item_date: "2014-09-24 00:00:00"
+  title: 6 Zapier Recipes to Streamline Your eCommerce Business
+  url: http://rejoiner.com/resources/zapier-ecommerce-recipes/
+  domain: rejoiner.com
+  image: ""
+- curated_id: a43bd91dddbaed83e420e8e8e230ba25
+  item_date: "2014-09-25 00:00:00"
+  title: Yodlee Launches Enterprise API to Unite Banks and Promote Innovation
+  url: http://www.programmableweb.com/news/yodlee-launches-enterprise-api-to-unite-banks-and-promote-innovation/2014/09/25
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: af215a5a5d4d60fc1548a7cb802929d7
+  item_date: "2014-09-25 00:00:00"
+  title: WillowTree Apps Applies Service Virtualization to API Development
+  url: http://www.programmableweb.com/news/willowtree-apps-applies-service-virtualization-to-api-development/2014/09/25
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 23f5f8fae149d00ba113a9dde0fd5369
+  item_date: "2014-09-25 00:00:00"
+  title: Dribbble Launches New Beta Version API
+  url: http://www.programmableweb.com/news/dribbble-launches-new-beta-version-api/brief/2014/09/25
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f6f044a2875b62f360b49439f34e8576
+  item_date: "2014-09-25 00:00:00"
+  title: OutSystems Upgrade Simplifies Mobile Application Development and Deployment
+  url: http://www.programmableweb.com/news/outsystems-upgrade-simplifies-mobile-application-development-and-deployment/2014/09/25
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 581cbbc03500b7e36e5501fc124da1c9
+  item_date: "2014-09-25 00:00:00"
+  title: Superpowered Analytics With DataHero!
+  url: https://www.eventbrite.com/blog/superpowered-analytics-with-datahero/
+  domain: www.eventbrite.com
+  image: ""
+- curated_id: 42a1c680037581ed1febaa830187a9d1
+  item_date: "2014-09-26 00:00:00"
+  title: ETrade Launches Stock Trading API
+  url: http://www.programmableweb.com/news/etrade-launches-stock-trading-api/2010/08/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 946a30896681fa41c78b4dd652182058
+  item_date: "2014-09-26 00:00:00"
+  title: SmartBear Unveils End-to-End API Testing Platform
+  url: http://www.programmableweb.com/news/smartbear-unveils-end-to-end-api-testing-platform/2014/09/26
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: c434f523118f660a02f2f1c5a38ab101
+  item_date: "2014-09-26 00:00:00"
+  title: The New York Times Releases Its First API
+  url: http://www.programmableweb.com/news/new-york-times-releases-its-first-api/2008/10/15
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: ead83c6376c505777638e800c6c435de
+  item_date: "2014-09-26 00:00:00"
+  title: Long a Data Provider, Financial Research Firm Becomes API Provider
+  url: http://www.programmableweb.com/news/long-data-provider-financial-research-firm-becomes-api-provider/2011/07/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 7d651086f86d9d6ed6fc53a5abf6b3a1
+  item_date: "2014-09-26 00:00:00"
+  title: 'Introducing Runscope Metrics: API Performance and Usage Analytics'
+  url: http://blog.runscope.com/posts/introducing-runscope-metrics-api-performance-and-usage-analytics
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 3d1330bb96f3107519364b7fa9fa0525
+  item_date: "2014-09-26 00:00:00"
+  title: Bayesian Statistics as a Way to Integrate Intuition and Data
+  url: http://keenio.tumblr.com/post/98491909836/bayesian-statistics-as-a-way-to-integrate#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 36c67e19a691a8a0458c58befebd0e62
+  item_date: "2014-09-26 00:00:00"
+  title: US Government Expands Commitments on 3rd Anniversary of Open Government Partnership
+  url: http://www.programmableweb.com/news/us-government-expands-commitments-3rd-anniversary-open-government-partnership/2014/09/26
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 107a9d971e74ffa05a05fd3d1b0114e3
+  item_date: "2014-09-26 00:00:00"
+  title: 'Campaign Finance API, Version 3: This Time It#039;s Congressional'
+  url: http://www.programmableweb.com/news/campaign-finance-api-version-3-time-its-congressional/2010/10/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 2801510c4dda7723d68e7765cc0e7890
+  item_date: "2014-09-26 00:00:00"
+  title: The Romney vs Obama API
+  url: http://www.programmableweb.com/news/romney-vs-obama-api/2012/07/27
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 54d6dc20055a7740caa4e28e47e4109c
+  item_date: "2014-09-26 00:00:00"
+  title: New API Browses Twitter for Market Sentiment
+  url: http://www.programmableweb.com/news/new-api-browses-twitter-market-sentiment/2012/07/13
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: d77af77d162f40459cf175550cf424e3
+  item_date: "2014-09-26 00:00:00"
+  title: Plaid Raises $2.8M for API that Opens Banking Data to Developers
+  url: http://www.programmableweb.com/news/plaid-raises-2.8m-api-opens-banking-data-to-developers/brief/2013/09/26
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e98f43a3481ff00719b748cad987624a
+  item_date: "2014-09-26 00:00:00"
+  title: Garmin Introduces Connect IQ Developer Platform for Garmin Wearables
+  url: http://www.programmableweb.com/news/garmin-introduces-connect-iq-developer-platform-garmin-wearables/brief/2014/09/26
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b13b0862a13d6a7a9396f5353529b046
+  item_date: "2014-09-26 00:00:00"
+  title: 'An API for Freelancers: FreeAgent '
+  url: http://www.programmableweb.com/news/api-freelancers-freeagent/2008/07/24
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 4cd47d2551f0028f35a6d0518777cb8d
+  item_date: "2014-09-26 00:00:00"
+  title: Google Releases New Finance Portfolio API
+  url: http://www.programmableweb.com/news/google-releases-new-finance-portfolio-api/2008/07/02
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 0a81794d0b2a149e7705f8ab9acdbed4
+  item_date: "2014-09-26 00:00:00"
+  title: Banco Sabadell#039;s Hackathon Asks Developers to Imagine the Future of Digital
+    Banking
+  url: http://www.programmableweb.com/news/banco-sabadells-hackathon-asks-developers-to-imagine-future-digital-banking/2014/09/11
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: cd5e0221e99a8145e770acf7d7905758
+  item_date: "2014-10-02 00:00:00"
+  title: GoodData Adds Predictive Features to Analytics Engine and Launches New SDKs
+  url: http://www.programmableweb.com/news/gooddata-adds-predictive-features-to-analytics-engine-and-launches-new-sdks/2014/10/02
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 670909bb4b06cebe45b20323aa12ca69
+  item_date: "2014-10-27 00:00:00"
+  title: 'Making Predictive Analytics Scale: SmartData Chicago'
+  url: https://socrata.com/blog/scaling-predictive-analytics-smartdata-chicago/
+  domain: socrata.com
+  image: ""
+- curated_id: d2e659e38a38493082b77d3e7f0108e7
+  item_date: "2014-11-05 08:21:36"
+  title: Anonymously Tracking Developer Toolkit Usage with Keen IO and Pusher
+  url: http://bladerunnerjs.org/blog/anonymous-usage-tracking/
+  domain: bladerunnerjs.org
+  image: ""
+- curated_id: 8091b84cf7ecc5046966e9e150bbc45a
+  item_date: "2014-12-03 09:10:39"
+  title: ""
+  url: https://github.com/ropensci/webservices/wiki/ToDo
+  domain: github.com
+  image: ""
+- curated_id: 8b143d8efa3dce292a05a72a3ba9bf1b
+  item_date: "2014-12-18 00:00:00"
+  title: Getting Started Analyzing Your Google Analytics Data in DataHero
+  url: https://datahero.com/blog/2014/12/18/getting-started-analyzing-google-analytics-data-datahero/
+  domain: datahero.com
+  image: ""
+- curated_id: a5f59a6deeb16280380ed913a4a2244b
+  item_date: "2015-01-06 19:00:46"
+  title: A mile wide, an inch deep ? Medium
+  url: https://medium.com/@ev/a-mile-wide-an-inch-deep-48f36e48d4cb
+  domain: medium.com
+  image: ""
+- curated_id: b315bf364486b69ad38dbeba8c0bd018
+  item_date: "2015-01-22 11:12:21"
+  title: PHP script to fetch alexa rank PHP Alexa Amazon API Script XML Analytics
+    | CSnipp - Social Code Sharing
+  url: http://csnipp.com/s/67/-PHP-script-to-fetch-alexa-rank
+  domain: csnipp.com
+  image: ""
+- curated_id: b3678c0897f3817fe948fd7c3b555af7
+  item_date: "2015-01-23 00:00:00"
+  title: Keen IO Enables Easy Custom Analytics
+  url: http://www.programmableweb.com/news/keen-io-enables-easy-custom-analytics/how-to/2015/01/23
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: fdd48803ba005ae658cab311ffda6525
+  item_date: "2015-01-23 00:00:00"
+  title: Microsoft buys data science specialist Revolution Analytics
+  url: https://gigaom.com/2015/01/23/microsoft-buys-data-science-specialist-revolution-analytics/
+  domain: gigaom.com
+  image: ""
+- curated_id: b957d28d1785aba36ac55b213b1159a1
+  item_date: "2015-01-24 00:00:00"
+  title: Twitter quietly kills its Website Analytics tool, pushing site owners to
+    use Cards
+  url: http://thenextweb.com/twitter/2015/01/24/twitter-quietly-kills-website-analytics-tool-pushing-site-owners-use-cards/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 97ebef63fb4d4697700f0815c84bf35f
+  item_date: "2015-01-27 00:00:00"
+  title: Frictionless Data Analysis ? Trying to Clarify My Thoughts
+  url: https://blog.ouseful.info/2015/01/27/frictionless-data-analysis-trying-to-clarify-my-thoughts/
+  domain: blog.ouseful.info
+  image: ""
+- curated_id: 8c201168bc84bf4ea31ba139db7f2909
+  item_date: "2015-02-24 12:16:49"
+  title: Thomson Reuters to open-source company data analysis tools
+  url: http://www.bankingday.com/nl06_news_selected.php/stream=1&amp;selkey=18210
+  domain: www.bankingday.com
+  image: ""
+- curated_id: b289b3569c8685c6c1ad7ca20923b6ae
+  item_date: "2015-02-26 00:00:00"
+  title: 'Upcoming Community Edition version: What should you expect?'
+  url: http://blog.count.ly/post/112130638718/upcoming-community-edition-version-what-should#_=_
+  domain: blog.count.ly
+  image: ""
+- curated_id: 13e6bff573310e44126505197cc0d152
+  item_date: "2015-02-27 00:00:00"
+  title: New Relic Extends Real-Time Analytics Reach into Mobile Apps
+  url: http://www.programmableweb.com/news/new-relic-extends-real-time-analytics-reach-mobile-apps/2015/02/27
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 0a1b8cf7b131426970878e363fb195d6
+  item_date: "2015-03-02 00:00:00"
+  title: Google launches Player Analytics and custom native ads tools for game developers
+  url: http://thenextweb.com/google/2015/03/02/google-launches-player-analytics-and-custom-native-ads-tools-for-gaming-developers/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 96eab9263377106fb4cc3f96d900453a
+  item_date: "2015-03-04 00:00:00"
+  title: What is the Digital Analytics Program (DAP)?
+  url: http://www.digitalgov.gov/2015/03/04/what-is-the-digital-analytics-program-dap/
+  domain: www.digitalgov.gov
+  image: ""
+- curated_id: 63c4c8acba4153defa33f03cfc65f4e9
+  item_date: "2015-03-06 00:00:00"
+  title: Build Reporting Apps Using Lightning Components and the Salesforce Analytics
+    API
+  url: https://developer.salesforce.com/blogs/developer-relations/2015/03/lightning-components-analytics-api.html
+  domain: developer.salesforce.com
+  image: ""
+- curated_id: 54721520c09c3ff1d106ff58524f4a12
+  item_date: "2015-03-06 00:00:00"
+  title: Enriching Your Data with Mohiomap Text Analysis
+  url: http://blog.moh.io/
+  domain: blog.moh.io
+  image: ""
+- curated_id: 73bdd8a296a85141ad0ff2ad27fc6f11
+  item_date: "2015-03-10 00:00:00"
+  title: .Modeling Language and REST API Make Advanced Analytics Easy in Web
+  url: http://www.virtual-strategy.com/2015/03/10/frontline-systems%E2%80%99-rason%E2%84%A2-modeling-language-and-rest-api-make-advanced-analytics-easy-web
+  domain: www.virtual-strategy.com
+  image: ""
+- curated_id: e6aa51914845cf03bac6f92c45c1bcc4
+  item_date: "2015-03-10 00:00:00"
+  title: 'Introducing Splunk Light: The Power of Splunk for Small IT Environments'
+  url: http://blogs.splunk.com/2015/03/10/introducing-splunk-light/
+  domain: blogs.splunk.com
+  image: ""
+- curated_id: 2861699650fd5a9b4d5383177d8bf19c
+  item_date: "2015-03-10 19:28:36"
+  title: Frontline Systems RASON Modeling Language and REST API Make Advanced Analytics
+    Easy in Web and Mobile Applications
+  url: http://api.report/2015/03/10/frontline-systems-rason-modeling-language-and-rest-api-make-advanced-analytics-easy-in-web-and-mobile-applications/
+  domain: api.report
+  image: ""
+- curated_id: b9b313b1b0e3b8e55a63bcee608679dc
+  item_date: "2015-03-12 00:00:00"
+  title: Collecting and Analyzing Car Telematics Using Azure and Arduino
+  url: http://www.codeproject.com/Articles/881360/Collecting-and-Analyzing-Car-Telematics-Using-Azur
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 8ff71a8d055b86a2843494818062bc4f
+  item_date: "2015-03-12 14:57:18"
+  title: 'Integrated Information Analyzers : Big Data Analytics Platform'
+  url: http://www.trendhunter.com/trends/big-data-analytics-platform
+  domain: www.trendhunter.com
+  image: ""
+- curated_id: 9ac3ab40cfbddf30cadd1a62a45b29db
+  item_date: "2015-03-13 00:00:00"
+  title: Frontline Systems Creates Modeling Language and API for Advanced Analytics
+  url: http://www.programmableweb.com/news/frontline-systems-creates-modeling-language-and-api-advanced-analytics/press-release/2015/03/13
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 075bbb1aee0aea441999b95f07639465
+  item_date: "2015-03-17 00:00:00"
+  title: Dataminr raises $130 million to expand enterprise verticals for Twitter analytics
+  url: http://www.zdnet.com/article/dataminr-raises-130-million-to-expand-enterprise-verticals-for-twitter-analytics/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: bb072a7ccbf3360c96b14535062eda79
+  item_date: "2015-03-18 00:00:00"
+  title: 'Guest post: Analyzing an NHL game through the Twitter APIs'
+  url: https://blog.twitter.com/2015/guest-post-analyzing-an-nhl-game-through-the-twitter-apis
+  domain: blog.twitter.com
+  image: ""
+- curated_id: 803b2972b564f032556f9bbedd802ff6
+  item_date: "2015-03-18 00:00:00"
+  title: Predictive analytics player InsideSales raises $60 million led by Salesforce
+  url: http://zdnet.com.feedsportal.com/c/35462/f/675663/s/4487b17f/sc/3/l/0L0Szdnet0N0Carticle0Cpredictive0Eanalytics0Eplayer0Einsidesales0Eraises0E60A0Emillion0Eled0Eby0Esalesforce0C0Tftag0FRSSbaffb68/story01.htm
+  domain: zdnet.com.feedsportal.com
+  image: ""
+- curated_id: 171013dfedd295490452a52ea4889f2f
+  item_date: "2015-03-18 12:10:15"
+  title: Example of architecture for AaaS (Analytics as a Service)
+  url: http://www.dataplumbing.com/blog/example-of-architecture-for-aaas-analytics-as-a-service
+  domain: www.dataplumbing.com
+  image: ""
+- curated_id: 52b6dd7e094bc3ff97aa681040210dfa
+  item_date: "2015-03-24 00:00:00"
+  title: Badgeville Launches New Analytics for Enterprise Gamification Programs
+  url: https://badgeville.com/blog/badgeville-launches-new-analytics-for-enterprise-gamification-programs
+  domain: badgeville.com
+  image: ""
+- curated_id: eb1dec283e57fc4b36b24547a4c7137d
+  item_date: "2015-03-24 00:00:00"
+  title: With $35M more in the bank, Localytics has now raised more than any other
+    Techstars alum
+  url: http://pandodaily.com.feedsportal.com/c/35141/f/650422/s/44bd1b9e/sc/24/l/0Lpando0N0C20A150C0A30C240Cwith0E35m0Emore0Ein0Ethe0Ebank0Elocalytics0Ehas0Enow0Eraised0Emore0Ethan0Eany0Eother0Etechstars0Ealum0C/story01.htm
+  domain: pandodaily.com.feedsportal.com
+  image: ""
+- curated_id: 4471f4331f3acfa0c2cb589ce503785f
+  item_date: "2015-03-25 00:00:00"
+  title: 'Introducing: Data Explorer'
+  url: http://keenio.tumblr.com/post/114588771746/introducing-data-explorer#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 55c43d7c6c8c562dbe1b678d227e5c20
+  item_date: "2015-03-28 00:00:00"
+  title: Yet Analytics Builds Upon the DoD?s Experience API
+  url: http://www.programmableweb.com/news/yet-analytics-builds-upon-dod%E2%80%99s-experience-api/elsewhere-web/2015/03/28
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b2a8a0b4acfcee82b48366d1a1aa36c9
+  item_date: "2015-03-31 00:00:00"
+  title: Top 1000 Twitter Users. Or How to Be A Twitter Rockstar with Data Analysis
+  url: http://blog.silk.co/post/115153917887/top-1000-twitter-users-or-how-to-be-a-twitter
+  domain: blog.silk.co
+  image: ""
+- curated_id: 5fe2da0be220bd794431328c13cff153
+  item_date: "2015-04-02 00:00:00"
+  title: 'Google Player Analytics Provides Android Developers Gaming Insight '
+  url: http://www.programmableweb.com/news/google-player-analytics-provides-android-developers-gaming-insight/2015/04/02
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 4be07e5706cb3416ad6aec3f73d33752
+  item_date: "2015-04-07 00:00:00"
+  title: What is Tin Can API?
+  url: https://www.learnupon.com/what-is-tin-can-api/
+  domain: www.learnupon.com
+  image: ""
+- curated_id: cae46e2f90871980af56a8d3074c14b2
+  item_date: "2015-04-10 00:00:00"
+  title: Facebook Launches Analytics Tool
+  url: https://apsalar.com/blog/2015/04/facebook-launches-analytics-tool/
+  domain: apsalar.com
+  image: ""
+- curated_id: d52f2897891caa7ae76496f9ef0138c2
+  item_date: "2015-04-13 00:00:00"
+  title: How The Guardian?s Ophan analytics engine helps editors make better decisions
+  url: http://thenextweb.com/media/2015/04/13/how-the-guardians-ophan-analytics-engine-helps-editors-make-better-decisions/
+  domain: thenextweb.com
+  image: ""
+- curated_id: fb345f35bd16882241663cdc682f1da8
+  item_date: "2015-04-15 00:00:00"
+  title: 'API analytics: how is my API used?'
+  url: http://restlet.com/blog/2015/04/15/api-analytics-how-is-my-api-used/
+  domain: restlet.com
+  image: ""
+- curated_id: 90ce88399822875b2ed104b8eb05a1a7
+  item_date: "2015-04-16 00:00:00"
+  title: General Availability of Azure Stream Analytics
+  url: http://azure.microsoft.com/blog/2015/04/16/general-availability-of-azure-stream-analytics/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: b704be7b8b14e140f9e0adffabebe5dc
+  item_date: "2015-04-21 00:00:00"
+  title: Getting Started with Facebook#039;s Analytics for Apps
+  url: http://www.programmableweb.com/news/getting-started-facebooks-analytics-apps/how-to/2015/04/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b472a4bd3949f45dbb9e3ff864354608
+  item_date: "2015-04-22 00:00:00"
+  title: 'Crashlytics: now serving over 1 million apps'
+  url: https://blog.twitter.com/2015/crashlytics-now-serving-over-1-million-apps
+  domain: blog.twitter.com
+  image: ""
+- curated_id: b99e678f8584e07b66f809abd5e32514
+  item_date: "2015-04-23 00:00:00"
+  title: Integrate Eventbrite and Keen IO in 60 seconds
+  url: http://keenio.tumblr.com/post/117201679946/integrate-eventbrite-and-keen-io-in-60-seconds#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 0de4d972984950c53c9a8e70f2711d95
+  item_date: "2015-04-23 00:00:00"
+  title: Analytics for Mobile Apps
+  url: http://azure.microsoft.com/blog/2015/04/23/analytics-for-mobile-apps/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: 40b278602be5534838c4bbed34736587
+  item_date: "2015-04-28 00:00:00"
+  title: Introducing Email Analytics
+  url: http://blog.gumroad.com/post/117636103548/emailanalytics1#_=_
+  domain: blog.gumroad.com
+  image: ""
+- curated_id: 6df3e9516dde31ef56f0497a3b2197e6
+  item_date: "2015-04-28 00:00:00"
+  title: Two Years of xAPI
+  url: http://makingbetter.us/2015/04/two-years-of-xapi/
+  domain: makingbetter.us
+  image: ""
+- curated_id: 7a64ab451da9ab51e1907bdad6eac5de
+  item_date: "2015-04-28 00:00:00"
+  title: Improved Varnish Custom Statistics - now with UI
+  url: https://www.varnish-software.com/blog/improved-varnish-custom-statistics-now-ui
+  domain: www.varnish-software.com
+  image: ""
+- curated_id: 3cfb6be00bd232a903dd944bd5661815
+  item_date: "2015-04-28 08:41:02"
+  title: Success vs. Failure - The Importance of API Metrics
+  url: http://nordicapis.com/success-vs-failure-the-importance-of-api-metrics/
+  domain: nordicapis.com
+  image: ""
+- curated_id: 2178a9cacf19437b4451dda80397f9bc
+  item_date: "2015-04-30 00:00:00"
+  title: Cupenya Makes its Business Analytics Solution Available to Developers through
+    IBM Cloud
+  url: http://www-03.ibm.com/press/us/en/pressrelease/46736.wss
+  domain: www-03.ibm.com
+  image: ""
+- curated_id: 29721b2bda688dd9a19d04f87cdd837d
+  item_date: "2015-04-30 00:00:00"
+  title: Apple opens beta testing of analytics tool for iOS app developers
+  url: http://venturebeat.com/2015/04/30/apple-opens-beta-testing-of-analytics-tool-for-ios-app-developers/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 3ed5f9551eab3ea1688fce1de30e07b8
+  item_date: "2015-04-30 00:00:00"
+  title: 'Introducing Pushpop for Slack: push your analytics data to Slack'
+  url: http://keenio.tumblr.com/post/117760948001/introducing-pushpop-for-slack-push-your-analytics#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: d4f4c8b294f6d640de7cca1f7d4d61bc
+  item_date: "2015-05-05 00:00:00"
+  title: 'Data Lens: Powerful Insights for Your Data'
+  url: https://www.socrata.com/blog/introducing-data-lens/
+  domain: www.socrata.com
+  image: ""
+- curated_id: 4693fae7ef1cf8991b4b21fcee465f57
+  item_date: "2015-05-06 00:00:00"
+  title: App Annie Brings You More Usage Data  Acquires Mobidia
+  url: https://www.appannie.com/insights/app-annie-acquires-mobidia/
+  domain: www.appannie.com
+  image: ""
+- curated_id: e48044d77ef69da0d83b41bea7eca854
+  item_date: "2015-05-06 00:00:00"
+  title: Speed, Personalization and Analytics By @KRBenedict
+  url: http://news.sys-con.com/node/3330356
+  domain: news.sys-con.com
+  image: ""
+- curated_id: 7428a5ad523be8237e12966f11479c1f
+  item_date: "2015-05-07 00:00:00"
+  title: LinkedIn adds analytics to bolster publishing platform
+  url: http://www.zdnet.com/article/linkedin-adds-analytics-to-publishing-platform/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 3f4dd0d9b31a6ec438bbd404a4a5d0c2
+  item_date: "2015-05-07 00:00:00"
+  title: Introducing Monitor. Use Twilio Data Like Never Before
+  url: https://www.twilio.com/blog/2015/05/introducing-monitor-use-twilio-data-like-never-before.html
+  domain: www.twilio.com
+  image: ""
+- curated_id: 34e8adb906f79689708c4eb401b6810e
+  item_date: "2015-05-12 00:00:00"
+  title: Take a Test Drive With Our New, Really Powerful Analytics Tool
+  url: http://blog.eventbrite.com/analytics-beta/
+  domain: blog.eventbrite.com
+  image: ""
+- curated_id: 48902a94ededac8e8307a5e6def97bde
+  item_date: "2015-05-13 00:00:00"
+  title: PAPIs Connect Shows Predictive Analytics APIs Gain Traction
+  url: http://www.programmableweb.com/news/papis-connect-shows-predictive-analytics-apis-gain-traction/2015/05/13
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: a5a05b5a1cc2dcd9bffb9a0aea2340d5
+  item_date: "2015-05-13 00:00:00"
+  title: There?s money in the metrics
+  url: http://royal.pingdom.com/2015/05/13/theres-money-in-the-metrics/
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: 037ad9fd70d034d98e4a872339f1232f
+  item_date: "2015-05-13 00:00:00"
+  title: Apple?s new app analytics tool is now available to all registered iOS developers
+  url: http://venturebeat.com/2015/05/13/apples-new-app-analytics-tool-is-now-available-to-all-registered-ios-developers/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 6d1d96c7ab0729b6aa5d9480eebd0294
+  item_date: "2015-05-14 08:30:13"
+  title: Datafloq - The One-Stop Shop for Big Data
+  url: https://datafloq.com/read/Big-Data-Technology-Mark-End-Sales/1100
+  domain: datafloq.com
+  image: ""
+- curated_id: 54715bfab44ed3759819fa4cc17072dc
+  item_date: "2015-05-18 11:55:10"
+  title: ""
+  url: https://www.runscope.com/customers/keen-io
+  domain: www.runscope.com
+  image: ""
+- curated_id: 49b6dcd06b0e25baa5c6a225c763597c
+  item_date: "2015-05-20 00:00:00"
+  title: ' Fabric Leading the SDK Market in Performance and Mobile Analytics'
+  url: https://blog.twitter.com/2015/fabric-leading-the-sdk-market-in-performance-and-mobile-analytics
+  domain: blog.twitter.com
+  image: ""
+- curated_id: c02333b73f655e0a048f0df04f79c4ff
+  item_date: "2015-05-20 00:00:00"
+  title: LearnUpon introduces Tin Can support
+  url: https://www.learnupon.com/learnupon-introduces-tin-can-support/
+  domain: www.learnupon.com
+  image: ""
+- curated_id: 0055c30e133f8592eebcf860d9891883
+  item_date: "2015-05-21 00:00:00"
+  title: Agency Analytics Made Easy
+  url: https://datahero.com/blog/2015/05/21/agency-analytics-made-easy/
+  domain: datahero.com
+  image: ""
+- curated_id: 4764698bf1db2ba1d630c34a05009f4d
+  item_date: "2015-05-23 00:00:00"
+  title: Ryft Open API Library Extends Batch and Streaming Analysis
+  url: http://insidebigdata.com/2015/05/23/ryft-open-api-library-extends-batch-and-streaming-analysis-to-existing-big-data-environments/
+  domain: insidebigdata.com
+  image: ""
+- curated_id: 6322d68317a26088d97917aeeb5e9f4e
+  item_date: "2015-05-25 00:00:00"
+  title: How to use Google Analytics API without any coding
+  url: http://www.optimizesmart.com/how-to-use-google-analytics-api-without-any-coding/
+  domain: www.optimizesmart.com
+  image: ""
+- curated_id: 8df6dd680c5ae1b88910cdcf1d9874b9
+  item_date: "2015-05-26 00:00:00"
+  title: Ryft Announces Open API Library for Ryft ONE Platform
+  url: http://www.programmableweb.com/news/ryft-announces-open-api-library-ryft-one-platform/2015/05/26
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 1243801ae653c7f855e48d1cec3e6655
+  item_date: "2015-05-27 00:00:00"
+  title: 'A Case Study: Applying xAPI and IoT in Emergency Medical Training'
+  url: http://www.yetanalytics.com/blog/2015/5/27/a-case-study-applying-xapi-and-iot-in-emergency-medical-training
+  domain: www.yetanalytics.com
+  image: ""
+- curated_id: 8c79f45adefd1283032202bfd29707e0
+  item_date: "2015-05-27 00:00:00"
+  title: Location analytics for iOS
+  url: https://www.mapbox.com/blog/mobile-location-analytics/
+  domain: www.mapbox.com
+  image: ""
+- curated_id: 1df532f6ddcbb1461a842b1b54aeddbe
+  item_date: "2015-05-27 00:00:00"
+  title: Mapsense Developer Platform Provides Mapping Big Data Analytics
+  url: http://www.programmableweb.com/news/mapsense-developer-platform-provides-mapping-big-data-analytics/2015/05/27
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 0772bb320efa81b06aca8fd7bab0db93
+  item_date: "2015-05-28 00:00:00"
+  title: IBM Watson Tradeoff Analytics ? General Availability
+  url: https://developer.ibm.com/watson/blog/2015/05/28/watson-tradeoff-analytics/
+  domain: developer.ibm.com
+  image: ""
+- curated_id: cfe248f0123ecf371438d359f1a3926a
+  item_date: "2015-05-29 00:00:00"
+  title: 'Twilio Monitoring Within Microsoft Power BI: Analyze and Visualize Data'
+  url: https://www.twilio.com/blog/2015/05/wilio-monitoring-within-microsoft-power-bi.html
+  domain: www.twilio.com
+  image: ""
+- curated_id: 9c488957aabab466f8170e58c9080647
+  item_date: "2015-06-02 00:00:00"
+  title: 'How To Analyze Data: Seven Modern Remakes Of The Most Famous Graphs Ever
+    Made'
+  url: http://blog.plot.ly/post/120532468127/how-to-analyze-data-seven-modern-remakes-of-the#_=_
+  domain: blog.plot.ly
+  image: ""
+- curated_id: e7bb44e432e7aed2a3d71310eaf3383c
+  item_date: "2015-06-02 00:00:00"
+  title: Full Text Search and Analytics for Websites and Multiple Data Sources
+  url: http://www.searchblox.com/full-text-search-and-analytics-for-websites-and-multiple-data-sources
+  domain: www.searchblox.com
+  image: ""
+- curated_id: 7f5bb5c261037ffd2e41e9bcd9f7cf67
+  item_date: "2015-06-03 00:00:00"
+  title: IoT API Startup Crowsnest to Offer Crash Analytics Service
+  url: http://www.programmableweb.com/news/iot-api-startup-crowsnest-to-offer-crash-analytics-service/2015/06/03
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 938458d5adc648e755211d5dbe5d645e
+  item_date: "2015-06-04 00:00:00"
+  title: 'Apache Spark: Powering applications on-premise and in the cloud'
+  url: http://radar.oreilly.com/2015/06/apache-spark-powering-applications-on-premise-and-in-the-cloud.html
+  domain: radar.oreilly.com
+  image: ""
+- curated_id: e3ee51697a9ea736f358fff48d882e9c
+  item_date: "2015-06-07 00:00:00"
+  title: 'Article: Analytics, Machine Learning, and the Internet of Things'
+  url: http://www.infoq.com/articles/analytics-machine-learning-and-the-internet-of-things
+  domain: www.infoq.com
+  image: ""
+- curated_id: 74d6577a053bca336d405d97b8123aab
+  item_date: "2015-06-10 00:00:00"
+  title: LinkedIn open-sources its Pinot real-time analytics software
+  url: http://venturebeat.com/2015/06/10/linkedin-open-sources-its-pinot-real-time-analytics-software/
+  domain: venturebeat.com
+  image: ""
+- curated_id: c3505062cc8d0fc3874dc067bc7a3eb9
+  item_date: "2015-06-10 00:00:00"
+  title: Yet Analytics Launches Flagship Human Capital Analytics Platform
+  url: http://www.yetanalytics.com/blog/2015/6/10/yet-analytics-launches-flagship-human-capital-analytics-platform
+  domain: www.yetanalytics.com
+  image: ""
+- curated_id: c1ded12a1c89cdae0b429befd4508f54
+  item_date: "2015-06-10 00:00:00"
+  title: Introducing Instagram Channel Analytics
+  url: http://www.mutualmind.com/2015/06/introducing-instagram-channel-analytics-2/
+  domain: www.mutualmind.com
+  image: ""
+- curated_id: 9165fa548eaf7a25486d753d282e096f
+  item_date: "2015-06-15 00:00:00"
+  title: 'Spark: An Open Source Revolution Comes to Data Analytics'
+  url: http://asmarterplanet.com/blog/2015/06/spark-revolution-comes-data-analytics.html
+  domain: asmarterplanet.com
+  image: ""
+- curated_id: d5de8b6d52c003827e612cc8ecd9cc33
+  item_date: "2015-06-18 00:00:00"
+  title: Introducing Analytics Tracking for Arduino
+  url: http://keenio.tumblr.com/post/121840400161/introducing-analytics-tracking-for-arduino#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 2ae66385af0c72cd1f6a430e917b4178
+  item_date: "2015-06-24 00:00:00"
+  title: Advanced transcription and analytics with Voicebase and Tropo
+  url: https://www.tropo.com/2015/06/advanced-transcription-analytics-voicebase-tropo/
+  domain: www.tropo.com
+  image: ""
+- curated_id: 24356b4b0638a29121597f89642f5b51
+  item_date: "2015-06-24 00:00:00"
+  title: OPENi Analytics Service Enabler
+  url: http://www.openi-ict.eu/openi-analytics-service-enabler/
+  domain: www.openi-ict.eu
+  image: ""
+- curated_id: d9a5578afa1ef0c8f104aa0b042b5a6b
+  item_date: "2015-06-24 00:00:00"
+  title: ""
+  url: http://blog.plot.ly/post/122370723857/r-vs-python-survival-analysis-with-plotly#_=_
+  domain: blog.plot.ly
+  image: ""
+- curated_id: 32f99c3b370b5baaf53ec4dc71625147
+  item_date: "2015-06-25 00:00:00"
+  title: Mashape Adds Analytics To Its API Marketplace
+  url: http://www.programmableweb.com/news/mashape-adds-analytics-to-its-api-marketplace/2015/06/25
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 121905f418f7b1b2813ed0ab667c0b64
+  item_date: "2015-06-25 00:00:00"
+  title: Datameer wants to replace your analytics stack with this one tool
+  url: http://venturebeat.com/2015/06/25/datameer-wants-to-replace-your-analytics-stack-with-this-one-tool/
+  domain: venturebeat.com
+  image: ""
+- curated_id: b70b699a5ecf4d915e54e90b4b16497f
+  item_date: "2015-06-29 00:00:00"
+  title: 'DigitalGov Podcast: DAP Delivers Data for 4,000 Websites'
+  url: http://www.digitalgov.gov/2015/06/29/digitalgov-podcast-dap-delivers-data-for-4000-websites/
+  domain: www.digitalgov.gov
+  image: ""
+- curated_id: 41fa8313d75262efba9fce2584e9253c
+  item_date: "2015-07-01 00:00:00"
+  title: Launching Envision for API Analytics
+  url: https://blog.akana.com/launching-envision-for-api-analytics/
+  domain: blog.akana.com
+  image: ""
+- curated_id: d7d7fe160f8601476e8ffb650e266120
+  item_date: "2015-07-06 00:00:00"
+  title: At long last, Metrics R Us!
+  url: http://www.apiman.io/blog/api-manager/service/ui/metrics/2015/07/06/metrics.html
+  domain: www.apiman.io
+  image: ""
+- curated_id: 43dfffea18ef9646ea3f3e470606233b
+  item_date: "2015-07-06 13:05:40"
+  title: 'WSO2 Guest Webinar: Building Enterprise Awareness with API Analytics in
+    the API Economy  | WSO2 Inc'
+  url: http://wso2.com/library/webinars/2015/07/building-enterprise-awareness-with-api-analytics-in-the-api-economy/
+  domain: wso2.com
+  image: ""
+- curated_id: 0c32f980bbf5fe18f92287fe652fb8ec
+  item_date: "2015-07-09 00:00:00"
+  title: Accenture Launches Analytics Cloud
+  url: http://www.itbusinessedge.com/blogs/it-unmasked/accenture-launches-analytics-cloud.html
+  domain: www.itbusinessedge.com
+  image: ""
+- curated_id: f8cb8f44e1e01ac8860aac77c60924af
+  item_date: "2015-07-10 00:00:00"
+  title: Microsoft announces Azure Data Catalog, the GitHub of cloud-based data analytics
+  url: http://thenextweb.com/microsoft/2015/07/10/microsoft-announces-azure-data-catalog-the-github-of-cloud-based-data-analytics/
+  domain: thenextweb.com
+  image: ""
+- curated_id: b1afb8ec9a2078b4a595c30144b61812
+  item_date: "2015-07-10 00:00:00"
+  title: Microsoft delivers interactive analytics on Big Data with the release of
+    Spark for Azure HDInsight
+  url: http://azure.microsoft.com/blog/2015/07/10/interactive-analytics-on-big-data-with-the-release-of-spark-for-azure-hdinsight/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: ed7056628ceb647664020a8f0b7f5f26
+  item_date: "2015-08-14 00:00:00"
+  title: Secure Central Hosting for the Digital Analytics Program
+  url: http://www.digitalgov.gov/2015/08/14/secure-central-hosting-for-the-digital-analytics-program/
+  domain: www.digitalgov.gov
+  image: ""
+- curated_id: cc7bd6115488752d6338b13228ebbf56
+  item_date: "2015-08-21 00:00:00"
+  title: 'Keen Status Page: For when you need data about your data about your customers?
+    data'
+  url: http://keenio.tumblr.com/post/127262112471/keen-status-page-for-when-you-need-data-about#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 836306c28edd2a0eff512ef214edcb16
+  item_date: "2015-08-22 20:15:23"
+  title: 38 Seminal Articles Every Data Scientist Should Read - Data Science Central
+  url: http://www.datasciencecentral.com/profiles/blogs/30-seminal-articles-every-data-scientist-should-read
+  domain: www.datasciencecentral.com
+  image: ""
+- curated_id: 89df94ddff98d247c1b1d1c3f2925f28
+  item_date: "2015-08-26 07:01:01"
+  title: 'Video: How Data Engages CItizens in Kansas City - Nextgov.com'
+  url: http://www.nextgov.com/big-data/2015/08/video-how-data-engages-citizens-kansas-city/119218/
+  domain: www.nextgov.com
+  image: ""
+- curated_id: 43ccbbaa45d973c781aa3c49b3dfb594
+  item_date: "2015-09-03 00:00:00"
+  title: IBM, ARM link arms on Internet of Things analytics
+  url: http://zdnet.com.feedsportal.com/c/35462/f/675663/s/4987fe3b/sc/28/l/0L0Szdnet0N0Carticle0Cibm0Earm0Elink0Earms0Eon0Einternet0Eof0Ethings0Eanalytics0C0Tftag0FRSSbaffb68/story01.htm
+  domain: zdnet.com.feedsportal.com
+  image: ""
+- curated_id: 9e444cd774a866e66819ad37b43a3eed
+  item_date: "2015-10-19 00:00:00"
+  title: ' Five factors for building a successful government-wide digital analytics
+    program '
+  url: https://18f.gsa.gov/2015/10/20/digital-analytics-program-anniversary/
+  domain: 18f.gsa.gov
+  image: ""
+- curated_id: a74c51e25798e9d029104d85724073c6
+  item_date: "2015-10-26 00:00:00"
+  title: IBM is speeding up SPSS with Apache Spark
+  url: http://venturebeat.com/2015/10/26/ibm-is-speeding-up-spss-with-apache-spark/
+  domain: venturebeat.com
+  image: ""
+- curated_id: d5941b0f1d481969579a4b9f8b0ad2c7
+  item_date: "2015-11-28 05:31:13"
+  title: 7 Reasons why the Algorithmic Business will Change Society
+  url: https://www.linkedin.com/pulse/7-reasons-why-algorithmic-business-change-society-mark-van-rijmenam
+  domain: www.linkedin.com
+  image: ""
+- curated_id: 75fd9ebe1a13b8c6bef0369563851746
+  item_date: "2015-12-07 00:00:00"
+  title: Rackspace Metrics API 2.0 - Rackspace Developer Portal
+  url: https://developer.rackspace.com/docs/metrics/v2/developer-guide/
+  domain: developer.rackspace.com
+  image: ""
+- curated_id: a0937e7127a5e1ee9d4d5290343bd935
+  item_date: "2015-12-11 00:00:00"
+  title: AppDynamics Exposes Apps Analytics Data via API
+  url: http://www.itbusinessedge.com/blogs/it-unmasked/appdynamics-exposes-apps-analytics-data-via-api.html
+  domain: www.itbusinessedge.com
+  image: ""
+- curated_id: e995391a2abaddf09df09a2aae471b5d
+  item_date: "2015-12-11 08:39:33"
+  title: analytics.usa.gov | The US governments web traffic.
+  url: https://analytics.usa.gov/
+  domain: analytics.usa.gov
+  image: ""
+- curated_id: 334c4e3f37e3b4ea4080074f49887bc3
+  item_date: "2016-01-07 00:00:00"
+  title: Introducing Enhanced Instagram Analytics
+  url: http://www.mutualmind.com/2016/01/enhanced-instagram-analytics/
+  domain: www.mutualmind.com
+  image: ""
+- curated_id: 6fafa043a92063ff3659f13e34fbfe9b
+  item_date: "2016-01-07 00:00:00"
+  title: State, local governments build on analytics.usa.gov
+  url: https://gcn.com/articles/2016/01/08/18f-gov-analytics-users.aspx
+  domain: gcn.com
+  image: ""
+- curated_id: 55331b3d25880940eea536cd563ce1a8
+  item_date: "2016-01-12 00:00:00"
+  title: '2015: A Data Odyssey'
+  url: http://keenio.tumblr.com/post/137144864151/2015-a-data-odyssey#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 6104948c03751748ba18e816221f4c5a
+  item_date: "2016-01-14 00:00:00"
+  title: Data analytics startup Looker raises $48 million, led by Kleiner Perkins
+  url: http://venturebeat.com/2016/01/14/data-analytics-startup-looker-raises-48m-led-by-kleiner-perkins/
+  domain: venturebeat.com
+  image: ""
+- curated_id: b5f050fe371baaee7501445f6f8f5378
+  item_date: "2016-01-14 00:00:00"
+  title: Streaming Analytics of Unstructured Data Sources
+  url: http://www.searchblox.com/streaming-analytics-of-unstructured-data-sources
+  domain: www.searchblox.com
+  image: ""
+- curated_id: 1cfbbd053e908b1dd3c688581d163e60
+  item_date: "2016-01-14 23:00:15"
+  title: Extract data from Mixpanel API
+  url: https://gpsistakis.wordpress.com/2016/01/05/extract-data-from-mixpanel-api/
+  domain: gpsistakis.wordpress.com
+  image: ""
+- curated_id: a2c5ce5a5dcc142407c0c41b9cce5033
+  item_date: "2016-01-15 00:00:00"
+  title: IBM acquires real-time analytics firm to combat payment fraud
+  url: http://disruptiveviews.com/ibm-acquires-real-time-analytics-firm-to-combat-payment-fraud/
+  domain: disruptiveviews.com
+  image: ""
+- curated_id: f51c97b4129e741e2b32b2935f026e49
+  item_date: "2016-01-21 00:00:00"
+  title: 10 Best Practices for Log Management and Analytics
+  url: https://dzone.com/articles/10-best-practices-for-log-management-and-analytics-1
+  domain: dzone.com
+  image: ""
+- curated_id: dc0a348e2b3c4c3728a90d09cdf6df98
+  item_date: "2016-01-21 00:00:00"
+  title: 'Why IBM is buying Ustream: Cloud, marketing, analytics'
+  url: http://www.zdnet.com/article/why-ibm-is-buying-ustream-cloud-marketing-analytics/#ftag=RSSbaffb68
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 3fc7c23154610628c946019967e6c9f2
+  item_date: "2016-01-22 00:00:00"
+  title: 'Article: Jawbones Head of Data Science and Analytics on The Future of Wearables
+    and Analytics Insights'
+  url: http://www.infoq.com/articles/Jawbone-Head-Data-Science-Future-Wearables
+  domain: www.infoq.com
+  image: ""
+- curated_id: dc933c178a5f43e85ab319d029429174
+  item_date: "2016-01-26 13:57:09"
+  title: Instagram Introduces New Analytics Tools
+  url: http://www.exactdrive.com/news/instagram-introduces-new-analytics-tools
+  domain: www.exactdrive.com
+  image: ""
+- curated_id: dd52895ac98c57b76e2b9b6652191dee
+  item_date: "2016-02-01 00:00:00"
+  title: Tips for adapting analytics.usa.gov from Tennessee, Boulder, and Philadelphia
+  url: https://18f.gsa.govhttps://18f.gsa.gov/2016/01/06/tips-for-adapting-analytics-usa-gov/
+  domain: 18f.gsa.govhttps
+  image: ""
+- curated_id: e760c09699e5fde097c9c5701faeacd4
+  item_date: "2016-02-12 00:00:00"
+  title: Bouquet - The Open-Source Analytics Toolbox
+  url: https://medium.com/@OpenBouquet/bouquet-the-open-source-analytics-toolbox-b5ea362d405a
+  domain: medium.com
+  image: ""
+- curated_id: b023ca084b5ec5f5a93369955518363f
+  item_date: "2016-02-13 00:00:00"
+  title: Considering the Explosive Growth of Log Analytics
+  url: https://dzone.com/articles/considering-the-explosive-growth-of-log-analytics
+  domain: dzone.com
+  image: ""
+- curated_id: 26cf654625ad035fbf98bd0a607cbe12
+  item_date: "2016-02-18 00:00:00"
+  title: IBM acquires Truven Health Analytics for $2.6 billion to bulk up Watson Health
+  url: http://www.zdnet.com/article/ibm-acquires-truven-health-analytics-for-2-6-billion-to-bulk-up-watson-health/#ftag=RSSbaffb68
+  domain: www.zdnet.com
+  image: ""
+- curated_id: a13d071bc2c94f2d6decc64aeecf7d46
+  item_date: "2016-02-18 00:00:00"
+  title: 'Analytics.usa.gov: Now with Agency-Specific Dashboards'
+  url: http://www.digitalgov.gov/2016/02/18/analytics-usa-gov-now-with-agency-specific-dashboards/
+  domain: www.digitalgov.gov
+  image: ""
+- curated_id: f41cb9a85703cf11ca522ff6f1489990
+  item_date: "2016-02-18 00:00:00"
+  title: IBM to acquire Truven Health Analytics for $2.6 billion
+  url: http://venturebeat.com/2016/02/18/ibm-to-acquire-truven-health-analytics-for-2-6-billion/
+  domain: venturebeat.com
+  image: ""
+- curated_id: d6312610ac1e073b204e1fe011659ee8
+  item_date: "2016-02-18 00:00:00"
+  title: Introducing Autotrack for analytics.js
+  url: https://googledevelopers.blogspot.com/2016/02/introducing-autotrack-for-analyticsjs.html
+  domain: googledevelopers.blogspot.com
+  image: ""
+- curated_id: 07134adeb6145f0a9fc15502dbdd2b83
+  item_date: "2016-02-18 00:00:00"
+  title: 'Analytics.usa.gov: Now with Agency-Specific Dashboards'
+  url: http://sites.usa.gov/digitalgov/2016/02/18/analytics-usa-gov-now-with-agency-specific-dashboards/
+  domain: sites.usa.gov
+  image: ""
+- curated_id: 6886118eda3377a6b6ac8473ccd6fc8e
+  item_date: "2016-02-19 00:00:00"
+  title: REST API Usage ? Gnocchi 2.0.0 documentation
+  url: http://gnocchi.xyz/rest.html
+  domain: gnocchi.xyz
+  image: ""
+- curated_id: ee522e541f7ea260cba6510d61601e62
+  item_date: "2016-02-23 00:00:00"
+  title: Retrieving Resource Metrics via the Azure Insights API
+  url: https://michaelcollier.wordpress.com/2016/02/24/retrieving-resource-metrics-via-the-azure-insights-api/
+  domain: michaelcollier.wordpress.com
+  image: ""
+- curated_id: a5cb0aad2fe5fc79047a0e4caf869344
+  item_date: "2016-02-29 00:00:00"
+  title: Guaranteeing Consistent API Performance with Apache Storm
+  url: http://keenio.tumblr.com/post/140219557931/guaranteeing-consistent-api-performance-with#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: e2cfbb033fff7dedec0f1ef1e829320a
+  item_date: "2016-02-29 00:00:00"
+  title: 'The Google Analytics Add-On for Sheets: An Intro to an Underutilized Tool'
+  url: https://moz.com/blog/intro-google-analytics-add-on-for-sheets
+  domain: moz.com
+  image: ""
+- curated_id: c999a91a718d41daeb29b290f6e30d5d
+  item_date: "2016-03-02 00:00:00"
+  title: 'Log Analytics Tools: Open Source vs. Commercial'
+  url: https://dzone.com/articles/log-analytics-tools-open-source-vs-commercial
+  domain: dzone.com
+  image: ""
+- curated_id: 1e6db67ebd85f40b7a22a93d84d55f62
+  item_date: "2016-03-03 00:00:00"
+  title: Microsoft Releases Windows Store Analytics API
+  url: http://www.programmableweb.com/news/microsoft-releases-windows-store-analytics-api/brief/2016/03/03
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: c5dba1673420153f72035315d674835c
+  item_date: "2016-03-04 00:00:00"
+  title: Google Cast gets an analytics tool for developers
+  url: http://venturebeat.com/2016/03/04/google-cast-gets-an-analytics-tool-for-developers/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 5027f4ba3db675e207bdbd90c7d607ce
+  item_date: "2016-03-08 00:00:00"
+  title: Lies Your Analytics Data Tell You
+  url: http://www.digitalgov.gov/2016/03/08/lies-your-analytics-data-tell-you/
+  domain: www.digitalgov.gov
+  image: ""
+- curated_id: d05a8bde80920f17ed247bcfd748b3ce
+  item_date: "2016-03-09 00:00:00"
+  title: 'Closing the Gap to Decision Part I: Data Analysis and IoT Analytics'
+  url: https://exosite.com/closing-the-gap-to-decision-part-i-data-analysis-and-iot-analytics/
+  domain: exosite.com
+  image: ""
+- curated_id: 969311e82e0a1623fbffdd651f018f35
+  item_date: "2016-03-09 00:00:00"
+  title: 'Google Apps Script: Tracking add-on usage with Google Analytics '
+  url: https://developers.googleblog.com/2016/01/google-apps-script-tracking-add-on.html
+  domain: developers.googleblog.com
+  image: ""
+- curated_id: ca5d0887bb58ff9ee19bce2d6ee5f8a3
+  item_date: "2016-03-09 00:00:00"
+  title: Discover Gold with Keen IO and Popily
+  url: http://keenio.tumblr.com/post/140745630296/discover-gold-with-keen-io-and-popily#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 34eab5a8197fc43e9c45cdb943c04257
+  item_date: "2016-03-09 00:00:00"
+  title: Introducing Autotrack for analytics.js
+  url: https://developers.googleblog.com/2016/02/introducing-autotrack-for-analyticsjs.html
+  domain: developers.googleblog.com
+  image: ""
+- curated_id: 069082db4fd0acbfec694a1b158b32d4
+  item_date: "2016-03-10 10:25:10"
+  title: Privacy, Security, and Encryption
+  url: https://www.graphite.org/privacy/blog/privacy-security-encryption
+  domain: www.graphite.org
+  image: ""
+- curated_id: b5a853ed7a89c3cead67c1ae04d8f1cb
+  item_date: "2016-03-16 00:00:00"
+  title: An Introduction to Graphite
+  url: https://dzone.com/articles/an-introduction-to-graphite
+  domain: dzone.com
+  image: ""
+- curated_id: 59f2f3706ca3dfa01a1eb05994c3babb
+  item_date: "2016-03-21 00:00:00"
+  title: Revealytics ? Stripe Analytics Bot For Slack
+  url: https://revealytics.com/slack
+  domain: revealytics.com
+  image: ""
+- curated_id: 14a9850ad85746df34e5856016a040f6
+  item_date: "2016-03-21 00:00:00"
+  title: How Newsrooms are Adapting to Analytics
+  url: https://www.newswhip.com/2016/03/how-newsrooms-are-adapting-to-analytics/
+  domain: www.newswhip.com
+  image: ""
+- curated_id: 7d331a560ebd9637b425e2e8744fa658
+  item_date: "2016-03-22 00:00:00"
+  title: The Postal Service Just Broke Analytics.usa.gov
+  url: http://www.digitalgov.gov/2016/03/22/the-postal-service-just-broke-analytics-usa-gov/
+  domain: www.digitalgov.gov
+  image: ""
+- curated_id: 38552c1cc6f85d6b652906d2db95a802
+  item_date: "2016-03-26 01:10:10"
+  title: Great Github list of public data sets - Data Science Central
+  url: http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets
+  domain: www.datasciencecentral.com
+  image: ""
+- curated_id: 6142035d56b106d3436c20b4fba03c5c
+  item_date: "2016-03-28 00:00:00"
+  title: Grow Your Audience With Our New JW Player Real-Time Analytics
+  url: https://www.jwplayer.com/blog/new-jwplayer-real-time-analytics/
+  domain: www.jwplayer.com
+  image: ""
+- curated_id: 9e1c4d67bdc4e1b2b736af7daa43e0ca
+  item_date: "2016-03-28 00:00:00"
+  title: The Analytics Hierarchy of Needs
+  url: https://dzone.com/articles/the-analytics-hierarchy-of-needs
+  domain: dzone.com
+  image: ""
+- curated_id: bead8f7277447ad16d2fae09f16f2568
+  item_date: "2016-03-29 00:00:00"
+  title: Baremetrics for Slack ? Subscription analytics, insights  notifications in
+    Slack
+  url: https://baremetrics.com/slack
+  domain: baremetrics.com
+  image: ""
+- curated_id: 30eee713f6ab52d1750e83d0a574b770
+  item_date: "2016-03-29 00:00:00"
+  title: Weve launched SaaS metrics Slack Bot!
+  url: https://revealytics.com/blog/saas-metrics-slack-bot/
+  domain: revealytics.com
+  image: ""
+- curated_id: 6e61fb20b9b5b5dab4a9216de22faf3b
+  item_date: "2016-04-08 00:00:00"
+  title: Delmondo ? Snapchat analytics platform
+  url: http://delmondo.co/
+  domain: delmondo.co
+  image: ""
+- curated_id: a0502574bdd1488642f6a959c6cafc27
+  item_date: "2016-04-12 00:00:00"
+  title: Sumo Logic Announces Industry?s First Machine Data Analytics Platform that
+    Unifies Logs and Metrics Data
+  url: https://dzone.com/articles/sumo-logic-announces-industrys-first-machine-data
+  domain: dzone.com
+  image: ""
+- curated_id: ed5a30207d361a2cc9e25f55da156274
+  item_date: "2016-04-14 00:00:00"
+  title: JQL by Mixpanel ? A powerful new query language to analyze your data
+  url: https://mixpanel.com/jql/
+  domain: mixpanel.com
+  image: ""
+- curated_id: 6d9908aaa85024af3600830bfc3b51a4
+  item_date: "2016-04-19 00:00:00"
+  title: 'Diagnostic IoT Analytics: Why Did It Happen?'
+  url: https://exosite.com/diagnostic-iot-analytics-why-did-it-happen/
+  domain: exosite.com
+  image: ""
+- curated_id: b82c711a92764fb1029533c78ea9f951
+  item_date: "2016-04-22 00:00:00"
+  title: 5 Instagram Analytics Tools for Your Business
+  url: https://blog.hootsuite.com/instagram-analytics-tools-business/
+  domain: blog.hootsuite.com
+  image: ""
+- curated_id: 0226dc50faf62a0b17c73787fa452f96
+  item_date: "2016-04-29 00:00:00"
+  title: New Analytics API for fetching your usage stats
+  url: https://www.mapbox.com/blog/api-for-usage-stats/
+  domain: www.mapbox.com
+  image: ""
+- curated_id: 2efbb7892a6c2d998ee415f94650c45d
+  item_date: "2016-05-06 00:00:00"
+  title: TIBCO Upgrades Spotfire for AWS, Enhancing Customization and R Capabilities
+    for Advanced Analytics
+  url: http://www.tibco.com/blog/2016/05/06/tibco-upgrades-spotfire-for-aws-enhancing-customization-and-r-capabilities-for-advanced-analytics/
+  domain: www.tibco.com
+  image: ""
+- curated_id: 4f423a135e3f68927a7386263889569f
+  item_date: "2016-05-11 00:00:00"
+  title: Statsbot for Mixpanel ? Mixpanel bot for Slack
+  url: https://statsbot.co/mixpanel
+  domain: statsbot.co
+  image: ""
+- curated_id: 8cfb52d29a95a1d5dce4e8ed0589cd16
+  item_date: "2016-05-12 09:23:42"
+  title: dashbot - Bot Analytics
+  url: http://www.dashbot.io/
+  domain: www.dashbot.io
+  image: ""
+- curated_id: d5e7c77de85e3e30bc0dfa35db28023f
+  item_date: "2016-05-17 00:00:00"
+  title: ChartMogul API ? SaaS metrics and analytics for any billing platform
+  url: https://dev.chartmogul.com/
+  domain: dev.chartmogul.com
+  image: ""
+- curated_id: 38c3becf0d6b7c7a261c5abc99c08688
+  item_date: "2016-05-18 00:00:00"
+  title: Google updates Firebase with analytics and messaging to be a ?unified app
+    platform?
+  url: http://thenextweb.com/google/2016/05/18/googles-firebase-update-will-make-hard-developers-overlook/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 1ecfff8d09e025331c51380140a73a11
+  item_date: "2016-05-23 00:00:00"
+  title: The Problem with Analytics
+  url: http://www.cringely.com/2016/05/23/the-problem-with-analytics/
+  domain: www.cringely.com
+  image: ""
+- curated_id: e3d063092ffa03fac78bc1327f25ee4a
+  item_date: "2016-05-29 00:00:00"
+  title: Moving Streaming Analytics Out of the Data Center
+  url: https://dzone.com/articles/moving-streaming-analytics-out-of-the-data-center
+  domain: dzone.com
+  image: ""
+- curated_id: 776aa3baf50e69a4d9f226518ec8d687
+  item_date: "2016-06-01 00:00:00"
+  title: Apache Spark Insights
+  url: https://dzone.com/articles/apache-spark-insights
+  domain: dzone.com
+  image: ""
+- curated_id: 12774e931f5f212b2fcb4e4d2318e64e
+  item_date: "2016-06-05 00:00:00"
+  title: Analytics and the Internet of Things
+  url: https://dzone.com/articles/analytics-and-the-internet-of-things
+  domain: dzone.com
+  image: ""
+- curated_id: 0358689b36aaa80d6308f690ed626fc6
+  item_date: "2016-06-06 00:00:00"
+  title: Analytics Cards ? A deck of cards to help explore Google Analytics
+  url: https://www.kickstarter.com/projects/196851189/analytics-cards
+  domain: www.kickstarter.com
+  image: ""
+- curated_id: 4048a1951f2f1c1babfac660ecc1d326
+  item_date: "2016-06-06 00:00:00"
+  title: Best practices for Tableau Server on Google Compute Engine
+  url: https://cloudplatform.googleblog.com/2016/06/best-practices-for-Tableau-Server-on-Google-Compute-Engine.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: cf539ab0e44778803cad51c4d5270d18
+  item_date: "2016-06-06 00:00:00"
+  title: Real-time In-memory OLTP and Analytics With Apache Ignite on AWS
+  url: https://dzone.com/articles/real-time-in-memory-oltp-and-analytics-with-apache
+  domain: dzone.com
+  image: ""
+- curated_id: e715c010d0d0815c213d950357647d67
+  item_date: "2016-06-06 00:00:00"
+  title: Why Switching to HTTPS Will Make Your Analytics Better
+  url: http://www.digitalgov.gov/2016/06/06/why-switching-to-https-will-make-your-analytics-better/
+  domain: www.digitalgov.gov
+  image: ""
+- curated_id: 1f570dee175b6ec8e41ac9011f09b392
+  item_date: "2016-06-09 00:00:00"
+  title: Nuts and Bolts of the Analytics ?Bike?
+  url: http://www.tibco.com/blog/2016/06/09/nuts-and-bolts-of-the-analytics-bike/
+  domain: www.tibco.com
+  image: ""
+- curated_id: 29c0b4afc3012285823aeea5808e2375
+  item_date: "2016-06-10 00:00:00"
+  title: SIOS Technology Extends Machine Learning Analytics to SQL Server
+  url: http://www.itbusinessedge.com/blogs/it-unmasked/sios-technology-extends-machine-learning-analytics-to-sql-server.html
+  domain: www.itbusinessedge.com
+  image: ""
+- curated_id: 408adb4795c2ffc3828e75a8a64e94b8
+  item_date: "2016-06-15 00:00:00"
+  title: WhataGraph ? Changing the way analytics are visualized ??
+  url: http://whatagraph.com/
+  domain: whatagraph.com
+  image: ""
+- curated_id: 4b36b5e258330fa1c64df07f1b0707fa
+  item_date: "2016-06-16 00:00:00"
+  title: 'Announcing: Keen Dashboards'
+  url: http://keenio.tumblr.com/post/146028881101/announcing-keen-dashboards#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 26eb090a0e3589d66a89155731c3981e
+  item_date: "2016-06-21 00:00:00"
+  title: Twitter Engage
+  url: http://www.theverge.com/2016/6/21/11983954/twitter-engage-influencer-app
+  domain: www.theverge.com
+  image: ""
+- curated_id: 8a0ae9e3d8e1b0379c63a74266e11590
+  item_date: "2016-06-22 00:00:00"
+  title: Introducing Native Analytics by Keen IO
+  url: http://keenio.tumblr.com/post/146306032576/introducing-native-analytics-by-keen-io#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 97ff8edfff85bbbb9b52e0fc3ae49260
+  item_date: "2016-06-22 00:00:00"
+  title: Native Analytics by Keen IO ? Build and ship analytics features for your
+    users.
+  url: https://keen.io/native-analytics/
+  domain: keen.io
+  image: ""
+- curated_id: c0876c470ae71db0c8e7eef83417d2d3
+  item_date: "2016-06-22 00:00:00"
+  title: Why We Built Native Analytics
+  url: http://keenio.tumblr.com/post/146310172661/why-we-built-native-analytics#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 8454795f6547d7c99d65425bd36a9e3b
+  item_date: "2016-06-27 00:00:00"
+  title: How to use Receptiviti API to measure rapport on chat clients
+  url: http://www.receptiviti.ai/blog/how-to-use-receptiviti-api-to-measure-rapport-on-chat-clients/
+  domain: www.receptiviti.ai
+  image: ""
+- curated_id: 3f382965d5981d5db18a2f3f75a30804
+  item_date: "2016-06-28 00:00:00"
+  title: Five Key Predictions for Data and Analytics Through 2020
+  url: https://dzone.com/articles/data-and-analytics-predictions-through-2020-memsql
+  domain: dzone.com
+  image: ""
+- curated_id: b5cd64d9684a86b207cde21f70eaab3c
+  item_date: "2016-06-29 00:00:00"
+  title: Keen IO Secures 14.7M in Series B Financing
+  url: http://keenio.tumblr.com/post/146664820626/keen-io-secures-147m-in-series-b-financing#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 1aa7c54d42deab81f0eccffe10d5adbf
+  item_date: "2016-06-29 00:00:00"
+  title: Discovery and Consumption of Analytics Data at Twitter
+  url: https://blog.twitter.com/2016/discovery-and-consumption-of-analytics-data-at-twitter
+  domain: blog.twitter.com
+  image: ""
+- curated_id: c659e3cbe3cd38f4e2c9d1509a55e683
+  item_date: "2016-07-06 00:00:00"
+  title: Audiense offers audience insights and personalized customer interactions
+    with Gnip and the Twitter Ads API
+  url: https://blog.twitter.com/2016/audiense-offers-audience-insights-and-personalized-customer-interactions
+  domain: blog.twitter.com
+  image: ""
+- curated_id: 6743c75ab7de4efe7184ca01faaf4ca3
+  item_date: "2016-07-11 08:20:17"
+  title: Predictive Analytics, Wearables Data Driving EHR Growth
+  url: http://www.informationweek.com/big-data/big-data-analytics/predictive-analytics-wearables-data-driving-ehr-growth/d/d-id/1326165
+  domain: www.informationweek.com
+  image: ""
+- curated_id: 8c6bb4fc2607b4be7e7ff6717193b766
+  item_date: "2016-07-20 00:00:00"
+  title: Projector, by Stunning ? Revenue projection for Stripe customers
+  url: https://projector.stunning.co
+  domain: projector.stunning.co
+  image: ""
+- curated_id: b14e38a46bfd9d766eb2fd43473dd051
+  item_date: "2016-07-21 00:00:00"
+  title: DoubleClick Ad Exchange Seller API new metrics and dimensions
+  url: http://googleadsdeveloper.blogspot.com/2016/07/doubleclick-ad-exchange-seller-api-new.html
+  domain: googleadsdeveloper.blogspot.com
+  image: ""
+- curated_id: 7deda02d6f2d5c6006a02b8bcf8d6846
+  item_date: "2016-07-27 00:00:00"
+  title: Municipal Analytics, the Startup Way
+  url: http://datasmart.ash.harvard.edu/news/article/municipal-analytics-the-startup-way-873
+  domain: datasmart.ash.harvard.edu
+  image: ""
+- curated_id: d46cad0c84fd36e84592fb00b5c0dc6e
+  item_date: "2016-08-01 00:00:00"
+  title: Aware360 Expands its Industrial IoT Connectivity and Analytics with Gemalto
+  url: http://www.remotemagazine.com/main/news/aware360-expands-its-industrial-iot-connectivity-and-analytics-with-gemalto/
+  domain: www.remotemagazine.com
+  image: ""
+- curated_id: b35fac5d2419907acf1f2c7bb4ea0ea1
+  item_date: "2016-08-02 00:00:00"
+  title: Bot Analytics ? Conversational analytics for bots
+  url: http://botanalytics.co/
+  domain: botanalytics.co
+  image: ""
+- curated_id: 84fb2446da955bd443fb67b85f6a9a5c
+  item_date: "2016-08-02 00:00:00"
+  title: Autotrack turns 1.0
+  url: https://developers.googleblog.com/2016/08/autotrack-turns-10.html
+  domain: developers.googleblog.com
+  image: ""
+- curated_id: ee0053e75233061818bf6ce73473cc76
+  item_date: "2016-08-02 00:00:00"
+  title: 'Tin Can API vs SCORM: which should you choose?'
+  url: https://www.learnupon.com/tin-can-api-vs-scorm/
+  domain: www.learnupon.com
+  image: ""
+- curated_id: 6f0cedad828a83cec7d3a116ea4bdb10
+  item_date: "2016-08-04 00:00:00"
+  title: Civic Analytics Network Members
+  url: http://datasmart.ash.harvard.edu/news/article/civic-analytics-network-members-881
+  domain: datasmart.ash.harvard.edu
+  image: ""
+- curated_id: 24efccf6f6c04181700200a3651708b1
+  item_date: "2016-08-04 00:00:00"
+  title: Dwolla Releases New Dashboard for White Label API
+  url: http://www.programmableweb.com/news/dwolla-releases-new-dashboard-white-label-api/announcement/2016/08/04
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3682d26a55e20d6cd5c095d99846632e
+  item_date: "2016-08-09 00:00:00"
+  title: Building A Detection Strategy With The Right Metrics
+  url: http://www.darkreading.com/analytics/building-a-detection-strategy-with-the-right-metrics/a/d-id/1326545
+  domain: www.darkreading.com
+  image: ""
+- curated_id: 23583447360b8e1c8de0421f617ee65e
+  item_date: "2016-08-10 00:00:00"
+  title: The Challenge of Big Data Analytics in Clinical Medicine
+  url: https://dzone.com/articles/the-challenge-of-big-data-analytics-in-clinical-me
+  domain: dzone.com
+  image: ""
+- curated_id: d06cb675a6be5289a6ae6ac7505b35d0
+  item_date: "2016-08-11 00:00:00"
+  title: Amazon Kinesis Analytics ?  Process Streaming Data in Real Time with SQL
+  url: https://aws.amazon.com/blogs/aws/amazon-kinesis-analytics-process-streaming-data-in-real-time-with-sql/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 7a69722af2ba469959465217f6b622bb
+  item_date: "2016-08-11 00:00:00"
+  title: AWS bolsters cloud platform with real-time analytics, gives more content
+    controls to developers
+  url: http://www.zdnet.com/article/aws-bolsters-cloud-platform-with-real-time-analytics-gives-more-content-controls-to-developers/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 79b6d3d4bdcdb1c69dbd16ac931c4c5d
+  item_date: "2016-08-11 00:00:00"
+  title: How Jawbone uses wearable sensor data to drive habit change
+  url: http://keenio.tumblr.com/post/148800109796/how-jawbone-uses-wearable-sensor-data-to-drive#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 2b8fc43fd0fb4840a3eabf994e85ac42
+  item_date: "2016-08-18 00:00:00"
+  title: How to Connect Klipfolio to RESTful APIs like Google Analytics
+  url: http://www.programmableweb.com/news/how-to-connect-klipfolio-to-restful-apis-google-analytics/how-to/2016/08/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: db413c4ad1dbd9cc981b8148af533e7b
+  item_date: "2016-08-19 00:00:00"
+  title: 'The Definitive Guide to AWS Log Analytics Using ELK: Part II'
+  url: https://dzone.com/articles/the-definitive-guide-to-aws-log-analytics-using-el-2
+  domain: dzone.com
+  image: ""
+- curated_id: ff199aea14020ba25b970f5e60d629d5
+  item_date: "2016-08-22 00:00:00"
+  title: How to Apply Big Data and Analytics to the Oil and Gas Industry
+  url: http://www.remotemagazine.com/main/news/how-to-apply-big-data-and-analytics-to-the-oil-and-gas-industry/
+  domain: www.remotemagazine.com
+  image: ""
+- curated_id: cdd3728f07548144f0ace520df0bcfa1
+  item_date: "2016-08-23 00:00:00"
+  title: Raptor Maps ? Drone-based farming analytics
+  url: http://www.raptormaps.com/
+  domain: www.raptormaps.com
+  image: ""
+- curated_id: 7d61cd3f9799a1486fd69f19b88a8108
+  item_date: "2016-08-24 00:00:00"
+  title: Announcing Real-time Exporting of your Analytics Data into BigQuery
+  url: https://firebase.googleblog.com/2016/08/real-time-exporting-of-analytics-data-into-bigquery.html
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2016-08-24 00:00:00"
+  title: Converse.AI  Clearbit ? easy, real time analytics through chatbots
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: 80cd8c442877d171ca2b10fd00743918
+  item_date: "2016-08-25 00:00:00"
+  title: Pirate Metrics (AARRR) with Firebase
+  url: https://firebase.googleblog.com/2016/08/pirate-metrics-aarrr-with-firebase.html
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: a3b717d1565fe31e21037da340a61e53
+  item_date: "2016-08-26 00:00:00"
+  title: What we learned dogfooding our Native Analytics product
+  url: http://keenio.tumblr.com/post/149514329541/what-we-learned-dogfooding-our-native-analytics#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 0e25e35013d92e4e199c7230c682a1c4
+  item_date: "2016-08-30 06:15:39"
+  title: Recurly Analytics for Competitive Advantage
+  url: https://blog.recurly.com/recurly-analytics-for-competitive-advantage
+  domain: blog.recurly.com
+  image: ""
+- curated_id: 6d2db2dda20f56ea0e4cc13f202ad886
+  item_date: "2016-09-02 00:00:00"
+  title: Audit Trail Dashboard with CloudBees Jenkins Analytics
+  url: https://www.cloudbees.com/blog/audit-trail-dashboard-cloudbees-jenkins-analytics
+  domain: www.cloudbees.com
+  image: ""
+- curated_id: 263cc4a0c27f452705407a5a80b398f7
+  item_date: "2016-09-26 00:00:00"
+  title: 5 Ways IT Pros Can Smarten Up With Data Analytics
+  url: http://www.cxotoday.com/story/5-ways-it-pros-can-innovate-with-data-analytics/
+  domain: www.cxotoday.com
+  image: ""
+- curated_id: d9f6ac9e93312acd47cdc6d65cc30de4
+  item_date: "2016-09-28 00:00:00"
+  title: Facebook?s Analytics for Apps now lets you view cross-platform metrics all
+    in one place
+  url: http://thenextweb.com/facebook/2016/09/28/facebooks-analytics-for-apps-now-supports-cross-platform-analytis/
+  domain: thenextweb.com
+  image: ""
+- curated_id: e675199782fa02b56c084098ecd38d98
+  item_date: "2016-09-28 00:00:00"
+  title: Connecting Kinesis Analytics With AWS IoT
+  url: https://dzone.com/articles/connecting-kinesis-analytics-with-aws-iot
+  domain: dzone.com
+  image: ""
+- curated_id: b3f58281bafdb38e4ef023d8806af187
+  item_date: "2016-09-29 00:00:00"
+  title: 'Google Apps Script: Tracking add-on usage with Google Analytics '
+  url: https://gsuite-developers.googleblog.com/2016/01/google-apps-script-tracking-add-on.html
+  domain: gsuite-developers.googleblog.com
+  image: ""
+- curated_id: dc835dfc16370d06a81081328a956e22
+  item_date: "2016-09-30 00:00:00"
+  title: Google Analytics for REST APIs
+  url: https://dzone.com/articles/google-analytics-for-rest-apis
+  domain: dzone.com
+  image: ""
+- curated_id: b008f09edfe98f9254a357d5b2b13b21
+  item_date: "2016-09-30 00:00:00"
+  title: Tableau API Suite Enables In-App Data Analytics, Visualizations, and Experiences
+  url: http://www.programmableweb.com/news/tableau-api-suite-enables-app-data-analytics-visualizations-and-experiences/brief/2016/09/30
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: ea18e5989c69372635acf7cde2f391c3
+  item_date: "2016-09-30 00:00:00"
+  title: 25 Examples of Native Analytics Data Designs in Modern Products
+  url: http://keenio.tumblr.com/post/151149695101/25-examples-of-native-analytics-data-designs-in#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 7ff59cdb46418b3733a644dec86053ae
+  item_date: "2016-10-05 00:00:00"
+  title: 'Live Customer Videocast: Vestas Wind Systems Provides Smart Self-Service
+    Analytics with TIBCO Spotfire'
+  url: http://www.tibco.com/blog/2016/10/05/live-customer-videocast-vestas-wind-systems-provides-smart-self-service-analytics-with-tibco-spotfire/
+  domain: www.tibco.com
+  image: ""
+- curated_id: 9bf87a810c751fd464a693baf82983f3
+  item_date: "2016-10-05 14:19:03"
+  title: Want your API analytics in your existing management information tool? Tyk
+    Pump has you covered.
+  url: https://github.com/TykTechnologies/tyk-pump
+  domain: github.com
+  image: ""
+- curated_id: 15e766fa94ab0fce9fdadf440134b093
+  item_date: "2016-10-06 00:00:00"
+  title: How I Wrapped My Head Around Analytics-as-a-Service
+  url: http://keenio.tumblr.com/post/151427294686/how-i-wrapped-my-head-around#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: d77ca7556689c421b43aefcbf43a134e
+  item_date: "2016-10-17 00:00:00"
+  title: 'Introducing Veneur: high performance and global aggregation for Datadog'
+  url: https://stripe.com/blog/introducing-veneur-high-performance-and-global-aggregation-for-datadog
+  domain: stripe.com
+  image: ""
+- curated_id: 443bbad0d63f7b31d1de65e62d116fbd
+  item_date: "2016-10-18 00:00:00"
+  title: Facebook Analytics for Apps brings push notifications to all businesses
+  url: http://thenextweb.com/facebook/2016/10/18/facebook-analytics-apps-brings-push-notifications-businesses/
+  domain: thenextweb.com
+  image: ""
+- curated_id: b56651ca5afae98c0c3ac44ccd1c65b7
+  item_date: "2016-10-18 00:00:00"
+  title: Red Lion Adds Control and Expansion Options to its Graphite Platform
+  url: http://www.remotemagazine.com/main/markets/networkingtelemetry/red-lion-adds-control-and-expansion-options-to-its-graphite-platform/
+  domain: www.remotemagazine.com
+  image: ""
+- curated_id: a006959e9335817ee12c4a10135f00a1
+  item_date: "2016-10-20 00:00:00"
+  title: 'Adobe Analytics: New Features Make Powerful Insights More Accessible'
+  url: https://blogs.adobe.com/conversations/2016/10/adobe-analytics-new-features-make-powerful-insights-more-accessible.html
+  domain: blogs.adobe.com
   image: ""
 ...
