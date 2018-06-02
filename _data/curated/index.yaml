@@ -348,16 +348,16 @@
   url: https://dzone.com/articles/secrets-awesome-javascript-api
   domain: dzone.com
   image: ""
+- curated_id: 7785d938c648fb3319535d2273439564
+  item_date: "2013-08-20 00:00:00"
+  title: 'Api Design, Part 2: Design Messaging Styles By Balancing...'
+  url: https://www.forrester.com/report/API+Design+Part+2+Design+Messaging+Styles+By+Balancing+Reach+With+Your+Other+Design+Goals/-/E-RES102022
+  domain: www.forrester.com
+  image: ""
 - curated_id: 0d4ef097a8242fa4d5c91c721c9c26d6
   item_date: "2013-08-20 00:00:00"
   title: 'Api Design, Part 3: Make Transactions And Error Handling...'
   url: https://www.forrester.com/report/API+Design+Part+3+Make+Transactions+And+Error+Handling+Clear+In+Your+API+Designs/-/E-RES102023
-  domain: www.forrester.com
-  image: ""
-- curated_id: 6350da14586b319eb98c4a37dff14636
-  item_date: "2013-08-20 00:00:00"
-  title: 'Api Design, Part 1: Rest Is The Leading But Not Only...'
-  url: https://www.forrester.com/report/API+Design+Part+1+REST+Is+The+Leading+But+Not+Only+Option+For+Your+APIs/-/E-RES102021
   domain: www.forrester.com
   image: ""
 - curated_id: 3b2b75b8e4651a1f5ff4c19cfa89adfc
@@ -366,10 +366,10 @@
   url: https://www.forrester.com/report/API+Design+Part+4+FutureProof+And+Secure+Your+APIs+To+Fit+Your+Usage+Scenarios/-/E-RES102024
   domain: www.forrester.com
   image: ""
-- curated_id: 7785d938c648fb3319535d2273439564
+- curated_id: 6350da14586b319eb98c4a37dff14636
   item_date: "2013-08-20 00:00:00"
-  title: 'Api Design, Part 2: Design Messaging Styles By Balancing...'
-  url: https://www.forrester.com/report/API+Design+Part+2+Design+Messaging+Styles+By+Balancing+Reach+With+Your+Other+Design+Goals/-/E-RES102022
+  title: 'Api Design, Part 1: Rest Is The Leading But Not Only...'
+  url: https://www.forrester.com/report/API+Design+Part+1+REST+Is+The+Leading+But+Not+Only+Option+For+Your+APIs/-/E-RES102021
   domain: www.forrester.com
   image: ""
 - curated_id: 75e378f435ff8be00494caeb7c1a867b
@@ -613,18 +613,18 @@
   url: https://www.sitepoint.com/best-practices-rest-api-scratch-introduction/
   domain: www.sitepoint.com
   image: ""
-- curated_id: 8f20b2c8123ae0f36b7f3af33b4fac00
-  item_date: "2014-07-30 00:00:00"
-  title: Introducing the Anypoint Platform for APIs
-  url: http://blogs.mulesoft.com/dev/release-anypoint-platform-api-2014-07/
-  domain: blogs.mulesoft.com
-  image: ""
 - curated_id: 2144cf7b6ae1e4945985a2841c5ed29d
   item_date: "2014-07-30 00:00:00"
   title: Reaffirming Intel Services? Connection with Developers and Open Source at
     OSCON
   url: http://www.mashery.com/blog/reaffirming-intel-services-connection-developers-and-open-source-oscon
   domain: www.mashery.com
+  image: ""
+- curated_id: 8f20b2c8123ae0f36b7f3af33b4fac00
+  item_date: "2014-07-30 00:00:00"
+  title: Introducing the Anypoint Platform for APIs
+  url: http://blogs.mulesoft.com/dev/release-anypoint-platform-api-2014-07/
+  domain: blogs.mulesoft.com
   image: ""
 - curated_id: 2be2689fece7524fe66f560e70b94512
   item_date: "2014-07-31 00:00:00"
@@ -698,6 +698,12 @@
   url: http://bizcoder.com/a-drive-by-review-of-the-uber-api
   domain: bizcoder.com
   image: ""
+- curated_id: 4a977ed1be744a47760380295c4f5849
+  item_date: "2014-09-25 00:00:00"
+  title: 'API Readiness: do you have what you need?'
+  url: http://blog.smartbear.com/readyapi/api-readiness-do-you-have-what-you-need/
+  domain: blog.smartbear.com
+  image: ""
 - curated_id: af215a5a5d4d60fc1548a7cb802929d7
   item_date: "2014-09-25 00:00:00"
   title: WillowTree Apps Applies Service Virtualization to API Development
@@ -709,12 +715,6 @@
   title: Designing APIs for the Web
   url: http://tehparadox.com/forum/f58/designing-apis-web-8395324/
   domain: tehparadox.com
-  image: ""
-- curated_id: 4a977ed1be744a47760380295c4f5849
-  item_date: "2014-09-25 00:00:00"
-  title: 'API Readiness: do you have what you need?'
-  url: http://blog.smartbear.com/readyapi/api-readiness-do-you-have-what-you-need/
-  domain: blog.smartbear.com
   image: ""
 - curated_id: 4f731b9dd81637dcbb3d82793620fc2d
   item_date: "2014-09-26 00:00:00"
@@ -857,12 +857,6 @@
   url: http://nordicapis.com/using-templates-for-documentation-driven-api-design/
   domain: nordicapis.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comusing-templates-for-documentation-driven-api-design.png
-- curated_id: dfpeX7taC2ZcEvHk8nOWTD7gcjfDUokg5p1tBJrVvtvA5Dy5cuxyXzD6aDowCGDTM336116G49ri7ZtOap0LE8RA117117
-  item_date: "2015-02-20 00:00:00"
-  title: MuleSoft Releases RAML NET Parser Visual Studio Extension
-  url: http://www.programmableweb.com/news/mulesoft-releases-raml-.net-parser-visual-studio-extension/2015/02/20
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsmulesoft-releases-raml--net-parser-visual-studio-extension20150220.png
 - curated_id: STHZs1a123L9FCgfWP94I0Sc5SihdhKqiKdYRIR0PK4lESe9PXk51P18QI780lIAg454DCBfmE8UBsuB1qInUpEQ117117
   item_date: "2015-02-20 00:00:00"
   title: API Best Practices The Wrap Up
@@ -875,6 +869,12 @@
   url: http://www.programmableweb.com/news/lucybot-eliminates-cross-language-programming-necessity/brief/2015/02/20
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewslucybot-eliminates-cross-language-programming-necessitybrief20150220.png
+- curated_id: dfpeX7taC2ZcEvHk8nOWTD7gcjfDUokg5p1tBJrVvtvA5Dy5cuxyXzD6aDowCGDTM336116G49ri7ZtOap0LE8RA117117
+  item_date: "2015-02-20 00:00:00"
+  title: MuleSoft Releases RAML NET Parser Visual Studio Extension
+  url: http://www.programmableweb.com/news/mulesoft-releases-raml-.net-parser-visual-studio-extension/2015/02/20
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsmulesoft-releases-raml--net-parser-visual-studio-extension20150220.png
 - curated_id: IIngeWuMGFGoJeAH2UXBSc2Gk6tk1hjLPM3H1nHX7uzGRz7kCQbVVspghX2XHAEjeDLnOvaOyVqzZgK0iq123ngA117117
   item_date: "2015-02-20 08:48:02"
   title: LucyBot  Get your APIs consumers moving faster
@@ -959,18 +959,18 @@
   url: http://nordicapis.com/common-cases-when-using-soap-makes-sense/
   domain: nordicapis.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comcommon-cases-when-using-soap-makes-sense.png
-- curated_id: YS6zKe0TwWqSzPI123HfarhQvjhvVGqwgliCpMuTM2GSFPEZqIwLVRgykSdArZPWMT9ptBU116yzs3J8V5ojR28IHA117117
-  item_date: "2015-03-02 00:00:00"
-  title: Dropbox starts using POST and why this is poor API design
-  url: https://evertpot.com/dropbox-post-api/
-  domain: evertpot.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/evertpot-comdropbox-post-api.png
 - curated_id: 0a1b8cf7b131426970878e363fb195d6
   item_date: "2015-03-02 00:00:00"
   title: Google launches Player Analytics and custom native ads tools for game developers
   url: http://thenextweb.com/google/2015/03/02/google-launches-player-analytics-and-custom-native-ads-tools-for-gaming-developers/
   domain: thenextweb.com
   image: ""
+- curated_id: YS6zKe0TwWqSzPI123HfarhQvjhvVGqwgliCpMuTM2GSFPEZqIwLVRgykSdArZPWMT9ptBU116yzs3J8V5ojR28IHA117117
+  item_date: "2015-03-02 00:00:00"
+  title: Dropbox starts using POST and why this is poor API design
+  url: https://evertpot.com/dropbox-post-api/
+  domain: evertpot.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/evertpot-comdropbox-post-api.png
 - curated_id: NqEOF35123CWDlvXN6SqCYmB60Cxn9VyXJ3lHlwRZEhfXg116f2ODCuP1k42qMOhoaubBdhd93T1Wvz9b116XeO5vtGw117117
   item_date: "2015-03-02 11:37:39"
   title: ApplicationLevel Profile Semantics ALPS
@@ -1051,6 +1051,12 @@
   url: http://apievangelist.com/2015/03/10/targeting-some-apis-in-my-stack-for-house-cleaning-and-maybe-some-design-iterations/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150310targeting-some-apis-in-my-stack-for-house-cleaning-and-maybe-some-design-iterations.png
+- curated_id: 73bdd8a296a85141ad0ff2ad27fc6f11
+  item_date: "2015-03-10 00:00:00"
+  title: .Modeling Language and REST API Make Advanced Analytics Easy in Web
+  url: http://www.virtual-strategy.com/2015/03/10/frontline-systems%E2%80%99-rason%E2%84%A2-modeling-language-and-rest-api-make-advanced-analytics-easy-web
+  domain: www.virtual-strategy.com
+  image: ""
 - curated_id: KifJPHJjge116hzyNwyAPGw6RcPJ28rB1232hRPvkVRxsVRiP3aBPqPIi9rDLULK9BozVBsy0HhANdyhMtGjTvc03w117117
   item_date: "2015-03-10 00:00:00"
   title: Facebook Applies Versioning Strategy to Marketing API
@@ -1062,12 +1068,6 @@
   title: 'Introducing Splunk Light: The Power of Splunk for Small IT Environments'
   url: http://blogs.splunk.com/2015/03/10/introducing-splunk-light/
   domain: blogs.splunk.com
-  image: ""
-- curated_id: 73bdd8a296a85141ad0ff2ad27fc6f11
-  item_date: "2015-03-10 00:00:00"
-  title: .Modeling Language and REST API Make Advanced Analytics Easy in Web
-  url: http://www.virtual-strategy.com/2015/03/10/frontline-systems%E2%80%99-rason%E2%84%A2-modeling-language-and-rest-api-make-advanced-analytics-easy-web
-  domain: www.virtual-strategy.com
   image: ""
 - curated_id: 2861699650fd5a9b4d5383177d8bf19c
   item_date: "2015-03-10 19:28:36"
@@ -1106,18 +1106,18 @@
   url: https://www.linkedin.com/pulse/10-usability-lessons-apis-frederik-willaert
   domain: www.linkedin.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-linkedin-compulse10-usability-lessons-apis-frederik-willaert.png
-- curated_id: 8N0vORPBzAphlJwelOIm1vZ92lcGcSyizjQMWUYVuSJooR9KAelEcO6VfzvU2H7zYM0qOxbs916AceItWLCK116g117117
-  item_date: "2015-03-16 00:00:00"
-  title: Designing a Web API
-  url: http://restlet.com/blog/2015/03/16/designing-a-web-api/
-  domain: restlet.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/restlet-comblog20150316designing-a-web-api.png
 - curated_id: Av2FJeSKCad0VEgYgGkjP7i4DjkK1Vi5fLsEnE116x4Jxibz2rfvd4ejMC116RixcyQzOqGAgHnZnxo1zKaUrKn4116Q117117
   item_date: "2015-03-16 00:00:00"
   title: Why Your APIs Need Design Help
   url: http://www.digitalgov.gov/2015/03/16/why-your-apis-need-design-help/
   domain: www.digitalgov.gov
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-digitalgov-gov20150316why-your-apis-need-design-help.png
+- curated_id: 8N0vORPBzAphlJwelOIm1vZ92lcGcSyizjQMWUYVuSJooR9KAelEcO6VfzvU2H7zYM0qOxbs916AceItWLCK116g117117
+  item_date: "2015-03-16 00:00:00"
+  title: Designing a Web API
+  url: http://restlet.com/blog/2015/03/16/designing-a-web-api/
+  domain: restlet.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/restlet-comblog20150316designing-a-web-api.png
 - curated_id: 075bbb1aee0aea441999b95f07639465
   item_date: "2015-03-17 00:00:00"
   title: Dataminr raises $130 million to expand enterprise verticals for Twitter analytics
@@ -1130,6 +1130,12 @@
   url: http://jergames.blogspot.com/2015/03/20-api-design-tips-to-stop-annoying.html
   domain: jergames.blogspot.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/jergames-blogspot-com20150320-api-design-tips-to-stop-annoying-html.png
+- curated_id: 803b2972b564f032556f9bbedd802ff6
+  item_date: "2015-03-18 00:00:00"
+  title: Predictive analytics player InsideSales raises $60 million led by Salesforce
+  url: http://zdnet.com.feedsportal.com/c/35462/f/675663/s/4487b17f/sc/3/l/0L0Szdnet0N0Carticle0Cpredictive0Eanalytics0Eplayer0Einsidesales0Eraises0E60A0Emillion0Eled0Eby0Esalesforce0C0Tftag0FRSSbaffb68/story01.htm
+  domain: zdnet.com.feedsportal.com
+  image: ""
 - curated_id: bb072a7ccbf3360c96b14535062eda79
   item_date: "2015-03-18 00:00:00"
   title: 'Guest post: Analyzing an NHL game through the Twitter APIs'
@@ -1142,12 +1148,6 @@
   url: http://www.developer.com/design/the-api-field-of-dreams-build-it-correctly-and-they-will-come.html
   domain: www.developer.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-developer-comdesignthe-api-field-of-dreams-build-it-correctly-and-they-will-come-html.png
-- curated_id: 803b2972b564f032556f9bbedd802ff6
-  item_date: "2015-03-18 00:00:00"
-  title: Predictive analytics player InsideSales raises $60 million led by Salesforce
-  url: http://zdnet.com.feedsportal.com/c/35462/f/675663/s/4487b17f/sc/3/l/0L0Szdnet0N0Carticle0Cpredictive0Eanalytics0Eplayer0Einsidesales0Eraises0E60A0Emillion0Eled0Eby0Esalesforce0C0Tftag0FRSSbaffb68/story01.htm
-  domain: zdnet.com.feedsportal.com
-  image: ""
 - curated_id: 171013dfedd295490452a52ea4889f2f
   item_date: "2015-03-18 12:10:15"
   title: Example of architecture for AaaS (Analytics as a Service)
@@ -1341,36 +1341,30 @@
   url: https://blog.twitter.com/2015/crashlytics-now-serving-over-1-million-apps
   domain: blog.twitter.com
   image: ""
-- curated_id: b99e678f8584e07b66f809abd5e32514
-  item_date: "2015-04-23 00:00:00"
-  title: Integrate Eventbrite and Keen IO in 60 seconds
-  url: http://keenio.tumblr.com/post/117201679946/integrate-eventbrite-and-keen-io-in-60-seconds#_=_
-  domain: keenio.tumblr.com
-  image: ""
-- curated_id: 0de4d972984950c53c9a8e70f2711d95
-  item_date: "2015-04-23 00:00:00"
-  title: Analytics for Mobile Apps
-  url: http://azure.microsoft.com/blog/2015/04/23/analytics-for-mobile-apps/
-  domain: azure.microsoft.com
-  image: ""
 - curated_id: 123K4sLNI8Iq3J57G4P3qvRyS8luo116gzQGkQuop6gF6DB116123GidYE0116gbQ123UoPh9ftTYFXZYcgO0PkmTkQajR7KwQ117117
   item_date: "2015-04-23 00:00:00"
   title: The data the hypermedia and the documentation
   url: http://apihandyman.io/the-data-the-hypermedia-and-the-documentation/
   domain: apihandyman.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apihandyman-iothe-data-the-hypermedia-and-the-documentation.png
+- curated_id: 0de4d972984950c53c9a8e70f2711d95
+  item_date: "2015-04-23 00:00:00"
+  title: Analytics for Mobile Apps
+  url: http://azure.microsoft.com/blog/2015/04/23/analytics-for-mobile-apps/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: b99e678f8584e07b66f809abd5e32514
+  item_date: "2015-04-23 00:00:00"
+  title: Integrate Eventbrite and Keen IO in 60 seconds
+  url: http://keenio.tumblr.com/post/117201679946/integrate-eventbrite-and-keen-io-in-60-seconds#_=_
+  domain: keenio.tumblr.com
+  image: ""
 - curated_id: uzQKS9j4CWxC0jw46L6D86z4wgTClCjCKDm8gRg123dYDDFNg3Yg6123VB7A123cq8dHIOG1jlrhLChoL0vnD401L62w117117
   item_date: "2015-04-25 01:30:35"
   title: Api Design AntiPatterns
   url: http://www.slideshare.net/JasonHarmon1/api-design-antipatterns
   domain: www.slideshare.net
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-slideshare-netjasonharmon1api-design-antipatterns.png
-- curated_id: 40b278602be5534838c4bbed34736587
-  item_date: "2015-04-28 00:00:00"
-  title: Introducing Email Analytics
-  url: http://blog.gumroad.com/post/117636103548/emailanalytics1#_=_
-  domain: blog.gumroad.com
-  image: ""
 - curated_id: FY582bjSo5OtnLvXQS8s5FZlvujWTFrqxsY1NMLS7116ARf8rYeNOlPXhi9yKsocCUmfhi4GpGtYg1WZqfpTDfbw117117
   item_date: "2015-04-28 00:00:00"
   title: Understand about DELETE Verb in Web API RESTful Services using Data from
@@ -1378,17 +1372,23 @@
   url: http://www.codeproject.com/Tips/986510/Understand-about-DELETE-Verb-in-Web-API-RESTful-Se
   domain: www.codeproject.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-codeproject-comtips986510understand-about-delete-verb-in-web-api-restful-se.png
-- curated_id: 7a64ab451da9ab51e1907bdad6eac5de
+- curated_id: 40b278602be5534838c4bbed34736587
   item_date: "2015-04-28 00:00:00"
-  title: Improved Varnish Custom Statistics - now with UI
-  url: https://www.varnish-software.com/blog/improved-varnish-custom-statistics-now-ui
-  domain: www.varnish-software.com
+  title: Introducing Email Analytics
+  url: http://blog.gumroad.com/post/117636103548/emailanalytics1#_=_
+  domain: blog.gumroad.com
   image: ""
 - curated_id: 6df3e9516dde31ef56f0497a3b2197e6
   item_date: "2015-04-28 00:00:00"
   title: Two Years of xAPI
   url: http://makingbetter.us/2015/04/two-years-of-xapi/
   domain: makingbetter.us
+  image: ""
+- curated_id: 7a64ab451da9ab51e1907bdad6eac5de
+  item_date: "2015-04-28 00:00:00"
+  title: Improved Varnish Custom Statistics - now with UI
+  url: https://www.varnish-software.com/blog/improved-varnish-custom-statistics-now-ui
+  domain: www.varnish-software.com
   image: ""
 - curated_id: 3cfb6be00bd232a903dd944bd5661815
   item_date: "2015-04-28 08:41:02"
@@ -1402,18 +1402,18 @@
   url: http://venturebeat.com/2015/04/30/apple-opens-beta-testing-of-analytics-tool-for-ios-app-developers/
   domain: venturebeat.com
   image: ""
+- curated_id: 3ed5f9551eab3ea1688fce1de30e07b8
+  item_date: "2015-04-30 00:00:00"
+  title: 'Introducing Pushpop for Slack: push your analytics data to Slack'
+  url: http://keenio.tumblr.com/post/117760948001/introducing-pushpop-for-slack-push-your-analytics#_=_
+  domain: keenio.tumblr.com
+  image: ""
 - curated_id: 2178a9cacf19437b4451dda80397f9bc
   item_date: "2015-04-30 00:00:00"
   title: Cupenya Makes its Business Analytics Solution Available to Developers through
     IBM Cloud
   url: http://www-03.ibm.com/press/us/en/pressrelease/46736.wss
   domain: www-03.ibm.com
-  image: ""
-- curated_id: 3ed5f9551eab3ea1688fce1de30e07b8
-  item_date: "2015-04-30 00:00:00"
-  title: 'Introducing Pushpop for Slack: push your analytics data to Slack'
-  url: http://keenio.tumblr.com/post/117760948001/introducing-pushpop-for-slack-push-your-analytics#_=_
-  domain: keenio.tumblr.com
   image: ""
 - curated_id: RTNbNyGJWwCyFj2f7GorQDNED1prEUt93B1WcPLWTB0AN7CZGmoIbzbtRo5CAXzY646CO3R5Mi2Kl116bBolR4lg117117
   item_date: "2015-05-03 00:00:00"
@@ -1445,17 +1445,17 @@
   url: http://news.sys-con.com/node/3330356
   domain: news.sys-con.com
   image: ""
-- curated_id: 3f4dd0d9b31a6ec438bbd404a4a5d0c2
-  item_date: "2015-05-07 00:00:00"
-  title: Introducing Monitor. Use Twilio Data Like Never Before
-  url: https://www.twilio.com/blog/2015/05/introducing-monitor-use-twilio-data-like-never-before.html
-  domain: www.twilio.com
-  image: ""
 - curated_id: 7428a5ad523be8237e12966f11479c1f
   item_date: "2015-05-07 00:00:00"
   title: LinkedIn adds analytics to bolster publishing platform
   url: http://www.zdnet.com/article/linkedin-adds-analytics-to-publishing-platform/
   domain: www.zdnet.com
+  image: ""
+- curated_id: 3f4dd0d9b31a6ec438bbd404a4a5d0c2
+  item_date: "2015-05-07 00:00:00"
+  title: Introducing Monitor. Use Twilio Data Like Never Before
+  url: https://www.twilio.com/blog/2015/05/introducing-monitor-use-twilio-data-like-never-before.html
+  domain: www.twilio.com
   image: ""
 - curated_id: rd9nWuoEnhIKHQVglT2Gc1bi0HzKIxA6dqL116jyZuoJOTuAzpbWFZsAIphuKeCKCedsGTrlGdESRXrCSdhORNYg117117
   item_date: "2015-05-08 00:00:00"
@@ -1481,6 +1481,12 @@
   url: http://blog.eventbrite.com/analytics-beta/
   domain: blog.eventbrite.com
   image: ""
+- curated_id: a5a05b5a1cc2dcd9bffb9a0aea2340d5
+  item_date: "2015-05-13 00:00:00"
+  title: There?s money in the metrics
+  url: http://royal.pingdom.com/2015/05/13/theres-money-in-the-metrics/
+  domain: royal.pingdom.com
+  image: ""
 - curated_id: 037ad9fd70d034d98e4a872339f1232f
   item_date: "2015-05-13 00:00:00"
   title: Apple?s new app analytics tool is now available to all registered iOS developers
@@ -1492,12 +1498,6 @@
   title: PAPIs Connect Shows Predictive Analytics APIs Gain Traction
   url: http://www.programmableweb.com/news/papis-connect-shows-predictive-analytics-apis-gain-traction/2015/05/13
   domain: www.programmableweb.com
-  image: ""
-- curated_id: a5a05b5a1cc2dcd9bffb9a0aea2340d5
-  item_date: "2015-05-13 00:00:00"
-  title: There?s money in the metrics
-  url: http://royal.pingdom.com/2015/05/13/theres-money-in-the-metrics/
-  domain: royal.pingdom.com
   image: ""
 - curated_id: 6d1d96c7ab0729b6aa5d9480eebd0294
   item_date: "2015-05-14 08:30:13"
@@ -1517,6 +1517,12 @@
   url: https://www.runscope.com/customers/keen-io
   domain: www.runscope.com
   image: ""
+- curated_id: c02333b73f655e0a048f0df04f79c4ff
+  item_date: "2015-05-20 00:00:00"
+  title: LearnUpon introduces Tin Can support
+  url: https://www.learnupon.com/learnupon-introduces-tin-can-support/
+  domain: www.learnupon.com
+  image: ""
 - curated_id: kYD3kqdICZbpdTFMP12382pp8PbOp28jplkbSqJJFwN123PF3TH1XBlj7d9wyVOTSGrPpynVQPqKYV1123OGlKlTFxIA117117
   item_date: "2015-05-20 00:00:00"
   title: Restlet and SmartBear Partner to Deliver Restlet Studio Plugin for Ready
@@ -1524,12 +1530,6 @@
   url: http://restlet.com/blog/2015/05/20/restlet-and-smartbear-partner-to-deliver-restlet-studio-plugin-for-ready-api/
   domain: restlet.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/restlet-comblog20150520restlet-and-smartbear-partner-to-deliver-restlet-studio-plugin-for-ready-api.png
-- curated_id: c02333b73f655e0a048f0df04f79c4ff
-  item_date: "2015-05-20 00:00:00"
-  title: LearnUpon introduces Tin Can support
-  url: https://www.learnupon.com/learnupon-introduces-tin-can-support/
-  domain: www.learnupon.com
-  image: ""
 - curated_id: 49b6dcd06b0e25baa5c6a225c763597c
   item_date: "2015-05-20 00:00:00"
   title: ' Fabric Leading the SDK Market in Performance and Mobile Analytics'
@@ -1548,18 +1548,18 @@
   url: http://nordicapis.com/7-api-design-lessons-world-tour-roundup/
   domain: nordicapis.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-com7-api-design-lessons-world-tour-roundup.png
-- curated_id: 0RlbclclakYqrpBkU1116CCDN6IbxoulxNCGvTLxNE8P1qJSRIwHMIPiIH0diua4OP116MJnWyKkQf6zf0116jZiWhYw117117
-  item_date: "2015-05-21 00:00:00"
-  title: Apigee API Studio Designing Testing and Sharing APIs
-  url: http://www.infoq.com/news/2015/05/apigee-api-studio
-  domain: www.infoq.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201505apigee-api-studio.png
 - curated_id: aSdL9MjYhohCUm22j7gioM123xw9NVf5j952Lu80Elw32J8wGj8ePV24T2zSEQAvUYliq1qZuYPHNl9CPl8nbNjQ117117
   item_date: "2015-05-21 00:00:00"
   title: Apigee adds some Swagger to API design
   url: http://www.pcadvisor.co.uk/news/software/apigee-adds-some-swagger-to-api-design-3612750/
   domain: www.pcadvisor.co.uk
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-pcadvisor-co-uknewssoftware3612750apigee-adds-some-swagger-to-api-design.png
+- curated_id: 0RlbclclakYqrpBkU1116CCDN6IbxoulxNCGvTLxNE8P1qJSRIwHMIPiIH0diua4OP116MJnWyKkQf6zf0116jZiWhYw117117
+  item_date: "2015-05-21 00:00:00"
+  title: Apigee API Studio Designing Testing and Sharing APIs
+  url: http://www.infoq.com/news/2015/05/apigee-api-studio
+  domain: www.infoq.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201505apigee-api-studio.png
 - curated_id: 4764698bf1db2ba1d630c34a05009f4d
   item_date: "2015-05-23 00:00:00"
   title: Ryft Open API Library Extends Batch and Streaming Analysis
@@ -1578,18 +1578,18 @@
   url: http://www.programmableweb.com/news/ryft-announces-open-api-library-ryft-one-platform/2015/05/26
   domain: www.programmableweb.com
   image: ""
-- curated_id: yyyQ2sx4byR5DrIIg8JCp5MyS2QoGlHKlcHtj4SxukmFvt28umPU9Hi7123aXpTqQc4ev12zNus9ayFlqCNhgKbA117117
-  item_date: "2015-05-26 00:00:00"
-  title: Article From Doodles to Delivery  An API Design Process
-  url: http://www.infoq.com/articles/doodles-to-delivery
-  domain: www.infoq.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comarticlesdoodles-to-delivery.png
 - curated_id: E9EtiV1169XNQe1kCC82mNbfy9COKD123Hg4UYKSOPgAE9guxhW7riNevMV0j123O796ixpYtcqn9YorIQIqEpe116h8FQ117117
   item_date: "2015-05-26 00:00:00"
   title: RESTful API Design Part III Error Handling
   url: http://blog.cloud-elements.com/error-handling-restful-api-design-part-iii
   domain: blog.cloud-elements.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloud-elements-comrestful-api-design-part-iii-error-handling.png
+- curated_id: yyyQ2sx4byR5DrIIg8JCp5MyS2QoGlHKlcHtj4SxukmFvt28umPU9Hi7123aXpTqQc4ev12zNus9ayFlqCNhgKbA117117
+  item_date: "2015-05-26 00:00:00"
+  title: Article From Doodles to Delivery  An API Design Process
+  url: http://www.infoq.com/articles/doodles-to-delivery
+  domain: www.infoq.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comarticlesdoodles-to-delivery.png
 - curated_id: 8c79f45adefd1283032202bfd29707e0
   item_date: "2015-05-27 00:00:00"
   title: Location analytics for iOS
@@ -1657,18 +1657,18 @@
   url: http://www.programmableweb.com/news/iot-api-startup-crowsnest-to-offer-crash-analytics-service/2015/06/03
   domain: www.programmableweb.com
   image: ""
-- curated_id: 5VwPDKWUk55NFAl8rRjvprraPmuMgFE9riI4Pas3bvUKoIoR8bAKiiMfXOU2lp5MFtIYePrhgOvvDdkuN9Sodg117117
-  item_date: "2015-06-04 00:00:00"
-  title: Why Not To Overlook API Planning And What To Do About It
-  url: http://www.programmableweb.com/news/why-not-to-overlook-api-planning-and-what-to-do-about-it/analysis/2015/06/04
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewswhy-not-to-overlook-api-planning-and-what-to-do-about-itanalysis20150604.png
 - curated_id: 938458d5adc648e755211d5dbe5d645e
   item_date: "2015-06-04 00:00:00"
   title: 'Apache Spark: Powering applications on-premise and in the cloud'
   url: http://radar.oreilly.com/2015/06/apache-spark-powering-applications-on-premise-and-in-the-cloud.html
   domain: radar.oreilly.com
   image: ""
+- curated_id: 5VwPDKWUk55NFAl8rRjvprraPmuMgFE9riI4Pas3bvUKoIoR8bAKiiMfXOU2lp5MFtIYePrhgOvvDdkuN9Sodg117117
+  item_date: "2015-06-04 00:00:00"
+  title: Why Not To Overlook API Planning And What To Do About It
+  url: http://www.programmableweb.com/news/why-not-to-overlook-api-planning-and-what-to-do-about-it/analysis/2015/06/04
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewswhy-not-to-overlook-api-planning-and-what-to-do-about-itanalysis20150604.png
 - curated_id: GJRNrJdsAI4jxd5D41xo123No27xfvP4X09DnCXz4pPSuat2Js116JfYQnCW0xlMVClXmvy27wXpMeX0mw34VWPOGQ117117
   item_date: "2015-06-04 00:00:00"
   title: Top 5 Development Tips for a Killer API
@@ -1693,12 +1693,6 @@
   url: http://blog.apiary.io/2015/06/09/Decoupling-the-Mind-of-the-API-Designer/
   domain: blog.apiary.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-apiary-io20150609decoupling-the-mind-of-the-api-designer.png
-- curated_id: 74d6577a053bca336d405d97b8123aab
-  item_date: "2015-06-10 00:00:00"
-  title: LinkedIn open-sources its Pinot real-time analytics software
-  url: http://venturebeat.com/2015/06/10/linkedin-open-sources-its-pinot-real-time-analytics-software/
-  domain: venturebeat.com
-  image: ""
 - curated_id: c1ded12a1c89cdae0b429befd4508f54
   item_date: "2015-06-10 00:00:00"
   title: Introducing Instagram Channel Analytics
@@ -1710,6 +1704,12 @@
   title: Yet Analytics Launches Flagship Human Capital Analytics Platform
   url: http://www.yetanalytics.com/blog/2015/6/10/yet-analytics-launches-flagship-human-capital-analytics-platform
   domain: www.yetanalytics.com
+  image: ""
+- curated_id: 74d6577a053bca336d405d97b8123aab
+  item_date: "2015-06-10 00:00:00"
+  title: LinkedIn open-sources its Pinot real-time analytics software
+  url: http://venturebeat.com/2015/06/10/linkedin-open-sources-its-pinot-real-time-analytics-software/
+  domain: venturebeat.com
   image: ""
 - curated_id: LX8fmCL5aAABapgd8qwQyeJdgYwRJA1230M831161n116edLZevYP1nP90Z123hdXngTaTLzkFPQRVY5QWm3K8p116hKt32A117117
   item_date: "2015-06-10 00:00:00"
@@ -1766,12 +1766,6 @@
   url: http://apievangelist.com/2015/06/23/breaking-down-publication-references-with-the-global-change-information-system-api/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150623breaking-down-publication-references-with-the-global-change-information-system-api.png
-- curated_id: 24356b4b0638a29121597f89642f5b51
-  item_date: "2015-06-24 00:00:00"
-  title: OPENi Analytics Service Enabler
-  url: http://www.openi-ict.eu/openi-analytics-service-enabler/
-  domain: www.openi-ict.eu
-  image: ""
 - curated_id: d9a5578afa1ef0c8f104aa0b042b5a6b
   item_date: "2015-06-24 00:00:00"
   title: ""
@@ -1783,6 +1777,12 @@
   title: Advanced transcription and analytics with Voicebase and Tropo
   url: https://www.tropo.com/2015/06/advanced-transcription-analytics-voicebase-tropo/
   domain: www.tropo.com
+  image: ""
+- curated_id: 24356b4b0638a29121597f89642f5b51
+  item_date: "2015-06-24 00:00:00"
+  title: OPENi Analytics Service Enabler
+  url: http://www.openi-ict.eu/openi-analytics-service-enabler/
+  domain: www.openi-ict.eu
   image: ""
 - curated_id: 32f99c3b370b5baaf53ec4dc71625147
   item_date: "2015-06-25 00:00:00"
@@ -1796,18 +1796,18 @@
   url: http://venturebeat.com/2015/06/25/datameer-wants-to-replace-your-analytics-stack-with-this-one-tool/
   domain: venturebeat.com
   image: ""
-- curated_id: yU6uZuemPLgmYnXzfb123vDIiVb4vXyQBbdsqOS123lA6Qa4FRoOyzyDuKjOorHF7CDlMOqqUdLB4z6R1ntArRiYFQ117117
-  item_date: "2015-06-29 00:00:00"
-  title: The API Design Tooling I Have Included In My Research
-  url: http://apievangelist.com/2015/06/30/the-api-design-tooling-i-have-included-in-my-research/
-  domain: apievangelist.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150630the-api-design-tooling-i-have-included-in-my-research.png
 - curated_id: b70b699a5ecf4d915e54e90b4b16497f
   item_date: "2015-06-29 00:00:00"
   title: 'DigitalGov Podcast: DAP Delivers Data for 4,000 Websites'
   url: http://www.digitalgov.gov/2015/06/29/digitalgov-podcast-dap-delivers-data-for-4000-websites/
   domain: www.digitalgov.gov
   image: ""
+- curated_id: yU6uZuemPLgmYnXzfb123vDIiVb4vXyQBbdsqOS123lA6Qa4FRoOyzyDuKjOorHF7CDlMOqqUdLB4z6R1ntArRiYFQ117117
+  item_date: "2015-06-29 00:00:00"
+  title: The API Design Tooling I Have Included In My Research
+  url: http://apievangelist.com/2015/06/30/the-api-design-tooling-i-have-included-in-my-research/
+  domain: apievangelist.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150630the-api-design-tooling-i-have-included-in-my-research.png
 - curated_id: WedC123gJbVRxcVR5FuD8q7123Yk116o9116116HS12xXrrtIyDZxZuZsaa58VJDuaUcXXCBRx1SFIuz2123QzLeZoiTp116Ie2g117117
   item_date: "2015-06-30 00:00:00"
   title: Why Its OK To Design Imperfect APIs
@@ -1882,18 +1882,18 @@
   url: http://azure.microsoft.com/blog/2015/07/10/interactive-analytics-on-big-data-with-the-release-of-spark-for-azure-hdinsight/
   domain: azure.microsoft.com
   image: ""
-- curated_id: JFavSARdPJzo36zyTKWhBiyharyKrDi3Gh7msT0fnDKbVytcFNVi5I9aNSRV7M886uiAYVojMZKr7drZ116wz0OA117117
-  item_date: "2015-07-10 00:00:00"
-  title: How To Design Great APIs With APIFirst Design and RAML
-  url: http://www.programmableweb.com/news/how-to-design-great-apis-api-first-design-and-raml/how-to/2015/07/10
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewshow-to-design-great-apis-api-first-design-and-ramlhow-to20150710.png
 - curated_id: f8cb8f44e1e01ac8860aac77c60924af
   item_date: "2015-07-10 00:00:00"
   title: Microsoft announces Azure Data Catalog, the GitHub of cloud-based data analytics
   url: http://thenextweb.com/microsoft/2015/07/10/microsoft-announces-azure-data-catalog-the-github-of-cloud-based-data-analytics/
   domain: thenextweb.com
   image: ""
+- curated_id: JFavSARdPJzo36zyTKWhBiyharyKrDi3Gh7msT0fnDKbVytcFNVi5I9aNSRV7M886uiAYVojMZKr7drZ116wz0OA117117
+  item_date: "2015-07-10 00:00:00"
+  title: How To Design Great APIs With APIFirst Design and RAML
+  url: http://www.programmableweb.com/news/how-to-design-great-apis-api-first-design-and-raml/how-to/2015/07/10
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewshow-to-design-great-apis-api-first-design-and-ramlhow-to20150710.png
 - curated_id: W7tq9Kxj240esZ2cAEYOghtZcNMT73iRj0A116m9IoXxzPeL123mZNKmnnWCuUC111ztcCJpfwp3KrJe1OLQIqX01Q117117
   item_date: "2015-08-10 20:31:44"
   title: HTTP Status Codes  httpstatuses
@@ -1919,12 +1919,6 @@
   url: http://venturebeat.com/2015/08/18/api-development-startup-apiary-raises-6-8m-and-launches-a-testing-service/
   domain: venturebeat.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/venturebeat-com20150818api-development-startup-apiary-raises-6-8m-and-launches-a-testing-service.png
-- curated_id: ScIgWaCVQBTKOdWjtIEo7saAylMdYlAAmEQwTEtbWoTgtdctLeqRVdzFwdahswjD3XJbFeYPUAm73c3Loijk5g117117
-  item_date: "2015-08-21 00:00:00"
-  title: Resources Not Data
-  url: http://www.windley.com//archives/2015/08/resources_not_data.shtml
-  domain: www.windley.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-windley-comarchives201508resources_not_data-shtml.png
 - curated_id: cc7bd6115488752d6338b13228ebbf56
   item_date: "2015-08-21 00:00:00"
   title: 'Keen Status Page: For when you need data about your data about your customers?
@@ -1932,6 +1926,12 @@
   url: http://keenio.tumblr.com/post/127262112471/keen-status-page-for-when-you-need-data-about#_=_
   domain: keenio.tumblr.com
   image: ""
+- curated_id: ScIgWaCVQBTKOdWjtIEo7saAylMdYlAAmEQwTEtbWoTgtdctLeqRVdzFwdahswjD3XJbFeYPUAm73c3Loijk5g117117
+  item_date: "2015-08-21 00:00:00"
+  title: Resources Not Data
+  url: http://www.windley.com//archives/2015/08/resources_not_data.shtml
+  domain: www.windley.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-windley-comarchives201508resources_not_data-shtml.png
 - curated_id: 836306c28edd2a0eff512ef214edcb16
   item_date: "2015-08-22 20:15:23"
   title: 38 Seminal Articles Every Data Scientist Should Read - Data Science Central
@@ -1988,18 +1988,18 @@
   url: http://www.slideshare.net/AEMHub2014/rest-in-aem-by-roy-fielding
   domain: www.slideshare.net
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-slideshare-netaemhub2014rest-in-aem-by-roy-fielding.png
-- curated_id: CnLjMfKaXSPg2ohD6mjuZfGt8NQQPZ0cC3cdPpVeseooWawQK71QVpT0116KhdUhNMfd8PaD8NpeNQStNpxivGXA117117
-  item_date: "2015-09-13 00:00:00"
-  title: Architectural Styles for APIs SOAP REST and RPC
-  url: http://api-university.com/blog/styles-for-apis-soap-rest-and-rpc/
-  domain: api-university.com
-  image: ""
 - curated_id: AOKBxVnTNmpbS116dT7zC0116YY7ZWkobOEzHUoEAgrupOZlxW4oi4bCPHIjJ1123ouEggVcbR5mvS1Hp123DdMHThJrlw117117
   item_date: "2015-09-13 00:00:00"
   title: There Is A Big Opportunity Right Now When It Comes To API Design Tooling
   url: http://apievangelist.com/2015/09/14/there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150914there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling.png
+- curated_id: CnLjMfKaXSPg2ohD6mjuZfGt8NQQPZ0cC3cdPpVeseooWawQK71QVpT0116KhdUhNMfd8PaD8NpeNQStNpxivGXA117117
+  item_date: "2015-09-13 00:00:00"
+  title: Architectural Styles for APIs SOAP REST and RPC
+  url: http://api-university.com/blog/styles-for-apis-soap-rest-and-rpc/
+  domain: api-university.com
+  image: ""
 - curated_id: 9e444cd774a866e66819ad37b43a3eed
   item_date: "2015-10-19 00:00:00"
   title: ' Five factors for building a successful government-wide digital analytics
@@ -2109,6 +2109,12 @@
   url: http://www.codeproject.com/Articles/1066348/Web-API-A-Solid-Approach
   domain: www.codeproject.com
   image: ""
+- curated_id: SM2iIDY4yrpVX4DnaMgRYLbkP123dWYug6hb62jyV123QfKzaowNSwfHEjbIdAShReidfDfvf1KlSahvqFeAt9nVIw117117
+  item_date: "2016-01-07 00:00:00"
+  title: Passing Json data to a RESTful WCF 4 service using JsonNet
+  url: http://www.codeproject.com/Articles/1069975/Passing-Json-data-to-a-RESTful-WCF-service-using-J
+  domain: www.codeproject.com
+  image: ""
 - curated_id: 6fafa043a92063ff3659f13e34fbfe9b
   item_date: "2016-01-07 00:00:00"
   title: State, local governments build on analytics.usa.gov
@@ -2120,12 +2126,6 @@
   title: Introducing Enhanced Instagram Analytics
   url: http://www.mutualmind.com/2016/01/enhanced-instagram-analytics/
   domain: www.mutualmind.com
-  image: ""
-- curated_id: SM2iIDY4yrpVX4DnaMgRYLbkP123dWYug6hb62jyV123QfKzaowNSwfHEjbIdAShReidfDfvf1KlSahvqFeAt9nVIw117117
-  item_date: "2016-01-07 00:00:00"
-  title: Passing Json data to a RESTful WCF 4 service using JsonNet
-  url: http://www.codeproject.com/Articles/1069975/Passing-Json-data-to-a-RESTful-WCF-service-using-J
-  domain: www.codeproject.com
   image: ""
 - curated_id: SyNd2iNSlX5I3iIrX123116Pwu8Z8ouNjXMRnPDDXZ965oxbCARwXpfP6CDvsX9ThOC6T8i66dhZMwUrOHrsjZK3lQ117117
   item_date: "2016-01-08 16:08:34"
@@ -2187,17 +2187,17 @@
   url: http://www.codeproject.com/Articles/1073488/Paging-in-ASP-NET-Web-API
   domain: www.codeproject.com
   image: ""
-- curated_id: dc0a348e2b3c4c3728a90d09cdf6df98
-  item_date: "2016-01-21 00:00:00"
-  title: 'Why IBM is buying Ustream: Cloud, marketing, analytics'
-  url: http://www.zdnet.com/article/why-ibm-is-buying-ustream-cloud-marketing-analytics/#ftag=RSSbaffb68
-  domain: www.zdnet.com
-  image: ""
 - curated_id: f51c97b4129e741e2b32b2935f026e49
   item_date: "2016-01-21 00:00:00"
   title: 10 Best Practices for Log Management and Analytics
   url: https://dzone.com/articles/10-best-practices-for-log-management-and-analytics-1
   domain: dzone.com
+  image: ""
+- curated_id: dc0a348e2b3c4c3728a90d09cdf6df98
+  item_date: "2016-01-21 00:00:00"
+  title: 'Why IBM is buying Ustream: Cloud, marketing, analytics'
+  url: http://www.zdnet.com/article/why-ibm-is-buying-ustream-cloud-marketing-analytics/#ftag=RSSbaffb68
+  domain: www.zdnet.com
   image: ""
 - curated_id: 3fc7c23154610628c946019967e6c9f2
   item_date: "2016-01-22 00:00:00"
@@ -2278,17 +2278,17 @@
   url: https://sendgrid.com/blog/using-a-prototype-as-an-api-product-specification/
   domain: sendgrid.com
   image: ""
-- curated_id: hiLirbaQ4NlZkTXhYQhipgDJg116pqSEQzbf123DYPMRUGrD5123TZb1anvAoXlJwgsuZWHDY6p116JkDa4kZMBDtNFSrg117117
-  item_date: "2016-02-17 00:00:00"
-  title: Resolving the FrontendBackend API Design Conflict
-  url: http://launchany.com/resolving-the-frontendbackend-api-design-conflict/
-  domain: launchany.com
-  image: ""
 - curated_id: bcMBFo123E61DH5Rw73UpJWr4o123qWhqbajzzrbRjOCFGgjtDFby8nHl4qgydbDUhNCQi3O3RTD9Ty5116P7aAKmkXQ117117
   item_date: "2016-02-17 00:00:00"
   title: Dear API Designer Are You Sure You Want to Return a Primitive
   url: https://dzone.com/articles/dear-api-designer-are-you-sure-you-want-to-return
   domain: dzone.com
+  image: ""
+- curated_id: hiLirbaQ4NlZkTXhYQhipgDJg116pqSEQzbf123DYPMRUGrD5123TZb1anvAoXlJwgsuZWHDY6p116JkDa4kZMBDtNFSrg117117
+  item_date: "2016-02-17 00:00:00"
+  title: Resolving the FrontendBackend API Design Conflict
+  url: http://launchany.com/resolving-the-frontendbackend-api-design-conflict/
+  domain: launchany.com
   image: ""
 - curated_id: osVw1gFKugfHVMaC8zTw9Ya116ho123n4ic3FC9sFeUK28BZSaypdwnbmhRMt7z99GtHDv116s1yWNL3KPT123xvadlZJg117117
   item_date: "2016-02-17 00:00:00"
@@ -2302,23 +2302,11 @@
   url: http://launchany.com/resolving-the-frontendbackend-api-design-conflict/
   domain: launchany.com
   image: ""
-- curated_id: 26cf654625ad035fbf98bd0a607cbe12
-  item_date: "2016-02-18 00:00:00"
-  title: IBM acquires Truven Health Analytics for $2.6 billion to bulk up Watson Health
-  url: http://www.zdnet.com/article/ibm-acquires-truven-health-analytics-for-2-6-billion-to-bulk-up-watson-health/#ftag=RSSbaffb68
-  domain: www.zdnet.com
-  image: ""
 - curated_id: a13d071bc2c94f2d6decc64aeecf7d46
   item_date: "2016-02-18 00:00:00"
   title: 'Analytics.usa.gov: Now with Agency-Specific Dashboards'
   url: http://www.digitalgov.gov/2016/02/18/analytics-usa-gov-now-with-agency-specific-dashboards/
   domain: www.digitalgov.gov
-  image: ""
-- curated_id: d6312610ac1e073b204e1fe011659ee8
-  item_date: "2016-02-18 00:00:00"
-  title: Introducing Autotrack for analytics.js
-  url: https://googledevelopers.blogspot.com/2016/02/introducing-autotrack-for-analyticsjs.html
-  domain: googledevelopers.blogspot.com
   image: ""
 - curated_id: f41cb9a85703cf11ca522ff6f1489990
   item_date: "2016-02-18 00:00:00"
@@ -2326,11 +2314,23 @@
   url: http://venturebeat.com/2016/02/18/ibm-to-acquire-truven-health-analytics-for-2-6-billion/
   domain: venturebeat.com
   image: ""
+- curated_id: d6312610ac1e073b204e1fe011659ee8
+  item_date: "2016-02-18 00:00:00"
+  title: Introducing Autotrack for analytics.js
+  url: https://googledevelopers.blogspot.com/2016/02/introducing-autotrack-for-analyticsjs.html
+  domain: googledevelopers.blogspot.com
+  image: ""
 - curated_id: 07134adeb6145f0a9fc15502dbdd2b83
   item_date: "2016-02-18 00:00:00"
   title: 'Analytics.usa.gov: Now with Agency-Specific Dashboards'
   url: http://sites.usa.gov/digitalgov/2016/02/18/analytics-usa-gov-now-with-agency-specific-dashboards/
   domain: sites.usa.gov
+  image: ""
+- curated_id: 26cf654625ad035fbf98bd0a607cbe12
+  item_date: "2016-02-18 00:00:00"
+  title: IBM acquires Truven Health Analytics for $2.6 billion to bulk up Watson Health
+  url: http://www.zdnet.com/article/ibm-acquires-truven-health-analytics-for-2-6-billion-to-bulk-up-watson-health/#ftag=RSSbaffb68
+  domain: www.zdnet.com
   image: ""
 - curated_id: 6886118eda3377a6b6ac8473ccd6fc8e
   item_date: "2016-02-19 00:00:00"
@@ -2368,17 +2368,17 @@
   url: https://moz.com/blog/intro-google-analytics-add-on-for-sheets
   domain: moz.com
   image: ""
-- curated_id: XwPS116lrATdrb05BBoBJcxy5kMHo2ae4Tl1116QyB5JJDXyptDpoUy9ZO9tfVmejoWSLsBdNBlhsxAiKVtFrYL116IQ117117
-  item_date: "2016-03-01 00:00:00"
-  title: ""
-  url: http://www.codeproject.com/Articles/1082105/Visual-Modeling-Made-Easy-with-the-RASON-API-and-D
-  domain: www.codeproject.com
-  image: ""
 - curated_id: N1sbeXgH8CXvyirRvsjhTYY04miiSpZJOQZA116QAid123nkBy0nE1238pdj3WZtlCDEYMyMGUrqo57JkYEv7GSjNE5w117117
   item_date: "2016-03-01 00:00:00"
   title: StopLight Launches Visual API Design Tools
   url: http://www.infoq.com/news/2016/03/spotlight-api-designer
   domain: www.infoq.com
+  image: ""
+- curated_id: XwPS116lrATdrb05BBoBJcxy5kMHo2ae4Tl1116QyB5JJDXyptDpoUy9ZO9tfVmejoWSLsBdNBlhsxAiKVtFrYL116IQ117117
+  item_date: "2016-03-01 00:00:00"
+  title: ""
+  url: http://www.codeproject.com/Articles/1082105/Visual-Modeling-Made-Easy-with-the-RASON-API-and-D
+  domain: www.codeproject.com
   image: ""
 - curated_id: c999a91a718d41daeb29b290f6e30d5d
   item_date: "2016-03-02 00:00:00"
@@ -2392,17 +2392,17 @@
   url: http://www.programmableweb.com/news/microsoft-releases-windows-store-analytics-api/brief/2016/03/03
   domain: www.programmableweb.com
   image: ""
-- curated_id: c5dba1673420153f72035315d674835c
-  item_date: "2016-03-04 00:00:00"
-  title: Google Cast gets an analytics tool for developers
-  url: http://venturebeat.com/2016/03/04/google-cast-gets-an-analytics-tool-for-developers/
-  domain: venturebeat.com
-  image: ""
 - curated_id: 7ewtTDCGD116b0hFJhKE4oQmaHMtggBPLu1DF5XTCKvvtYQ5QFjxPNZJ3kWH4IJNf12319116116GZL5123i8m5qrMkSfnXg117117
   item_date: "2016-03-04 00:00:00"
   title: Designing Web APIs with Restlet Studio
   url: http://restlet.com/blog/2016/03/04/designing-web-apis-with-restlet-studio-web-api-concepts/
   domain: restlet.com
+  image: ""
+- curated_id: c5dba1673420153f72035315d674835c
+  item_date: "2016-03-04 00:00:00"
+  title: Google Cast gets an analytics tool for developers
+  url: http://venturebeat.com/2016/03/04/google-cast-gets-an-analytics-tool-for-developers/
+  domain: venturebeat.com
   image: ""
 - curated_id: 1qtg116dNGONJDMAfr6RBcMywq8NNEfo862egiyRICcR1MH6I0ThM4Ffyli8lHeWP09zaN51169hdb8iRyw123tnK1wg117117
   item_date: "2016-03-05 04:46:18"
@@ -2410,17 +2410,29 @@
   url: http://www.biske.com/blog/
   domain: www.biske.com
   image: ""
+- curated_id: 5027f4ba3db675e207bdbd90c7d607ce
+  item_date: "2016-03-08 00:00:00"
+  title: Lies Your Analytics Data Tell You
+  url: http://www.digitalgov.gov/2016/03/08/lies-your-analytics-data-tell-you/
+  domain: www.digitalgov.gov
+  image: ""
 - curated_id: 8L2RnPolyM4DTANpCF2cpr5Lq0Tl2Pno1v3HaUP2demffO123r123hp2vB23Mg4qtnZJ18I7VZNDC8AKiyXbkEh1PA117117
   item_date: "2016-03-08 00:00:00"
   title: 3 Approaches to Monadic API Design in Haskell
   url: https://blog.pusher.com/3-approaches-to-monadic-api-design-in-haskell/
   domain: blog.pusher.com
   image: ""
-- curated_id: 5027f4ba3db675e207bdbd90c7d607ce
-  item_date: "2016-03-08 00:00:00"
-  title: Lies Your Analytics Data Tell You
-  url: http://www.digitalgov.gov/2016/03/08/lies-your-analytics-data-tell-you/
-  domain: www.digitalgov.gov
+- curated_id: d05a8bde80920f17ed247bcfd748b3ce
+  item_date: "2016-03-09 00:00:00"
+  title: 'Closing the Gap to Decision Part I: Data Analysis and IoT Analytics'
+  url: https://exosite.com/closing-the-gap-to-decision-part-i-data-analysis-and-iot-analytics/
+  domain: exosite.com
+  image: ""
+- curated_id: Hrld1gctiCN2ZtNwilKf8FlCi9v3FJDe3Bs6GP9ORewsHW7xB31DByo45Zvu9mt0Lcg2M5d1PJg5C8eXOeO123eA117117
+  item_date: "2016-03-09 00:00:00"
+  title: Designing a Web API with Restlet Studio  Visual API editor
+  url: http://restlet.com/blog/2016/03/09/designing-a-web-api-with-restlet-studio-visual-api-editor/
+  domain: restlet.com
   image: ""
 - curated_id: 969311e82e0a1623fbffdd651f018f35
   item_date: "2016-03-09 00:00:00"
@@ -2434,23 +2446,11 @@
   url: http://keenio.tumblr.com/post/140745630296/discover-gold-with-keen-io-and-popily#_=_
   domain: keenio.tumblr.com
   image: ""
-- curated_id: Hrld1gctiCN2ZtNwilKf8FlCi9v3FJDe3Bs6GP9ORewsHW7xB31DByo45Zvu9mt0Lcg2M5d1PJg5C8eXOeO123eA117117
-  item_date: "2016-03-09 00:00:00"
-  title: Designing a Web API with Restlet Studio  Visual API editor
-  url: http://restlet.com/blog/2016/03/09/designing-a-web-api-with-restlet-studio-visual-api-editor/
-  domain: restlet.com
-  image: ""
 - curated_id: 34eab5a8197fc43e9c45cdb943c04257
   item_date: "2016-03-09 00:00:00"
   title: Introducing Autotrack for analytics.js
   url: https://developers.googleblog.com/2016/02/introducing-autotrack-for-analyticsjs.html
   domain: developers.googleblog.com
-  image: ""
-- curated_id: d05a8bde80920f17ed247bcfd748b3ce
-  item_date: "2016-03-09 00:00:00"
-  title: 'Closing the Gap to Decision Part I: Data Analysis and IoT Analytics'
-  url: https://exosite.com/closing-the-gap-to-decision-part-i-data-analysis-and-iot-analytics/
-  domain: exosite.com
   image: ""
 - curated_id: 069082db4fd0acbfec694a1b158b32d4
   item_date: "2016-03-10 10:25:10"
@@ -2501,17 +2501,17 @@
   url: https://medium.com/slack-developer-blog/well-wishes-and-warnings-in-the-web-api-489456837220
   domain: medium.com
   image: ""
-- curated_id: 59f2f3706ca3dfa01a1eb05994c3babb
-  item_date: "2016-03-21 00:00:00"
-  title: Revealytics ? Stripe Analytics Bot For Slack
-  url: https://revealytics.com/slack
-  domain: revealytics.com
-  image: ""
 - curated_id: 14a9850ad85746df34e5856016a040f6
   item_date: "2016-03-21 00:00:00"
   title: How Newsrooms are Adapting to Analytics
   url: https://www.newswhip.com/2016/03/how-newsrooms-are-adapting-to-analytics/
   domain: www.newswhip.com
+  image: ""
+- curated_id: 59f2f3706ca3dfa01a1eb05994c3babb
+  item_date: "2016-03-21 00:00:00"
+  title: Revealytics ? Stripe Analytics Bot For Slack
+  url: https://revealytics.com/slack
+  domain: revealytics.com
   image: ""
 - curated_id: 7d331a560ebd9637b425e2e8744fa658
   item_date: "2016-03-22 00:00:00"
@@ -2531,17 +2531,17 @@
   url: http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets
   domain: www.datasciencecentral.com
   image: ""
-- curated_id: 9e1c4d67bdc4e1b2b736af7daa43e0ca
-  item_date: "2016-03-28 00:00:00"
-  title: The Analytics Hierarchy of Needs
-  url: https://dzone.com/articles/the-analytics-hierarchy-of-needs
-  domain: dzone.com
-  image: ""
 - curated_id: 6142035d56b106d3436c20b4fba03c5c
   item_date: "2016-03-28 00:00:00"
   title: Grow Your Audience With Our New JW Player Real-Time Analytics
   url: https://www.jwplayer.com/blog/new-jwplayer-real-time-analytics/
   domain: www.jwplayer.com
+  image: ""
+- curated_id: 9e1c4d67bdc4e1b2b736af7daa43e0ca
+  item_date: "2016-03-28 00:00:00"
+  title: The Analytics Hierarchy of Needs
+  url: https://dzone.com/articles/the-analytics-hierarchy-of-needs
+  domain: dzone.com
   image: ""
 - curated_id: bead8f7277447ad16d2fae09f16f2568
   item_date: "2016-03-29 00:00:00"
@@ -2629,28 +2629,28 @@
   url: https://exosite.com/diagnostic-iot-analytics-why-did-it-happen/
   domain: exosite.com
   image: ""
-- curated_id: doBhRMxX8Nd5116QLuQNVMPi4NVlgU4vklv1230IB6OFvvNyy1TwAo116ylefZZwsTtfCL7jAQaAxY4Afv532LmWDRzg117117
-  item_date: "2016-04-21 00:00:00"
-  title: Build Better Mobile Apps Data and API Best Practices
-  url: http://www.builtinchicago.org/blog/build-better-mobile-apps-data-and-api-best-practices
-  domain: www.builtinchicago.org
-  image: ""
 - curated_id: OTFSv0KzM3UiAZ7ZxgrVcCWa123G9HN76BfvMPwv0zJ12gd123F1CRSOGyzufyURsg7zXyUg0ZFOTlclQMzaSrNNTA117117
   item_date: "2016-04-21 00:00:00"
   title: Worlds First API Design Hackathon
   url: https://blog.apiary.io/2016/04/21/API-Design-Hackaton
   domain: blog.apiary.io
   image: ""
-- curated_id: picbMlrYU35LX86cTL0H26Be123BhaEGEJEtVR6py5iF123v25RnWnZbOS123z7cQOCRV0ozrCtN2K2fVJhjmLYfp98A117117
-  item_date: "2016-04-22 00:00:00"
-  title: Build a REST API with XML Payload
-  url: https://dzone.com/articles/build-a-rest-api-with-xml-payload
-  domain: dzone.com
+- curated_id: doBhRMxX8Nd5116QLuQNVMPi4NVlgU4vklv1230IB6OFvvNyy1TwAo116ylefZZwsTtfCL7jAQaAxY4Afv532LmWDRzg117117
+  item_date: "2016-04-21 00:00:00"
+  title: Build Better Mobile Apps Data and API Best Practices
+  url: http://www.builtinchicago.org/blog/build-better-mobile-apps-data-and-api-best-practices
+  domain: www.builtinchicago.org
   image: ""
 - curated_id: GQZ2YNcE3oaixEwp123hvfKEYYiFNCYtJ7wTCGRvL5FQlXAn9DdBpIwdosb1116uqOjqEfZT123sDxxCqgJixiFUPI8A117117
   item_date: "2016-04-22 00:00:00"
   title: API Names and Begging the Negatives
   url: https://dzone.com/articles/api-names-and-begging-the-negatives
+  domain: dzone.com
+  image: ""
+- curated_id: picbMlrYU35LX86cTL0H26Be123BhaEGEJEtVR6py5iF123v25RnWnZbOS123z7cQOCRV0ozrCtN2K2fVJhjmLYfp98A117117
+  item_date: "2016-04-22 00:00:00"
+  title: Build a REST API with XML Payload
+  url: https://dzone.com/articles/build-a-rest-api-with-xml-payload
   domain: dzone.com
   image: ""
 - curated_id: b82c711a92764fb1029533c78ea9f951
@@ -2764,35 +2764,23 @@
   url: https://dzone.com/articles/apache-spark-insights
   domain: dzone.com
   image: ""
-- curated_id: 12774e931f5f212b2fcb4e4d2318e64e
-  item_date: "2016-06-05 00:00:00"
-  title: Analytics and the Internet of Things
-  url: https://dzone.com/articles/analytics-and-the-internet-of-things
-  domain: dzone.com
-  image: ""
 - curated_id: nE9BFDozn116lvCSqX6AAj9pJbKXSeYdYijpEH123XejamfZCwjYBFiGMYsIiRmfGRZMA3M3HDupSZuFXgIOXhc7kw117117
   item_date: "2016-06-05 00:00:00"
   title: ""
   url: https://dzone.com/articles/the-most-important-thing-when-picking-http-statusc
   domain: dzone.com
   image: ""
-- curated_id: 0358689b36aaa80d6308f690ed626fc6
-  item_date: "2016-06-06 00:00:00"
-  title: Analytics Cards ? A deck of cards to help explore Google Analytics
-  url: https://www.kickstarter.com/projects/196851189/analytics-cards
-  domain: www.kickstarter.com
+- curated_id: 12774e931f5f212b2fcb4e4d2318e64e
+  item_date: "2016-06-05 00:00:00"
+  title: Analytics and the Internet of Things
+  url: https://dzone.com/articles/analytics-and-the-internet-of-things
+  domain: dzone.com
   image: ""
 - curated_id: cf539ab0e44778803cad51c4d5270d18
   item_date: "2016-06-06 00:00:00"
   title: Real-time In-memory OLTP and Analytics With Apache Ignite on AWS
   url: https://dzone.com/articles/real-time-in-memory-oltp-and-analytics-with-apache
   domain: dzone.com
-  image: ""
-- curated_id: e715c010d0d0815c213d950357647d67
-  item_date: "2016-06-06 00:00:00"
-  title: Why Switching to HTTPS Will Make Your Analytics Better
-  url: http://www.digitalgov.gov/2016/06/06/why-switching-to-https-will-make-your-analytics-better/
-  domain: www.digitalgov.gov
   image: ""
 - curated_id: aLHR0xOc7T1d7r4TSoq5PyLvIdxHu1pHmxRZkkSIDHMQK7huIiZ123U3fe123vHSv5amiVw9NmuG2o123ulZxTGz0b8A117117
   item_date: "2016-06-06 00:00:00"
@@ -2805,6 +2793,18 @@
   title: Best practices for Tableau Server on Google Compute Engine
   url: https://cloudplatform.googleblog.com/2016/06/best-practices-for-Tableau-Server-on-Google-Compute-Engine.html
   domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 0358689b36aaa80d6308f690ed626fc6
+  item_date: "2016-06-06 00:00:00"
+  title: Analytics Cards ? A deck of cards to help explore Google Analytics
+  url: https://www.kickstarter.com/projects/196851189/analytics-cards
+  domain: www.kickstarter.com
+  image: ""
+- curated_id: e715c010d0d0815c213d950357647d67
+  item_date: "2016-06-06 00:00:00"
+  title: Why Switching to HTTPS Will Make Your Analytics Better
+  url: http://www.digitalgov.gov/2016/06/06/why-switching-to-https-will-make-your-analytics-better/
+  domain: www.digitalgov.gov
   image: ""
 - curated_id: 1f570dee175b6ec8e41ac9011f09b392
   item_date: "2016-06-09 00:00:00"
@@ -2848,10 +2848,10 @@
   url: http://keenio.tumblr.com/post/146028881101/announcing-keen-dashboards#_=_
   domain: keenio.tumblr.com
   image: ""
-- curated_id: K2IKGvQwG7hV4ghiEZHtFWQv1Hq3Fu4Zh5DSFvTLFn4N123bySdq8kWkdXjznagGQkXY28CZjOmGfi0tDrxKZTfA117117
+- curated_id: dY37b123xzBaJrTaQc6ghpw323ilw6NmHPPSuB5kYZai2Sg116RFEosSgoXFqo116otvSzC60qdyt3TUkx123XyRW116xv1Q117117
   item_date: "2016-06-21 00:00:00"
-  title: Why Your API039s EndUsage Context Matters To Great Developer Experiences
-  url: http://www.programmableweb.com/news/why-your-apis-end-usage-context-matters-to-great-developer-experiences/analysis/2016/06/21
+  title: Why Your API039s EndUsage Context Matters To Great API Design
+  url: http://www.programmableweb.com/news/why-your-apis-end-usage-context-matters-to-great-api-design/analysis/2016/06/21
   domain: www.programmableweb.com
   image: ""
 - curated_id: 26eb090a0e3589d66a89155731c3981e
@@ -2860,10 +2860,10 @@
   url: http://www.theverge.com/2016/6/21/11983954/twitter-engage-influencer-app
   domain: www.theverge.com
   image: ""
-- curated_id: dY37b123xzBaJrTaQc6ghpw323ilw6NmHPPSuB5kYZai2Sg116RFEosSgoXFqo116otvSzC60qdyt3TUkx123XyRW116xv1Q117117
+- curated_id: K2IKGvQwG7hV4ghiEZHtFWQv1Hq3Fu4Zh5DSFvTLFn4N123bySdq8kWkdXjznagGQkXY28CZjOmGfi0tDrxKZTfA117117
   item_date: "2016-06-21 00:00:00"
-  title: Why Your API039s EndUsage Context Matters To Great API Design
-  url: http://www.programmableweb.com/news/why-your-apis-end-usage-context-matters-to-great-api-design/analysis/2016/06/21
+  title: Why Your API039s EndUsage Context Matters To Great Developer Experiences
+  url: http://www.programmableweb.com/news/why-your-apis-end-usage-context-matters-to-great-developer-experiences/analysis/2016/06/21
   domain: www.programmableweb.com
   image: ""
 - curated_id: c0876c470ae71db0c8e7eef83417d2d3
@@ -2897,6 +2897,12 @@
   url: https://dzone.com/articles/data-and-analytics-predictions-through-2020-memsql
   domain: dzone.com
   image: ""
+- curated_id: FLhg7V9xfY3YdCkZzFd116yupGsGb123KsXHf3bWMp8CdlcoHy4HGuLvQ2gbNzsalX0AewM36u1OQ44oEjipDxiIUA117117
+  item_date: "2016-06-29 00:00:00"
+  title: Three APIs Making the Case Against Building It Yourself
+  url: http://everydeveloper.com/apis-against-building-yourself/
+  domain: everydeveloper.com
+  image: ""
 - curated_id: b5cd64d9684a86b207cde21f70eaab3c
   item_date: "2016-06-29 00:00:00"
   title: Keen IO Secures 14.7M in Series B Financing
@@ -2908,12 +2914,6 @@
   title: Discovery and Consumption of Analytics Data at Twitter
   url: https://blog.twitter.com/2016/discovery-and-consumption-of-analytics-data-at-twitter
   domain: blog.twitter.com
-  image: ""
-- curated_id: FLhg7V9xfY3YdCkZzFd116yupGsGb123KsXHf3bWMp8CdlcoHy4HGuLvQ2gbNzsalX0AewM36u1OQ44oEjipDxiIUA117117
-  item_date: "2016-06-29 00:00:00"
-  title: Three APIs Making the Case Against Building It Yourself
-  url: http://everydeveloper.com/apis-against-building-yourself/
-  domain: everydeveloper.com
   image: ""
 - curated_id: RkICMNZ5t123oKyx4xdQkhMtOLZe0OpYXFV7b3123rI6VAXK7KK9WfazCwmqE5R6zbXSTb7WO1mLmYjxDv63GmnW1Q117117
   item_date: "2016-07-01 00:00:00"
@@ -2964,6 +2964,12 @@
   url: https://projector.stunning.co
   domain: projector.stunning.co
   image: ""
+- curated_id: b14e38a46bfd9d766eb2fd43473dd051
+  item_date: "2016-07-21 00:00:00"
+  title: DoubleClick Ad Exchange Seller API new metrics and dimensions
+  url: http://googleadsdeveloper.blogspot.com/2016/07/doubleclick-ad-exchange-seller-api-new.html
+  domain: googleadsdeveloper.blogspot.com
+  image: ""
 - curated_id: v4Nvl9lWN4J7Int4yYDsTh38yTdxosle50116q116MnYof5Xq0GJs123WAkSN3Z5MZep66zfbrhNjTHX2Bw8r123tRle8A117117
   item_date: "2016-07-21 00:00:00"
   title: Microsoft Publishes REST API Guidelines 23
@@ -2975,12 +2981,6 @@
   title: Microsoft REST API Guidelines Are Not RESTful
   url: https://www.infoq.com/news/2016/07/microsoft-rest-api
   domain: www.infoq.com
-  image: ""
-- curated_id: b14e38a46bfd9d766eb2fd43473dd051
-  item_date: "2016-07-21 00:00:00"
-  title: DoubleClick Ad Exchange Seller API new metrics and dimensions
-  url: http://googleadsdeveloper.blogspot.com/2016/07/doubleclick-ad-exchange-seller-api-new.html
-  domain: googleadsdeveloper.blogspot.com
   image: ""
 - curated_id: 7deda02d6f2d5c6006a02b8bcf8d6846
   item_date: "2016-07-27 00:00:00"
@@ -3036,12 +3036,6 @@
   url: http://www.programmableweb.com/news/dwolla-releases-new-dashboard-white-label-api/announcement/2016/08/04
   domain: www.programmableweb.com
   image: ""
-- curated_id: 3682d26a55e20d6cd5c095d99846632e
-  item_date: "2016-08-09 00:00:00"
-  title: Building A Detection Strategy With The Right Metrics
-  url: http://www.darkreading.com/analytics/building-a-detection-strategy-with-the-right-metrics/a/d-id/1326545
-  domain: www.darkreading.com
-  image: ""
 - curated_id: N4DsiNvaeA9XYbIShqFhKJN9u8qY5hrXFXCXrqt3RarEGDxboM7MJlKBdHfDyErGNmxEYQ888hcuZLr9R57NZg117117
   item_date: "2016-08-09 00:00:00"
   title: Shaming People for Not Being or Understanding REST Is Why We Have So Much
@@ -3049,10 +3043,22 @@
   url: https://dzone.com/articles/shaming-people-for-not-being-or-understanding-rest
   domain: dzone.com
   image: ""
+- curated_id: 3682d26a55e20d6cd5c095d99846632e
+  item_date: "2016-08-09 00:00:00"
+  title: Building A Detection Strategy With The Right Metrics
+  url: http://www.darkreading.com/analytics/building-a-detection-strategy-with-the-right-metrics/a/d-id/1326545
+  domain: www.darkreading.com
+  image: ""
 - curated_id: 23583447360b8e1c8de0421f617ee65e
   item_date: "2016-08-10 00:00:00"
   title: The Challenge of Big Data Analytics in Clinical Medicine
   url: https://dzone.com/articles/the-challenge-of-big-data-analytics-in-clinical-me
+  domain: dzone.com
+  image: ""
+- curated_id: vWFqPWVXoApem1tP4N7vtnzR2IHHzN2kRGEyR1231co49eu90xpbcigtZ4MBbJIo123x9lKyDFO1fVH61168123PWtEyng117117
+  item_date: "2016-08-11 00:00:00"
+  title: Use of API Design and Management Policies
+  url: https://dzone.com/articles/use-of-api-design-and-management-policies
   domain: dzone.com
   image: ""
 - curated_id: 79b6d3d4bdcdb1c69dbd16ac931c4c5d
@@ -3061,24 +3067,18 @@
   url: http://keenio.tumblr.com/post/148800109796/how-jawbone-uses-wearable-sensor-data-to-drive#_=_
   domain: keenio.tumblr.com
   image: ""
+- curated_id: d06cb675a6be5289a6ae6ac7505b35d0
+  item_date: "2016-08-11 00:00:00"
+  title: Amazon Kinesis Analytics ?  Process Streaming Data in Real Time with SQL
+  url: https://aws.amazon.com/blogs/aws/amazon-kinesis-analytics-process-streaming-data-in-real-time-with-sql/
+  domain: aws.amazon.com
+  image: ""
 - curated_id: 7a69722af2ba469959465217f6b622bb
   item_date: "2016-08-11 00:00:00"
   title: AWS bolsters cloud platform with real-time analytics, gives more content
     controls to developers
   url: http://www.zdnet.com/article/aws-bolsters-cloud-platform-with-real-time-analytics-gives-more-content-controls-to-developers/
   domain: www.zdnet.com
-  image: ""
-- curated_id: vWFqPWVXoApem1tP4N7vtnzR2IHHzN2kRGEyR1231co49eu90xpbcigtZ4MBbJIo123x9lKyDFO1fVH61168123PWtEyng117117
-  item_date: "2016-08-11 00:00:00"
-  title: Use of API Design and Management Policies
-  url: https://dzone.com/articles/use-of-api-design-and-management-policies
-  domain: dzone.com
-  image: ""
-- curated_id: d06cb675a6be5289a6ae6ac7505b35d0
-  item_date: "2016-08-11 00:00:00"
-  title: Amazon Kinesis Analytics ?  Process Streaming Data in Real Time with SQL
-  url: https://aws.amazon.com/blogs/aws/amazon-kinesis-analytics-process-streaming-data-in-real-time-with-sql/
-  domain: aws.amazon.com
   image: ""
 - curated_id: FaGEkVpmU32VxmK116DFnDCsPRdKEi6kPI2116123Rl0tyXfgMOkbuz4RFhBxQ1T5mukqEQqhH6M8bKhJOuJdcxlofHQ117117
   item_date: "2016-08-16 00:00:00"
@@ -3098,17 +3098,17 @@
   url: http://blog.opto22.com/optoblog/optonews-tip-whats-a-restful-api-and-why-does-it-matter
   domain: blog.opto22.com
   image: ""
-- curated_id: 5kumgPU1tpPUcGzXi123y0Z116tD230wPDqsDpsZ96h8ISNGv9TrCNU1Pcg3hX3U5ege4c7QV1haRdiF8ABWkrsYIQ117117
-  item_date: "2016-08-18 00:00:00"
-  title: Five Steps Before Developing a Smart Home Skill
-  url: https://developer.amazon.com/appsandservices/community/post/Tx4WG410EHXIYQ/Five-Steps-Before-Developing-a-Smart-Home-Skill
-  domain: developer.amazon.com
-  image: ""
 - curated_id: 2b8fc43fd0fb4840a3eabf994e85ac42
   item_date: "2016-08-18 00:00:00"
   title: How to Connect Klipfolio to RESTful APIs like Google Analytics
   url: http://www.programmableweb.com/news/how-to-connect-klipfolio-to-restful-apis-google-analytics/how-to/2016/08/18
   domain: www.programmableweb.com
+  image: ""
+- curated_id: 5kumgPU1tpPUcGzXi123y0Z116tD230wPDqsDpsZ96h8ISNGv9TrCNU1Pcg3hX3U5ege4c7QV1haRdiF8ABWkrsYIQ117117
+  item_date: "2016-08-18 00:00:00"
+  title: Five Steps Before Developing a Smart Home Skill
+  url: https://developer.amazon.com/appsandservices/community/post/Tx4WG410EHXIYQ/Five-Steps-Before-Developing-a-Smart-Home-Skill
+  domain: developer.amazon.com
   image: ""
 - curated_id: qLaC11644116WujhcD5nT9f4LoBUe10mDVVEAMM0rippPDYHWXZ24osQ1Ij0kD08kbZYT4CWuvfl5aCPplmfWigAYg117117
   item_date: "2016-08-19 00:00:00"
@@ -3218,17 +3218,17 @@
   url: http://www.yiiframework.com/forum/index.php/topic/72123-how-to-sort-api-expand-fields/page__pid__302978
   domain: www.yiiframework.com
   image: ""
-- curated_id: oYs4qsbpPmSOxyLH7Rn3ssb123ZcV5jL1JQZ7omYsO9o116h116Quf35PqCEU116JjXEfjq0u3WUeUoOzhEWJqlce3ZqlA117117
-  item_date: "2016-09-07 00:00:00"
-  title: API Design Book Available Today
-  url: http://api-university.com/blog/api-design-book-available-today/
-  domain: api-university.com
-  image: ""
 - curated_id: Nn08eeP56Jj2Ejkok66pR6V2HEU6116cPXO4fAcR2jVskQK3DI693AYMtCeEeLMQ116FhL7jL4txtmNTuItGiaSJkA117117
   item_date: "2016-09-07 00:00:00"
   title: Understanding The New Swift 3 API Design Guidelines
   url: http://blog.teamtreehouse.com/understanding-new-swift-3-api-design-guidelines
   domain: blog.teamtreehouse.com
+  image: ""
+- curated_id: oYs4qsbpPmSOxyLH7Rn3ssb123ZcV5jL1JQZ7omYsO9o116h116Quf35PqCEU116JjXEfjq0u3WUeUoOzhEWJqlce3ZqlA117117
+  item_date: "2016-09-07 00:00:00"
+  title: API Design Book Available Today
+  url: http://api-university.com/blog/api-design-book-available-today/
+  domain: api-university.com
   image: ""
 - curated_id: qgjubPTwQuFMvCl123n5OfQnJOPjVOucQ51231qnXMd30ZvA3gRR5bmSQnZ116j0t123sXLyN5cLMWiTQXAozbTXkajIIw117117
   item_date: "2016-09-07 09:36:49"
@@ -3266,17 +3266,17 @@
   url: http://githubengineering.com/the-github-graphql-api/
   domain: githubengineering.com
   image: ""
-- curated_id: cDJL0xH67dOaAxrzgwT7vGmvVQkkKTW4JN7N77116htbGh5hHK5FPpFsEHXjsG3f3pLVSSIL116unJzQo0rJ7D3aZQ117117
-  item_date: "2016-09-15 00:00:00"
-  title: How to Take Your API From RPC to Hypermedia in 7 Steps
-  url: http://www.programmableweb.com/news/how-to-take-your-api-rpc-to-hypermedia-7-steps/how-to/2016/09/15
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: edYbaWsa123R8e2zfyLXvgo5AVtwXb1116NuEbMXDFregXHr1c7Jdjs116O1KPP39WvuR8Zd6VBQYTsvcKTwD116QVKygg117117
   item_date: "2016-09-15 00:00:00"
   title: Learn API DevOps from the Experts  Design Testing Deployment
   url: http://restlet.com/blog/2016/09/15/sept-api-meetup/
   domain: restlet.com
+  image: ""
+- curated_id: cDJL0xH67dOaAxrzgwT7vGmvVQkkKTW4JN7N77116htbGh5hHK5FPpFsEHXjsG3f3pLVSSIL116unJzQo0rJ7D3aZQ117117
+  item_date: "2016-09-15 00:00:00"
+  title: How to Take Your API From RPC to Hypermedia in 7 Steps
+  url: http://www.programmableweb.com/news/how-to-take-your-api-rpc-to-hypermedia-7-steps/how-to/2016/09/15
+  domain: www.programmableweb.com
   image: ""
 - curated_id: DG1Hi4mdkwHH92Vuqlwl9zI3mhKI4ScbSqBXbJpClAd4tAGCHg0DZcXce4V4116MpKNNpnsR99Nlkz116XnUt0w8jQ117117
   item_date: "2016-09-16 00:00:00"
@@ -3320,12 +3320,6 @@
   url: https://www.apimint.com/
   domain: www.apimint.com
   image: ""
-- curated_id: 263cc4a0c27f452705407a5a80b398f7
-  item_date: "2016-09-26 00:00:00"
-  title: 5 Ways IT Pros Can Smarten Up With Data Analytics
-  url: http://www.cxotoday.com/story/5-ways-it-pros-can-innovate-with-data-analytics/
-  domain: www.cxotoday.com
-  image: ""
 - curated_id: 116GIVoSMboV3POzd0IyTmUX123H116ZiCMCd24Xqc5jCQRFgLz7j5tgrz116ikb6u9T3hS0xSdmmqXif60JcmioUeKpBQ117117
   item_date: "2016-09-26 00:00:00"
   title: Sunlight at the 21st Century Neighborhoods Symposium How humanizing data
@@ -3333,23 +3327,11 @@
   url: http://sunlightfoundation.com/blog/2016/09/26/sunlight-at-the-21st-century-neighborhoods-symposium-how-humanizing-data-will-improve-our-communities/
   domain: sunlightfoundation.com
   image: ""
-- curated_id: tJ5VtL85De7116d0CtMQzv9uUbIT1RdFxI123h6dwAUUHdlKNUm6M8dqP1u3IZ0OxyTBzfGxiUDydoY116f1zerW9LlQ117117
-  item_date: "2016-09-28 00:00:00"
-  title: What is API Design
-  url: http://api-university.com/blog/what-is-api-design/
-  domain: api-university.com
-  image: ""
-- curated_id: e675199782fa02b56c084098ecd38d98
-  item_date: "2016-09-28 00:00:00"
-  title: Connecting Kinesis Analytics With AWS IoT
-  url: https://dzone.com/articles/connecting-kinesis-analytics-with-aws-iot
-  domain: dzone.com
-  image: ""
-- curated_id: DwWXVrcos2G3G9963wiz0D4uQhzN2njtOdQJK06uX7IkPTkAE5Dhcu8OWvr24jxZLcvodWFRoceqnbDOfs7ApQ117117
-  item_date: "2016-09-28 00:00:00"
-  title: Announcing the OpenSource beaR Library
-  url: http://www.esa.doc.gov/under-secretary-blog/announcing-open-source-bear-library
-  domain: www.esa.doc.gov
+- curated_id: 263cc4a0c27f452705407a5a80b398f7
+  item_date: "2016-09-26 00:00:00"
+  title: 5 Ways IT Pros Can Smarten Up With Data Analytics
+  url: http://www.cxotoday.com/story/5-ways-it-pros-can-innovate-with-data-analytics/
+  domain: www.cxotoday.com
   image: ""
 - curated_id: d9f6ac9e93312acd47cdc6d65cc30de4
   item_date: "2016-09-28 00:00:00"
@@ -3357,6 +3339,24 @@
     in one place
   url: http://thenextweb.com/facebook/2016/09/28/facebooks-analytics-for-apps-now-supports-cross-platform-analytis/
   domain: thenextweb.com
+  image: ""
+- curated_id: tJ5VtL85De7116d0CtMQzv9uUbIT1RdFxI123h6dwAUUHdlKNUm6M8dqP1u3IZ0OxyTBzfGxiUDydoY116f1zerW9LlQ117117
+  item_date: "2016-09-28 00:00:00"
+  title: What is API Design
+  url: http://api-university.com/blog/what-is-api-design/
+  domain: api-university.com
+  image: ""
+- curated_id: DwWXVrcos2G3G9963wiz0D4uQhzN2njtOdQJK06uX7IkPTkAE5Dhcu8OWvr24jxZLcvodWFRoceqnbDOfs7ApQ117117
+  item_date: "2016-09-28 00:00:00"
+  title: Announcing the OpenSource beaR Library
+  url: http://www.esa.doc.gov/under-secretary-blog/announcing-open-source-bear-library
+  domain: www.esa.doc.gov
+  image: ""
+- curated_id: e675199782fa02b56c084098ecd38d98
+  item_date: "2016-09-28 00:00:00"
+  title: Connecting Kinesis Analytics With AWS IoT
+  url: https://dzone.com/articles/connecting-kinesis-analytics-with-aws-iot
+  domain: dzone.com
   image: ""
 - curated_id: b3f58281bafdb38e4ef023d8806af187
   item_date: "2016-09-29 00:00:00"
@@ -3370,17 +3370,17 @@
   url: http://restlet.com/blog/2016/09/27/how-to-fix-cors-problems/
   domain: restlet.com
   image: ""
-- curated_id: b008f09edfe98f9254a357d5b2b13b21
-  item_date: "2016-09-30 00:00:00"
-  title: Tableau API Suite Enables In-App Data Analytics, Visualizations, and Experiences
-  url: http://www.programmableweb.com/news/tableau-api-suite-enables-app-data-analytics-visualizations-and-experiences/brief/2016/09/30
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: dc835dfc16370d06a81081328a956e22
   item_date: "2016-09-30 00:00:00"
   title: Google Analytics for REST APIs
   url: https://dzone.com/articles/google-analytics-for-rest-apis
   domain: dzone.com
+  image: ""
+- curated_id: b008f09edfe98f9254a357d5b2b13b21
+  item_date: "2016-09-30 00:00:00"
+  title: Tableau API Suite Enables In-App Data Analytics, Visualizations, and Experiences
+  url: http://www.programmableweb.com/news/tableau-api-suite-enables-app-data-analytics-visualizations-and-experiences/brief/2016/09/30
+  domain: www.programmableweb.com
   image: ""
 - curated_id: ea18e5989c69372635acf7cde2f391c3
   item_date: "2016-09-30 00:00:00"
@@ -3507,12 +3507,6 @@
   url: https://stripe.com/blog/introducing-veneur-high-performance-and-global-aggregation-for-datadog
   domain: stripe.com
   image: ""
-- curated_id: A123p123GIerBtVHkMiwWel56HQCj123Xw7jM4hUzF116Xgs116PO7R8123KM7TmQIRYfjaNXKW9K8xAnWVqFXx69VUJ0vwENA117117
-  item_date: "2016-10-18 00:00:00"
-  title: 'API Usability Matters UX and CX is like DX and '
-  url: http://dret.typepad.com/dretblog/2016/10/api-usability-matters.html
-  domain: dret.typepad.com
-  image: ""
 - curated_id: b56651ca5afae98c0c3ac44ccd1c65b7
   item_date: "2016-10-18 00:00:00"
   title: Red Lion Adds Control and Expansion Options to its Graphite Platform
@@ -3524,6 +3518,12 @@
   title: Facebook Analytics for Apps brings push notifications to all businesses
   url: http://thenextweb.com/facebook/2016/10/18/facebook-analytics-apps-brings-push-notifications-businesses/
   domain: thenextweb.com
+  image: ""
+- curated_id: A123p123GIerBtVHkMiwWel56HQCj123Xw7jM4hUzF116Xgs116PO7R8123KM7TmQIRYfjaNXKW9K8xAnWVqFXx69VUJ0vwENA117117
+  item_date: "2016-10-18 00:00:00"
+  title: 'API Usability Matters UX and CX is like DX and '
+  url: http://dret.typepad.com/dretblog/2016/10/api-usability-matters.html
+  domain: dret.typepad.com
   image: ""
 - curated_id: BBA116Yi3Ib060MJ123HmqgmaGhJ6i1230kxpcFicTxw7wAos1ISyHN1awVQbBAPQrDTmVut123qlCsarzjkc1uMdMcsUQ117117
   item_date: "2016-10-19 00:00:00"
@@ -3543,17 +3543,17 @@
   url: https://blogs.adobe.com/conversations/2016/10/adobe-analytics-new-features-make-powerful-insights-more-accessible.html
   domain: blogs.adobe.com
   image: ""
-- curated_id: sn116dMhVpC1vv6rctwmQj8Rjhik7123ib2DW116xrzMKfQ0stJc4y0U2wPZsmmBgTv0123YF9QrFE4DXPoLxqa5GE86Dg117117
-  item_date: "2016-10-31 00:00:00"
-  title: Introduction to APIFirst Design
-  url: http://www.programmableweb.com/news/introduction-to-api-first-design/analysis/2016/10/31
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: dMcIt35Bmig123EVRJYyAv7nIFLwniY7MfwR0FPxUYNsEjkI6PQ4VXWMKdsRbYRAzfuDr116QLx54yDd3mhKx123byqw117117
   item_date: "2016-10-31 00:00:00"
   title: Introducing Seamless Source Control Integration With Bitbucket and SwaggerHub
   url: https://dzone.com/articles/introducing-seamless-source-control-integration-wi
   domain: dzone.com
+  image: ""
+- curated_id: sn116dMhVpC1vv6rctwmQj8Rjhik7123ib2DW116xrzMKfQ0stJc4y0U2wPZsmmBgTv0123YF9QrFE4DXPoLxqa5GE86Dg117117
+  item_date: "2016-10-31 00:00:00"
+  title: Introduction to APIFirst Design
+  url: http://www.programmableweb.com/news/introduction-to-api-first-design/analysis/2016/10/31
+  domain: www.programmableweb.com
   image: ""
 - curated_id: EtzfvKVCCoFG9ji123qKPecXVre3gQKXGLIbbSU1j1RHUtTDh3SgdpKCa0r5116RDImAf40116T1zp0QlR4W8CfJm5tg117117
   item_date: "2016-11-02 00:00:00"
@@ -3597,16 +3597,10 @@
   url: http://www.tibco.com/blog/2016/12/14/api-modeling-a-zero-code-way-to-a-designer-api/
   domain: www.tibco.com
   image: ""
-- curated_id: 33d927dd9e9c479467014e59acda0f5e
+- curated_id: 77050c0d5df69d4148747fca9977c883
   item_date: "2016-12-14 00:00:00"
-  title: Siemens and IBM to bring Watson Analytics to MindSphere
-  url: https://digitalisationworld.com/article/50225/10
-  domain: digitalisationworld.com
-  image: ""
-- curated_id: dKrthEVodGvPzc48123gsMZnHQ1MKhQnVpMkOKghMUeleaNk116RFZgIEfs6nl4QGjuIAHAg97VAiQW3ymxHbZzXnA117117
-  item_date: "2016-12-14 00:00:00"
-  title: 7 Secrets to Designing Alexa Skills
-  url: https://dzone.com/articles/7-secrets-to-designing-alexa-skills
+  title: Additional Support for Big Data Analytics
+  url: https://dzone.com/articles/additional-support-for-big-data-analytics
   domain: dzone.com
   image: ""
 - curated_id: Jg5bAi9PLGNP9IJKUxF4iXAx0aW123q1tK66AiMWRkAWZ2F5GUqAB123zPjPMsyRNSUdEIz85OoVV1iUXfYO6xnMeQ117117
@@ -3615,17 +3609,23 @@
   url: https://dzone.com/refcardz/rest-foundations-restful
   domain: dzone.com
   image: ""
-- curated_id: 77050c0d5df69d4148747fca9977c883
+- curated_id: dKrthEVodGvPzc48123gsMZnHQ1MKhQnVpMkOKghMUeleaNk116RFZgIEfs6nl4QGjuIAHAg97VAiQW3ymxHbZzXnA117117
   item_date: "2016-12-14 00:00:00"
-  title: Additional Support for Big Data Analytics
-  url: https://dzone.com/articles/additional-support-for-big-data-analytics
+  title: 7 Secrets to Designing Alexa Skills
+  url: https://dzone.com/articles/7-secrets-to-designing-alexa-skills
   domain: dzone.com
   image: ""
-- curated_id: 4734975689d67ba295b20d12c1047b23
+- curated_id: 33d927dd9e9c479467014e59acda0f5e
+  item_date: "2016-12-14 00:00:00"
+  title: Siemens and IBM to bring Watson Analytics to MindSphere
+  url: https://digitalisationworld.com/article/50225/10
+  domain: digitalisationworld.com
+  image: ""
+- curated_id: 01dc1b64fb3a3d57bc3f34ff0f31e9e2
   item_date: "2016-12-15 00:00:00"
-  title: GameAnalytics SDK for Microsoft UWP Released
-  url: https://blogs.windows.com/buildingapps/2016/12/15/gameanalytics-sdk-microsoft-uwp-released/
-  domain: blogs.windows.com
+  title: 'Pirate Metrics: Go Viral With Firebase'
+  url: https://firebase.googleblog.com/2016/12/pirate-metrics-go-viral-with-firebase.html
+  domain: firebase.googleblog.com
   image: ""
 - curated_id: 20c337192b1c1ff38b56c205dbb70098
   item_date: "2016-12-15 00:00:00"
@@ -3633,11 +3633,11 @@
   url: https://dzone.com/articles/buyers-beware-data-visualization-is-not-data-analy
   domain: dzone.com
   image: ""
-- curated_id: 01dc1b64fb3a3d57bc3f34ff0f31e9e2
+- curated_id: 4734975689d67ba295b20d12c1047b23
   item_date: "2016-12-15 00:00:00"
-  title: 'Pirate Metrics: Go Viral With Firebase'
-  url: https://firebase.googleblog.com/2016/12/pirate-metrics-go-viral-with-firebase.html
-  domain: firebase.googleblog.com
+  title: GameAnalytics SDK for Microsoft UWP Released
+  url: https://blogs.windows.com/buildingapps/2016/12/15/gameanalytics-sdk-microsoft-uwp-released/
+  domain: blogs.windows.com
   image: ""
 - curated_id: hCTkehE2fpb12356q116riWdoE9npZ8nzB0XHa3AAS2yKJU123RMX123tFyGtE7HBPP3OCF9VxQpS2cd9dghkJWD1234cK116w117117
   item_date: "2016-12-18 00:00:00"
@@ -3747,17 +3747,17 @@
   url: https://snarky.ca/looking-for-commonality-among-http-request-apis/
   domain: snarky.ca
   image: ""
-- curated_id: 0a88bd72902c22c828f30926ac89cbcd
-  item_date: "2017-01-17 00:00:00"
-  title: Five Metrics Every API Strategy Should Measure
-  url: https://blog.hitchhq.com/five-metrics-every-api-strategy-should-measure-691596075b6#.d2i9srk1o
-  domain: blog.hitchhq.com
-  image: ""
 - curated_id: 543bab43439215c702817e2a3e1816d9
   item_date: "2017-01-17 00:00:00"
   title: Exploring the Intersection of Machine Learning and Analytics
   url: https://dzone.com/articles/exploring-the-intersection-of-machine-learning-and
   domain: dzone.com
+  image: ""
+- curated_id: 0a88bd72902c22c828f30926ac89cbcd
+  item_date: "2017-01-17 00:00:00"
+  title: Five Metrics Every API Strategy Should Measure
+  url: https://blog.hitchhq.com/five-metrics-every-api-strategy-should-measure-691596075b6#.d2i9srk1o
+  domain: blog.hitchhq.com
   image: ""
 - curated_id: 1cd9499fbabe1ab7ae13b5b991f3ad49
   item_date: "2017-01-19 16:09:01"
@@ -3816,18 +3816,18 @@
   url: http://www.remotemagazine.com/main/news/osisoft-and-trendminer-sign-oem-agreement-to-enhance-asset-and-process-data-analytics-integration/
   domain: www.remotemagazine.com
   image: ""
+- curated_id: gEkQR813o116HF8yldGiKvDtog1zeI9n4116fIHr5E7njDlzfcFoMh1HenoG9xDFFq123IM4116uY6GFuQjfDNUFkcXSDg117117
+  item_date: "2017-02-07 00:00:00"
+  title: Use a Local API to Protect Global Methods in a Distributed Environment
+  url: https://www.codeproject.com/Tips/1169500/Use-a-Local-API-to-Protect-Global-Methods-in-a-Dis
+  domain: www.codeproject.com
+  image: ""
 - curated_id: 361d5f703978a5ce9eb18bfdcf76bb67
   item_date: "2017-02-07 00:00:00"
   title: Using advanced analytics to manage risk and profitability for consumer loan
     pricing
   url: https://www.americanbanker.com/web-seminars/using-advanced-analytics-to-manage-risk-and-profitability-for-consumer-loan-pricing
   domain: www.americanbanker.com
-  image: ""
-- curated_id: gEkQR813o116HF8yldGiKvDtog1zeI9n4116fIHr5E7njDlzfcFoMh1HenoG9xDFFq123IM4116uY6GFuQjfDNUFkcXSDg117117
-  item_date: "2017-02-07 00:00:00"
-  title: Use a Local API to Protect Global Methods in a Distributed Environment
-  url: https://www.codeproject.com/Tips/1169500/Use-a-Local-API-to-Protect-Global-Methods-in-a-Dis
-  domain: www.codeproject.com
   image: ""
 - curated_id: gCK4O9BWxWcBb9dnQDKBWP09J34pOlV2mK123dJUI116rgJm4cmHXnYEBgiGf886QlDbh1w621Lm9QIO2ap6VnxjLA117117
   item_date: "2017-02-08 00:00:00"
@@ -3847,18 +3847,18 @@
   url: https://dzone.com/articles/api-integration-patterns-experience-based-apis
   domain: dzone.com
   image: ""
-- curated_id: 1a7609dd3e88aa3e5094e095252bcbf6
-  item_date: "2017-02-10 00:00:00"
-  title: Facebook is being audited because metrics are hard
-  url: https://thenextweb.com/socialmedia/2017/02/10/facebook-audited-metrics-hard/
-  domain: thenextweb.com
-  image: ""
 - curated_id: 3c7663214d7f5bcc039b7136cdf99bf9
   item_date: "2017-02-10 00:00:00"
   title: Facebook has agreed to be independently audited after overstating its ad
     metrics (FB)
   url: http://www.businessinsider.com/facebook-to-be-audited-by-media-rating-council-after-overstating-ad-metrics-2017-2
   domain: www.businessinsider.com
+  image: ""
+- curated_id: 1a7609dd3e88aa3e5094e095252bcbf6
+  item_date: "2017-02-10 00:00:00"
+  title: Facebook is being audited because metrics are hard
+  url: https://thenextweb.com/socialmedia/2017/02/10/facebook-audited-metrics-hard/
+  domain: thenextweb.com
   image: ""
 - curated_id: d327f40f25b1bfada7874fb981d1479a
   item_date: "2017-02-14 00:00:00"
@@ -3872,6 +3872,12 @@
   url: https://www.codeproject.com/Articles/1169060/Model-driven-RESTful-API-for-CRUD-and-more
   domain: www.codeproject.com
   image: ""
+- curated_id: 0IAQwlK116LpSD8H3HOaq1165GR2123Hn5UeZEcV7TDUbBwjAvhrZ6RyliHimG12309LLQ2STYPTcMVOokrWtmFcP41123wg117117
+  item_date: "2017-02-15 00:00:00"
+  title: ConsumerOriented API Design
+  url: http://api-university.com/blog/consumer-oriented-api-design-2/
+  domain: api-university.com
+  image: ""
 - curated_id: cTdCVjsVWLDDPUFgpBCSdKj8TChU28RdRsjgqC3TLplkrOKZ6m5AkEDYmWJ1235yNjKX45K00pXsww5QUOQKqotg117117
   item_date: "2017-02-15 00:00:00"
   title: Implementing DomainDriven Design in PHP
@@ -3883,12 +3889,6 @@
   title: Transcend Insights Announces Analytics-as-a-Service for Population...
   url: http://www.advfn.com/news_Transcend-Insights-Announces-Analytics-as-a-Servic_73881303.html
   domain: www.advfn.com
-  image: ""
-- curated_id: 0IAQwlK116LpSD8H3HOaq1165GR2123Hn5UeZEcV7TDUbBwjAvhrZ6RyliHimG12309LLQ2STYPTcMVOokrWtmFcP41123wg117117
-  item_date: "2017-02-15 00:00:00"
-  title: ConsumerOriented API Design
-  url: http://api-university.com/blog/consumer-oriented-api-design-2/
-  domain: api-university.com
   image: ""
 - curated_id: 5bdb6359291a4ed7585fcce5553ee927
   item_date: "2017-02-16 00:00:00"
@@ -3910,18 +3910,18 @@
   url: https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-9-extending-the-openapi-specification/
   domain: apihandyman.io
   image: ""
-- curated_id: 4747af1cb97479600ab2467c31f1063c
-  item_date: "2017-02-20 00:00:00"
-  title: Big Data Analytics, The Key To Personalization
-  url: http://www.cxotoday.com/story/big-data-analytics-personalized-customer-service/
-  domain: www.cxotoday.com
-  image: ""
 - curated_id: 19a25a6d9555ddab6b59f55c73c4d376
   item_date: "2017-02-20 00:00:00"
   title: 'Embedded Analytics Part 1: A New Era in Competitive Advantage for Software
     Makers'
   url: http://www.tibco.com/blog/2017/02/20/embedded-analytics-part-1-a-new-era-in-competitive-advantage-for-software-makers/
   domain: www.tibco.com
+  image: ""
+- curated_id: 4747af1cb97479600ab2467c31f1063c
+  item_date: "2017-02-20 00:00:00"
+  title: Big Data Analytics, The Key To Personalization
+  url: http://www.cxotoday.com/story/big-data-analytics-personalized-customer-service/
+  domain: www.cxotoday.com
   image: ""
 - curated_id: 6a423a1951f8a186c852809381c2a0d5
   item_date: "2017-02-20 22:05:49"
@@ -3953,6 +3953,12 @@
   url: https://medium.com/m/global-identity
   domain: medium.com
   image: ""
+- curated_id: Wd7ucjMuRKxmxbg2fKlN3nqN116iXZRGcriSPYeVl766dJfX4Tl8Jp4ZXtOUChQOEOO116gmx4P123eaVHxIb12313XyLg117117
+  item_date: "2017-03-01 00:00:00"
+  title: Designing APIs With RAML
+  url: https://dzone.com/articles/designing-api-with-raml
+  domain: dzone.com
+  image: ""
 - curated_id: 71f66b1ff542e8d4229dc469de39d035
   item_date: "2017-03-01 00:00:00"
   title: Realtime Analytics For Everyone
@@ -3964,12 +3970,6 @@
   title: Tracking Gmail Reply Data with Keen IO and IFTTT
   url: http://keenio.tumblr.com/post/157866599556/tracking-gmail-reply-data-with-keen-io-and-ifttt#_=_
   domain: keenio.tumblr.com
-  image: ""
-- curated_id: Wd7ucjMuRKxmxbg2fKlN3nqN116iXZRGcriSPYeVl766dJfX4Tl8Jp4ZXtOUChQOEOO116gmx4P123eaVHxIb12313XyLg117117
-  item_date: "2017-03-01 00:00:00"
-  title: Designing APIs With RAML
-  url: https://dzone.com/articles/designing-api-with-raml
-  domain: dzone.com
   image: ""
 - curated_id: 44b9e0e79d8362d374204f358f644f66
   item_date: "2017-03-02 00:00:00"
@@ -3989,17 +3989,17 @@
   url: http://flowingdata.com/2017/03/03/prophet/
   domain: flowingdata.com
   image: ""
-- curated_id: 3b88fc665dbaba02ae50bb415e7d49a3
-  item_date: "2017-03-03 00:00:00"
-  title: Likes  Followers Analytics Pro for Instagram
-  url: http://www.catchapp.net/item/detail/1207706624
-  domain: www.catchapp.net
-  image: ""
 - curated_id: dyyMtYbkqi123qDnr3i123FFna0pVX4r116PGFipsoECkxbFsR83BmjeDOJf123H0FCd45otLgnyJ1Pkk1H7maSg116hqofw117117
   item_date: "2017-03-03 00:00:00"
   title: Arent 301s 302s and Canonicals All Basically the Same
   url: https://moz.com/blog/arent-301s-302s-canonicals-all-basically-the-same-whiteboard-friday
   domain: moz.com
+  image: ""
+- curated_id: 3b88fc665dbaba02ae50bb415e7d49a3
+  item_date: "2017-03-03 00:00:00"
+  title: Likes  Followers Analytics Pro for Instagram
+  url: http://www.catchapp.net/item/detail/1207706624
+  domain: www.catchapp.net
   image: ""
 - curated_id: 27f2223a7d6cafe36e78714fe1c3badf
   item_date: "2017-03-03 13:37:58"
@@ -4034,18 +4034,18 @@
   url: https://ctovision.com/update-apache-spot-tremendous-advancement-cybersecurity-data-analytics-event-management-capabilities/
   domain: ctovision.com
   image: ""
+- curated_id: 35cd6d4beb1c58fb6ccdf8b8fe7baf2a
+  item_date: "2017-03-06 00:00:00"
+  title: Metrics and Tracking for Data Systems
+  url: https://www.indix.com/blog/developer/metrics-and-tracking-for-data-systems/
+  domain: www.indix.com
+  image: ""
 - curated_id: 62b08b9e7d784b21ffa5b73b4865509a
   item_date: "2017-03-06 00:00:00"
   title: Text And Geospatial Analytics Bring Growth And Innovation To Business Intelligence
     And Analytics Tools
   url: http://blogs.forrester.com/jennifer_adams/17-03-06-text_and_geospatial_analytics_bring_growth_and_innovation_to_business_intelligence_and_analytics_to
   domain: blogs.forrester.com
-  image: ""
-- curated_id: 35cd6d4beb1c58fb6ccdf8b8fe7baf2a
-  item_date: "2017-03-06 00:00:00"
-  title: Metrics and Tracking for Data Systems
-  url: https://www.indix.com/blog/developer/metrics-and-tracking-for-data-systems/
-  domain: www.indix.com
   image: ""
 - curated_id: 4f389f06565e07ba2c9dd38f3d6b519b
   item_date: "2017-03-07 00:00:00"
@@ -4065,17 +4065,17 @@
   url: https://tyk.io/2017/03/06/api-management-events-webhooks-microservices/
   domain: tyk.io
   image: ""
-- curated_id: IXNnXpt4KbvV7SYgrhePZLdBLnGWsSIw1JJu123ivKjBlyRQBaG6hc1S8pVpOYZIBA8Dubiho7oDZE4wIMwmfOWg117117
-  item_date: "2017-03-08 00:00:00"
-  title: Two Forgotten Aspects to an API Design First Approach
-  url: https://medium.com/m/global-identity
-  domain: medium.com
-  image: ""
 - curated_id: y7aIobXwBSysxDKTD7AyDx1ueYEqJlj4qY3riZMtIE3g1Y9klS4fguFLYyBUdsKFPW10oamsMlPPVwhaC116gEOw117117
   item_date: "2017-03-08 00:00:00"
   title: 4 Ways Your API Is Not Quite What I Want
   url: https://zapier.com/engineering/api-pet-peeves/
   domain: zapier.com
+  image: ""
+- curated_id: IXNnXpt4KbvV7SYgrhePZLdBLnGWsSIw1JJu123ivKjBlyRQBaG6hc1S8pVpOYZIBA8Dubiho7oDZE4wIMwmfOWg117117
+  item_date: "2017-03-08 00:00:00"
+  title: Two Forgotten Aspects to an API Design First Approach
+  url: https://medium.com/m/global-identity
+  domain: medium.com
   image: ""
 - curated_id: q1Nq1168Bcxhx3GzO5iZjXpvvGQiI1dZu7Jz6TNpVb1JutCa673BNVWfZoU116r3Yxl2OvB6MyFoO0VXYYOz116f1116Vg117117
   item_date: "2017-03-08 10:12:12"
@@ -4089,17 +4089,17 @@
   url: https://blog.qmo.io/ultimate-guide-to-api-design/
   domain: blog.qmo.io
   image: ""
-- curated_id: c2e31f734d5c3abc988dbd90b4040d9c
-  item_date: "2017-03-09 00:00:00"
-  title: Google adds new data analytics and database offerings
-  url: http://www.zdnet.com/article/google-adds-new-data-analytics-and-database-offerings/
-  domain: www.zdnet.com
-  image: ""
 - curated_id: en123nOEMnP1yuhXVU1eZHpxUGPdoNFGTMajLnxcLqllMuvdEfCORBEuaEgei0s5ljNnaq116SD20wgnuzgHeE2fYg117117
   item_date: "2017-03-09 00:00:00"
   title: Is GraphQL The End of REST Style APIs
   url: http://nordicapis.com/is-graphql-the-end-of-rest-style-apis/
   domain: nordicapis.com
+  image: ""
+- curated_id: c2e31f734d5c3abc988dbd90b4040d9c
+  item_date: "2017-03-09 00:00:00"
+  title: Google adds new data analytics and database offerings
+  url: http://www.zdnet.com/article/google-adds-new-data-analytics-and-database-offerings/
+  domain: www.zdnet.com
   image: ""
 - curated_id: 35a162a6bbd18bc3f8a2a22794699a64
   item_date: "2017-03-15 00:00:00"
@@ -4205,17 +4205,17 @@
   url: http://philcalcado.com/2017/03/02/microservices_vs_1st_law_distributed_objects.html
   domain: philcalcado.com
   image: ""
-- curated_id: 0fa782fa7cead010438c5f51d4db3803
-  item_date: "2017-04-06 00:00:00"
-  title: New Google Drive metrics now accessible from Reports API
-  url: https://gsuite-developers.googleblog.com/2017/04/new-google-drive-metrics-now-accessible.html
-  domain: gsuite-developers.googleblog.com
-  image: ""
 - curated_id: F2sRe5sAYf8iOdOvOjM3Z3A9lkQexTLJ3Cggk7Xg1I7vV123oRSpsXryFoEwPXInoGw5P116KTLlLaQmElGtrvI9jA117117
   item_date: "2017-04-06 00:00:00"
   title: ALM Rest API posting design steps
   url: https://community.hpe.com/t5/Quality-Center-ALM-Practitioners/ALM-Rest-API-posting-design-steps/td-p/6954521
   domain: community.hpe.com
+  image: ""
+- curated_id: 0fa782fa7cead010438c5f51d4db3803
+  item_date: "2017-04-06 00:00:00"
+  title: New Google Drive metrics now accessible from Reports API
+  url: https://gsuite-developers.googleblog.com/2017/04/new-google-drive-metrics-now-accessible.html
+  domain: gsuite-developers.googleblog.com
   image: ""
 - curated_id: ra123rE6JGtLbZE116mul3tLsTQFjCHNDsE1Q123dcJ0RTKliJS0W1LNl5l1164z9OaeEqReVxx1dhNoUWyk4isg4k6S123A117117
   item_date: "2017-04-07 00:00:00"
@@ -4261,12 +4261,6 @@
   url: https://opencontent.org/blog/archives/4959
   domain: opencontent.org
   image: ""
-- curated_id: rLk1167zKcM5ZqN0JvIulYhpCouEXRLnhFGpOhDP116Z4Ly7123YKtyUEyFCBwt5hK3lHLP116pqBmZFULBoMSPYnykb116w117117
-  item_date: "2017-04-19 00:00:00"
-  title: Building an API  lessons learned the hard way part 2
-  url: https://medium.com/m/global-identity
-  domain: medium.com
-  image: ""
 - curated_id: mJ0CPNAifOOEAU1cqfL2rphranV116iVSuNYLHwswTTPE123N0wAqJJLduNcHS2UhpXSr21GKERyXRKwyBfswqRT9Q117117
   item_date: "2017-04-19 00:00:00"
   title: Microservices APIs and Swagger How They Fit Together
@@ -4285,11 +4279,11 @@
   url: http://www.ryft.com/api
   domain: www.ryft.com
   image: ""
-- curated_id: 21DFk7fxErnKg2QXLJL9U5gBMqhi7JGlBaiVt2IROkM0bUfdSmCKWZ14TBzmBrwqreUi9NKBqDjbzBss8NuMLA117117
-  item_date: "2017-04-20 00:00:00"
-  title: Is Protobuf 5x Faster Than JSON Part 2
-  url: https://dzone.com/articles/is-protobuf-5x-faster-than-json-part-ii
-  domain: dzone.com
+- curated_id: rLk1167zKcM5ZqN0JvIulYhpCouEXRLnhFGpOhDP116Z4Ly7123YKtyUEyFCBwt5hK3lHLP116pqBmZFULBoMSPYnykb116w117117
+  item_date: "2017-04-19 00:00:00"
+  title: Building an API  lessons learned the hard way part 2
+  url: https://medium.com/m/global-identity
+  domain: medium.com
   image: ""
 - curated_id: d5ceee1a0db1da0a410533530d909320
   item_date: "2017-04-20 00:00:00"
@@ -4297,6 +4291,12 @@
     campaigns'
   url: http://blog.netvibes.com/blog/expanded-twitter-analytics-measure-the-success-of-your-social-outreach-campaigns/
   domain: blog.netvibes.com
+  image: ""
+- curated_id: 21DFk7fxErnKg2QXLJL9U5gBMqhi7JGlBaiVt2IROkM0bUfdSmCKWZ14TBzmBrwqreUi9NKBqDjbzBss8NuMLA117117
+  item_date: "2017-04-20 00:00:00"
+  title: Is Protobuf 5x Faster Than JSON Part 2
+  url: https://dzone.com/articles/is-protobuf-5x-faster-than-json-part-ii
+  domain: dzone.com
   image: ""
 - curated_id: ea1f3ba2f6f58e29ae6ff20e164eb438
   item_date: "2017-04-20 00:00:00"
@@ -4322,6 +4322,13 @@
   url: https://gsuite-developers.googleblog.com/2017/04/using-field-masks-with-update-requests.html
   domain: gsuite-developers.googleblog.com
   image: ""
+- curated_id: dfa9fa717e162c56d228acf568422fb1
+  item_date: "2017-04-25 00:00:00"
+  title: "Amazon Inspector Update \u2013 Assessment Reporting, Proxy Support, and
+    More"
+  url: https://aws.amazon.com/blogs/aws/amazon-inspector-update-assessment-reporting-proxy-support-and-more/
+  domain: aws.amazon.com
+  image: ""
 - curated_id: qPMVyOTH8Dpv116AoQ0Vr7UejhQzqbE1165z6W123JNmrJA9U6vf8lHbVdJJbG8slWosbw5i1232123aILigQniCLcxHKreA117117
   item_date: "2017-04-25 00:00:00"
   title: Introducing ProtocolOriented BDD in Swift for iOS Apps Part 1
@@ -4333,13 +4340,6 @@
   title: tetpyclient 1.0
   url: https://pypi.python.org/pypi/tetpyclient
   domain: pypi.python.org
-  image: ""
-- curated_id: dfa9fa717e162c56d228acf568422fb1
-  item_date: "2017-04-25 00:00:00"
-  title: "Amazon Inspector Update \u2013 Assessment Reporting, Proxy Support, and
-    More"
-  url: https://aws.amazon.com/blogs/aws/amazon-inspector-update-assessment-reporting-proxy-support-and-more/
-  domain: aws.amazon.com
   image: ""
 - curated_id: tPdy123UwPhTwr1U123Og3IOSAINYRJsUllPTxqZkeN14QIWjARsjYGotesb1d0T8YmQUdxJ4Pz116c7IIyoii116YsiuA117117
   item_date: "2017-04-25 00:00:00"
@@ -4396,17 +4396,17 @@
   url: https://dzone.com/articles/resource-centric-api-calls-switching-up-the-cloud
   domain: dzone.com
   image: ""
-- curated_id: m1163m116H6J123jVjP2ICFSmbaZNHbwmiCvRgl1236FDBuFIC9wZrEfhbJXweWOSA8oi6d4sc1XrtbR9JwYc8WXeRXS8w117117
-  item_date: "2017-05-01 00:00:00"
-  title: API Mediation Why You Need an API Experience Layer
-  url: http://nordicapis.com/api-mediation-why-you-need-api-experience-layer/
-  domain: nordicapis.com
-  image: ""
 - curated_id: 3bd64941fde563fed3627bc37d4dfa5d
   item_date: "2017-05-01 00:00:00"
   title: '2017 Big Data 100: 40 Coolest Business Analytics Vendors'
   url: http://www.crn.com/slide-shows/applications-os/300084691/2017-big-data-100-40-coolest-business-analytics-vendors.htm
   domain: www.crn.com
+  image: ""
+- curated_id: m1163m116H6J123jVjP2ICFSmbaZNHbwmiCvRgl1236FDBuFIC9wZrEfhbJXweWOSA8oi6d4sc1XrtbR9JwYc8WXeRXS8w117117
+  item_date: "2017-05-01 00:00:00"
+  title: API Mediation Why You Need an API Experience Layer
+  url: http://nordicapis.com/api-mediation-why-you-need-api-experience-layer/
+  domain: nordicapis.com
   image: ""
 - curated_id: 911025eb0a8642dfe91e3642798a631e
   item_date: "2017-05-01 08:22:00"
@@ -4439,12 +4439,6 @@
   url: https://www.programmableweb.com/news/building-builders-stripes-8-tips-designing-apis-and-supporting-developers/analysis/2017/05/04
   domain: www.programmableweb.com
   image: ""
-- curated_id: 49e39d89a361ed19d8ce1cfd2af16cf6
-  item_date: "2017-05-05 00:00:00"
-  title: Meet The Brand New DNS Analytics Dashboard
-  url: https://blog.cloudflare.com/dns-analytics/
-  domain: blog.cloudflare.com
-  image: ""
 - curated_id: 8NbSo6116bEVV5Alxvk0gW123VlIAeQrBNtWytu2MIrvnW0JLMuee116QUvAocbiSqkU7fLs3yXVyE3F0z8SPtlN8SKQ117117
   item_date: "2017-05-05 00:00:00"
   title: Yelp Adds GraphQL Support to Fusion API Introduces Developer Beta Program
@@ -4456,6 +4450,12 @@
   title: 'Big Data Pitfalls: What Your Approach to Analytics Is Missing'
   url: https://dzone.com/articles/big-data-pitfalls-what-your-approach-to-analytics
   domain: dzone.com
+  image: ""
+- curated_id: 49e39d89a361ed19d8ce1cfd2af16cf6
+  item_date: "2017-05-05 00:00:00"
+  title: Meet The Brand New DNS Analytics Dashboard
+  url: https://blog.cloudflare.com/dns-analytics/
+  domain: blog.cloudflare.com
   image: ""
 - curated_id: f053419ab4d449c8ca393e6adf6cb745
   item_date: "2017-05-05 14:59:07"
@@ -4501,17 +4501,17 @@
   url: https://twitter.com/Runscope/statuses/862368949639446528
   domain: twitter.com
   image: ""
-- curated_id: b9c3c7054a566d6f9505db46020600ae
-  item_date: "2017-05-11 00:00:00"
-  title: 'Google Tag Manager: Announcing Centralized Google Analytics Settings'
-  url: http://feedproxy.google.com/~r/blogspot/tRaA/~3/tL0z9FyRmLg/google-tag-manager-announcing_10.html
-  domain: feedproxy.google.com
-  image: ""
 - curated_id: 3a466bcdb6d58c0969874d14f9d11fdb
   item_date: "2017-05-11 00:00:00"
   title: Predictive Analytics from Process Control Data
   url: http://blog.opto22.com/optoblog/predictive-analytics-from-process-control-data
   domain: blog.opto22.com
+  image: ""
+- curated_id: b9c3c7054a566d6f9505db46020600ae
+  item_date: "2017-05-11 00:00:00"
+  title: 'Google Tag Manager: Announcing Centralized Google Analytics Settings'
+  url: http://feedproxy.google.com/~r/blogspot/tRaA/~3/tL0z9FyRmLg/google-tag-manager-announcing_10.html
+  domain: feedproxy.google.com
   image: ""
 - curated_id: YwTjCnEeIqxj44sdnT7JFQW42L9DNW4VSirj5QJk0qw=_15c125788ae:64a716:2ab7028
   item_date: "2017-05-16 10:30:52"
@@ -4789,13 +4789,13 @@
 - curated_id: 3m7naasDS/RxVUoWLkYKmFMN7GRrsAxiKZEg8/pYJWo=_15cd4093ca0:1aec6ef:517b1451
   item_date: "2017-06-23 00:30:46"
   title: Demystifying Intelligence Analysis
-  url: https://www.threatconnect.com/?post_type=post&amp;p=17460
+  url: https://www.threatconnect.com/?post_type=post&p=17460
   domain: www.threatconnect.com
   image: ""
 - curated_id: 3m7naasDS/RxVUoWLkYKmFMN7GRrsAxiKZEg8/pYJWo=_15cd4093ca0:1aec6ef:517b1451
   item_date: "2017-06-23 00:30:46"
   title: Demystifying Intelligence Analysis
-  url: https://www.threatconnect.com/?post_type=post&p=17460
+  url: https://www.threatconnect.com/?post_type=post&amp;p=17460
   domain: www.threatconnect.com
   image: ""
 - curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15cd433997d:1b45930:517b1451
@@ -5113,5 +5113,150 @@
   title: When Not to Trust a Number
   url: https://socrata.com/blog/when-not-to-trust-a-number/
   domain: socrata.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_1602dd2dd69:dbde1f:9e976e77
+  item_date: "2017-12-06 13:54:38"
+  title: "Review of Countly \u2014 Open Source Analytics Platform"
+  url: https://medium.com/p/76b7d3c5730e
+  domain: medium.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_1604c158268:2e0f7b1:7157a206
+  item_date: "2017-12-12 10:49:34"
+  title: Data visualization for analysis and understanding complex problems
+  url: http://flowingdata.com/?p=50481
+  domain: flowingdata.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1604c2173f6:2e9d36a:541f3c40
+  item_date: "2017-12-12 11:01:01"
+  title: Ensuring Data Analytics Provide Superior Results
+  url: https://dzone.com/articles/1894366
+  domain: dzone.com
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_16050a1c46c:35d8b6a:7157a206
+  item_date: "2017-12-13 08:05:26"
+  title: Micro Focus Embeds Analytics in Archiving Service to Improve Compliance
+  url: https://www.itbusinessedge.com/blogs/it-unmasked/micro-focus-embeds-analytics-in-archiving-service-to-improve-compliance.html
+  domain: www.itbusinessedge.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_160690459dc:a4df0:93434a1d
+  item_date: "2017-12-17 21:58:44"
+  title: APInf Analytics REST API design & review done
+  url: https://medium.com/p/aa327cce0b24
+  domain: medium.com
+  image: ""
+- curated_id: 9QOGTVP+u4vwJNHB7SlLr9mbA0Mmqrsw3WZp2GL3orY=_16099780770:294e3a3:3c0bb656
+  item_date: "2017-12-27 11:10:17"
+  title: Frontline Systems Enhances SDK for High
+  url: http://www.dbta.com/Editorial/News-Flashes/Frontline-Systems-Enhances-SDK-for-High-Performance-Predictive-Analytics-122409.aspx
+  domain: www.dbta.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_160ca087106:738f7f:b64595cf
+  item_date: "2018-01-05 16:21:03"
+  title: Useful Links for Digging Too Deeply Into Google Analytics
+  url: https://medium.com/p/87a8bbda15af
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_160db8daa46:4f3ec5:3c0bb656
+  item_date: "2018-01-09 07:01:39"
+  title: Large
+  url: https://dzone.com/articles/1957716
+  domain: dzone.com
+  image: ""
+- curated_id: pJGm905BokLVZr/Pl24sMpd19eFuxZ/tV9dx1EzrkgY=_160e066c144:dae353:541f3c40
+  item_date: "2018-01-10 06:00:51"
+  title: 'Getting connected projects right: The IoT metrics that matter'
+  url: https://sdtimes.com/?p=28802
+  domain: sdtimes.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_160e11ad664:f05e12:541f3c40
+  item_date: "2018-01-10 09:20:16"
+  title: 'Now Available: The New Relic Infrastructure StatsD Integration'
+  url: http://blog.newrelic.com/?p=41002
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_160eabe3b5a:3e7fd1:4ab9390
+  item_date: "2018-01-11 22:19:58"
+  title: A Vision for Unlocking the Value of Historical Analytics
+  url: https://medium.com/p/4fcf11c3503e
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_1616cdaf1da:332158:e66afc8b
+  item_date: "2018-02-06 06:57:01"
+  title: 'API PRODUCT MANAGEMENT KPIS FOR API PRODUCT MANAGERS: PART 1'
+  url: https://medium.com/p/15dede3f3d1b
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_161ae7e382a:939ece8:7157a206
+  item_date: "2018-02-19 06:01:01"
+  title: Node.js RESTful API to Create Interactive Charts
+  url: https://dzone.com/articles/2057053
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_161d199141c:c94b8ca:541f3c40
+  item_date: "2018-02-26 02:01:03"
+  title: Moving Your Data From MongoDB to AWS Redshift for Analytical Processing
+  url: https://dzone.com/articles/2076427
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_161d199141c:c94b8cc:541f3c40
+  item_date: "2018-02-26 02:01:04"
+  title: Data Analytics Made Easier With Elasticsearch
+  url: https://dzone.com/articles/2074999
+  domain: dzone.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_1620bf71362:4bd6c3:76251cdd
+  item_date: "2018-03-09 08:23:04"
+  title: The Quickest Way To Have Real
+  url: https://medium.com/p/f7f9a11d9ea2
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_1622b6ceeb5:c811dc:76251cdd
+  item_date: "2018-03-15 09:26:00"
+  title: A Cheat Sheet for Mastering Google Analytics API Requests
+  url: https://medium.com/p/39d36e0f3a4a
+  domain: medium.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_162646e8ffa:5d11014:34f43e70
+  item_date: "2018-03-22 07:37:30"
+  title: Empowering Learners, Instructors, and Managers with Role
+  url: https://www.yetanalytics.com/empowering-learners-instructors-and-managers-with-role-specific-xapi-data-dashboards
+  domain: www.yetanalytics.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1626c1aa867:67f2659:7d6c1c1c
+  item_date: "2018-03-28 02:02:14"
+  title: 'Event Analytics: How to Define User Sessions With SQL'
+  url: https://dzone.com/articles/2135359
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16273c926d1:762f7da:9f3b30f2
+  item_date: "2018-03-29 14:39:17"
+  title: Introduction to DevOps Analytics
+  url: https://dzone.com/refcardz/2142590
+  domain: dzone.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_1627478254d:d241c3:bdf8aaf1
+  item_date: "2018-03-29 18:14:11"
+  title: A Simple and Scalable Analytics Pipeline
+  url: https://medium.com/p/53720b1dbd35
+  domain: medium.com
+  image: ""
+- curated_id: JautIPPkjriavsgWQ1Y6GTCV9xw4aqT1iWn47Afa0ms=_1628152ae82:86f0d7d:9f3b30f2
+  item_date: "2018-04-01 06:02:20"
+  title: "Introducing Data Brick\u2122: The Building Block of DataBricks\u2019 Unified
+    Analytics Platform"
+  url: https://databricks.com/?p=24817
+  domain: databricks.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1629a711363:145e05:9aea0a7d
+  item_date: "2018-04-06 02:02:06"
+  title: Beginner's Guide to Data and Analytics
+  url: https://dzone.com/articles/2152219
+  domain: dzone.com
+  image: ""
+- curated_id: 3m7naasDS/RxVUoWLkYKmFMN7GRrsAxiKZEg8/pYJWo=_162bafdf4a8:f91cb7:7d6c1c1c
+  item_date: "2018-04-12 10:36:10"
+  title: The Power and Responsibility of Customer Data and Analytics
+  url: https://www.threatconnect.com/?post_type=post&p=19833
+  domain: www.threatconnect.com
   image: ""
 ...
