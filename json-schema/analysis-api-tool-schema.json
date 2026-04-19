@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/analysis/refs/heads/main/json-schema/analysis-api-tool-schema.json",
+  "title": "APIAnalysisTool",
+  "description": "Schema representing an API analysis, analytics, or monitoring tool",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Tool name",
+      "example": "Spectral"
+    },
+    "description": {
+      "type": "string",
+      "description": "Tool description"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "linting",
+        "traffic_analysis",
+        "security",
+        "analytics",
+        "monitoring",
+        "apm",
+        "governance"
+      ],
+      "description": "Tool category"
+    },
+    "license": {
+      "type": "string",
+      "enum": [
+        "open_source",
+        "commercial",
+        "freemium"
+      ],
+      "description": "License model"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Tool website URL"
+    },
+    "github": {
+      "type": "string",
+      "format": "uri",
+      "description": "GitHub repository URL"
+    },
+    "api": {
+      "type": "boolean",
+      "description": "Whether the tool exposes an API"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Classification tags"
+    }
+  }
+}

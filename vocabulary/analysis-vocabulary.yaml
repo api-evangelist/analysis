@@ -1,0 +1,142 @@
+vocabulary: 1.0.0
+info:
+  provider: API Evangelist
+  topic: Analysis
+  description: Taxonomy of API analysis tools, categories, and concepts.
+  created: '2026-04-19'
+  modified: '2026-04-19'
+categories:
+- name: API Linting
+  description: Static analysis tools for validating OpenAPI/AsyncAPI specs against rules and standards
+  examples:
+  - Spectral
+  - Vacuum
+  - Redocly
+  - Optic
+- name: Traffic Analysis
+  description: Tools for capturing, inspecting, and replaying HTTP/API traffic
+  examples:
+  - Wireshark
+  - mitmproxy
+  - Charles Proxy
+  - GoReplay
+  - Fiddler
+- name: API Security Analysis
+  description: Tools for discovering, testing, and protecting APIs against security threats
+  examples:
+  - 42Crunch
+  - Salt Security
+  - Noname Security
+  - Traceable
+  - Wallarm
+  - Cequence
+- name: Product Analytics
+  description: Platforms for tracking user behavior and product usage via APIs
+  examples:
+  - Amplitude
+  - Mixpanel
+  - PostHog
+  - Heap
+  - Plausible
+  - Matomo
+- name: API Monitoring
+  description: Real-time monitoring and alerting for API performance and availability
+  examples:
+  - Datadog
+  - New Relic
+  - Dynatrace
+  - AppDynamics
+  - Moesif
+- name: Observability
+  description: Distributed tracing, logging, and metrics for API systems
+  examples:
+  - Grafana
+  - Prometheus
+  - Honeycomb
+  - Lightstep
+  - Elastic
+  - Sumo Logic
+  - Splunk
+- name: API Intelligence
+  description: AI-assisted API analysis and business intelligence from API data
+  examples:
+  - APIToolkit
+  - Treblle
+  - Resurface
+  - Speedscale
+  - Knowi
+concepts:
+- term: API Linting
+  definition: Static analysis of API specifications against configurable rule sets.
+- term: Traffic Capture
+  definition: Intercepting HTTP/API traffic for inspection and analysis.
+- term: API Contract Testing
+  definition: Verifying that API implementations match their specifications.
+- term: Distributed Tracing
+  definition: Tracking requests across multiple services in a distributed system.
+- term: API Security Posture
+  definition: Comprehensive assessment of API vulnerabilities and attack surface.
+- term: Event Analytics
+  definition: Tracking and analyzing user events and behaviors via API.
+- term: API Observability
+  definition: Ability to understand internal API state from external outputs.
+- term: Traffic Replay
+  definition: Re-running captured API traffic for testing and load simulation.
+networkMembers:
+- 42Crunch
+- Akamai API Security
+- Akita Software
+- Amplitude
+- API Dynamics
+- APIClarity
+- APIMatic
+- APIToolkit
+- AppDynamics
+- Cequence
+- Charles Proxy
+- Datadog
+- Datadog APM
+- Dynatrace
+- Elastic
+- Fiddler
+- GoReplay
+- Grafana
+- Grafana Tempo
+- Heap
+- Honeycomb
+- Hoppscotch
+- Keen
+- Knowi
+- Lightstep
+- Lunar.dev
+- Matomo
+- Metabase
+- Middleware
+- mitmproxy
+- Mixpanel
+- Moesif
+- New Relic
+- Noname Security
+- OpenPanel
+- OpenReplay
+- Optic
+- Plausible
+- PostHog
+- Prometheus
+- ReadMe Metrics
+- Redocly
+- Resurface
+- Salt Security
+- Segment
+- Snowplow
+- Spectral
+- Speedscale
+- Splunk
+- Sumo Logic
+- Swetrix
+- Traceable
+- Treblle
+- Umami
+- Vacuum
+- Wallarm
+- Wireshark

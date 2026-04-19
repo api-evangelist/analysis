@@ -1,0 +1,35 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "analysis": "https://apievangelist.com/schema/analysis/",
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "APIAnalysisTool": "analysis:APIAnalysisTool",
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": {
+      "@id": "schema:url",
+      "@type": "@id"
+    },
+    "github": {
+      "@id": "analysis:github",
+      "@type": "@id"
+    },
+    "category": {
+      "@id": "analysis:category",
+      "@type": "xsd:string"
+    },
+    "license": {
+      "@id": "analysis:license",
+      "@type": "xsd:string"
+    },
+    "api": {
+      "@id": "analysis:api",
+      "@type": "xsd:boolean"
+    },
+    "tags": {
+      "@id": "analysis:tags",
+      "@container": "@set"
+    }
+  }
+}
