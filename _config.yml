@@ -1,0 +1,22 @@
+title: Analysis
+description: A curated index of services, tooling, and open source solutions for API
+  analysis, analytics, linting, traffic inspection, and intelligence. This topic collection
+  covers the full spectrum of API observability — from real-time traffic capture and
+  replay (Wireshark, mitmproxy, Charles Proxy, GoReplay) to product analytics (Amplitude,
+  Mixpanel, PostHog, Plausible), API monitoring and APM (Datadog, New Relic, Dynatrace,
+  AppDynamics), API security analysis (42Crunch, Salt Security, Noname Security, Traceable),
+  and linting and governance (Spectral, Redocly, Vacuum, Optic).
+url: https://analysis.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
