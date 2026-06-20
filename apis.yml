@@ -5,7 +5,7 @@ description: >-
   — from real-time traffic capture and replay (Wireshark, mitmproxy, Charles Proxy, GoReplay) to product analytics (Amplitude, Mixpanel, PostHog, Plausible), API monitoring and APM (Datadog, New Relic,
   Dynatrace, AppDynamics), API security analysis (42Crunch, Salt Security, Noname Security, Traceable), and linting and governance (Spectral, Redocly, Vacuum, Optic).
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
 - API Analysis
 - API Governance
