@@ -1,7 +1,7 @@
 ---
-title: 'Analytics on APIs.io: Two Sources, Side by Side'
-link: https://apis.io/2026/06/15/analytics-on-apis-io-two-sources-side-by-side/
-published: '2026-06-15'
+title: A Look Inside the APIs.io Analytics Page
+link: https://apis.io/2026/07/01/a-look-inside-the-apis-io-analytics-page/
+published: '2026-07-01'
 provider: apis-io
 repo: https://github.com/api-evangelist/apis-io
 domain: apis.io
